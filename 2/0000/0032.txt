@@ -1,0 +1,37 @@
+OPTIONEN
+TEXT-TEMPO
+ANIMATION
+KAMPFSTIL
+TON
+TEXTMODUS
+RADIO
+ＩＲ-SICHERUNG
+O.K.
+ZURUECK
+1
+2
+3
+AN
+AUS
+TAUSCH
+FOLGE
+STEREO
+MONO
+ひらがな
+かんじ
+オン
+オフ
+かく
+かかない
+Waehle zwischen drei verschiedenen\xfffeTextgeschwindigkeiten.
+Waehle, ob in den Kaempfen Animationen für\xfffedie Attacken angezeigt werden sollen.
+Waehle zwischen zwei verschiedenen\xfffeKampfstilen.
+Waehle, wie das\xfffeSpiel klingen soll.
+もじの　ひょうじを\xfffeきりかえることが　できます
+いつも　むせんで　つうしんするか\xfffeオン／オフが　えらべます
+Ｃギアの　せきがいせんつうしん　まえに\xfffeレポートを　かくかどうか　えらべます
+べつの　レポートが　かかれているので\xfffeへんこう　できません\xf000븁\x0000
+Aenderungen vornehmen？
+JA
+NEIN
+ダミーメッセージ
