@@ -1,3 +1,3 @@
-データを　よめませんでした\xfffeでんげんを　きって\xfffeカードを　さしこみなおしてください
-データを　かけませんでした\xfffe\xfffeでんげんを　きって\xfffeカードを　さしこみなおしてください
-データを　かけませんでした\xfffe\xfffeバックアップきのうの　こしょう\xfffeまたは　じゅみょうが　きました\xfffeセーブすることは　できませんが\xfffeゲームを　あそぶことはできます\xfffe\xfffeでんげんを　きってください
+Auf die Speicherdaten konnte nicht\xfffezugegriffen werden.\xfffe\xfffeBitte schalte das System aus,\xfffeentferne die erweiterte Nintendo\xfffeDSi-Karte und stecke sie dann\xfffeerneut ein.
+Daten konnten nicht geschrieben\xfffewerden.\xfffe\xfffeBitte schalte das System aus,\xfffeentferne die erweiterte Nintendo\xfffeDSi-Karte und stecke sie dann\xfffeerneut ein.
+Fehler beim Speichern der Daten.\xfffe\xfffeFehler im Backup. Das Spiel kann\xfffegespielt, aber nicht gespeichert\xfffewerden.\xfffe\xfffeBitte schalte das System aus.
