@@ -1,4 +1,4 @@
-むかいとう
+Keine Verbindung zum Server
 Schwarz２
 Weiß２
 Mann
@@ -7,11 +7,11 @@ gegen
 Tausch
 とかい
 Landschaft
-あたまがいい
+intelligent
 うんどうできる
 Zeit
 Geld
-がいけん
+Aussehen
 なかみ
 cool
 niedlich
@@ -19,8 +19,8 @@ niedlich
 Floink
 Ottaro
 Serpifeu
-Wettbeberb
-きょうりょく
+Wettbewerb
+stark
 ー
 かこにいく
 みらいにいく
@@ -28,9 +28,9 @@ Wettbeberb
 かぞく
 Familie
 Freunde
-かっこいいひと
-かしこいひと
-おもしろいひと
+schick
+klug
+schön
 ふしぎなひと
 ゆめをおう
 Reality-Show
@@ -71,7 +71,7 @@ Jazz
 おわらい
 スポーツ
 アニメ
-アクション
+Action
 SF
 れんあい
 サスペンス
