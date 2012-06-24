@@ -3,24 +3,24 @@ Schwarz２
 Weiß２
 Mann
 Frau
-gegen
+Kampf
 Tausch
-とかい
-Landschaft
+Stadt
+Land
 intelligent
-うんどうできる
+athletisch
 Zeit
 Geld
 Aussehen
 なかみ
 cool
 niedlich
-へんな
+merkwürdig
 Floink
 Ottaro
 Serpifeu
-Wettbewerb
-stark
+Strand
+ein Fluss
 ー
 かこにいく
 みらいにいく
@@ -57,29 +57,29 @@ Pokémon
 １０ー１５ねん
 １５ねんー
 そとであそぶ
-かいもの
-どくしょ
-ゲーム
-ねてる
+Einkaufen
+Lesen
+Videospiele
+Langschläfer
 Pop
 Rock
 Jazz
-ラップ
-クラシック
-ニュース
-ドラマ
-おわらい
-スポーツ
-アニメ
+Rap
+Klassik
+Nachrichten
+Drama
+Komödie
+Sport
+Zeichentrickfilme
 Action
-SF
-れんあい
-サスペンス
+Science Fiction
+Romanzen
+Thriller
 Komödie
 Horror
 Action
 Puzzle
-ＲＰＧ
+RPG
 Abenteuer
 Simulation
 Sport
@@ -87,35 +87,35 @@ arbeiten
 ひとづきあい
 Hobby
 けんこう
-えらくなる
-ー
+Weiss
+Schwarz
 うんどう
-どくしょ
-おんがく
-えいが
-りょこう
-りょうり
-つり
-ゲーム
-がくせい
+Lesen
+Musik
+Filme
+Reisen
+Kochen
+Angeln
+Videospiele
+Schüler
 サラリーマン
 クリエーター
-じえいぎょう
-こうむいん
-しゅふ
-げいじゅつか
-フリーター
-チェレン
-ホミカ
-アーティ
-カミツレ
-ヤーコン
-フウロ
-シャガ
-シズイ
-ー
-ー
-ー
+Selbstständiger
+Beamter
+Hausfrau
+Künstler
+Job-Hopper
+Maik
+Benny
+Colin
+Aloe
+Artie
+Kamilla
+Turner
+Géraldine
+Sandro
+Iris
+Lysander
 Normal
 Feuer
 Wasser
@@ -133,14 +133,14 @@ Geist
 Drache
 Unlicht
 Stahl
-０ー１０じかん
-１０ー２０じかん
-２０ー３０じかん
-３０ー４０じかん
-４０ー５０じかん
-５０ー６０じかん
-６０ー７０じかん
-７０ー８０じかん
-８０ー９０じかん
-９０ー１００じかん
-１００じかんー
+0 - 10 Stunden
+10 - 20 Stunden
+20 - 30 Stunden
+30 - 40 Stunden
+40 - 50 Stunden
+50 - 60 Stunden
+60 - 70 Stunden
+70 - 80 Stunden
+80 - 90 Stunden
+90 - 100 Stunden
+100+ Stunden
