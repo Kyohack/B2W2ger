@@ -1,76 +1,76 @@
-Keine Verbindung zum Server
-Schwarz２
-Weiß２
-Mann
-Frau
-Kampf
-Tausch
-Stadt
-Land
-intelligent
-athletisch
+K. Antwort
+Schwarz2
+Weiss2
+Maennlich
+Weiblich
+Kaempfen
+Tauschen
+In der Stadt
+Auf dem Land
+Koepfchen
+Fitness
 Zeit
 Geld
 Aussehen
-なかみ
-cool
-niedlich
-merkwürdig
+Innere Werte
+Coole
+Niedliche
+Wundersame
 Floink
 Ottaro
 Serpifeu
-Strand
-ein Fluss
-ー
-かこにいく
-みらいにいく
-ひつようない
+Ans Meer
+An den Fluss
+In die Berge
+Unterricht
+Pausen
+Pausenbrot
 かぞく
 Familie
-Freunde
-schick
-klug
-schön
-ふしぎなひと
-ゆめをおう
-Reality-Show
-ー
-ー
-lustig
-cool
-leicht
-reich
-Kampf
-sammeln
-sprechen
-Pokémon
-そらをとぶ
-とうめいになる
-じかんをとめる
-こころをよむ
-つかう
-ためる
-じまんする
-きふする
-０ー５ねん
-５ー１０ねん
-１０ー１５ねん
-１５ねんー
-そとであそぶ
+Ich selbst
+Fruehling
+Sommer
+Herbst
+Winter
+Suesse
+Scharfe
+Saure
+Bittere
+Witzige
+Coole
+Nette
+Reiche
+Die Kaempfe
+Das Sammeln
+Die Story
+Die Pokémon
+Deutsch
+Mathematik
+Biologie
+Sozialkunde
+Deutsch
+Mathematik
+Biologie
+Sozialkunde
+Trainer
+Professor
+Bei T. Plasma
+Ein Pokémon
+Herumtollen
 Einkaufen
 Lesen
-Videospiele
-Langschläfer
+Gaming
+Schlafen
 Pop
 Rock
 Jazz
 Rap
 Klassik
 Nachrichten
-Drama
-Komödie
+Serien
+Comedy
 Sport
-Zeichentrickfilme
+Zeichentrick
 Action
 Science Fiction
 Romanzen
@@ -84,9 +84,9 @@ Abenteuer
 Simulation
 Sport
 arbeiten
-ひとづきあい
+Gruen
 Hobby
-けんこう
+Gelb
 Weiss
 Schwarz
 うんどう
@@ -98,8 +98,8 @@ Kochen
 Angeln
 Videospiele
 Schüler
-サラリーマン
-クリエーター
+Angestellter
+Kreativer
 Selbstständiger
 Beamter
 Hausfrau
