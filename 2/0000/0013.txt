@@ -4,66 +4,66 @@
 せいかく
 とくせい
 \xf000ċ\x0001\x0000
-ボックス１
-ボックス２
-ボックス３
-ボックス４
-ボックス５
-ボックス６
-ボックス７
-ボックス８
-ボックス９
-ボックス１０
-ボックス１１
-ボックス１２
-ボックス１３
-ボックス１４
-ボックス１５
-ボックス１６
-ボックス１７
-ボックス１８
-ボックス１９
-ボックス２０
-ボックス２１
-ボックス２２
-ボックス２３
-ボックス２４
+BOX 1
+BOX 2
+BOX 3
+BOX 4
+BOX 5
+BOX 6
+BOX 7
+BOX 8
+BOX 9
+BOX 10
+BOX 11
+BOX 12
+BOX 13
+BOX 14
+BOX 15
+BOX 16
+BOX 17
+BOX 18
+BOX 19
+BOX 20
+BOX 21
+BOX 22
+BOX 23
+BOX 24
 \xf000ȁ\x0001\x0000
-ジャンプする
-かべがみ
-なまえ
-やめる
-ふうけい１
-ふうけい２
-ふうけい３
-エトセトラ
+Boxensprung
+Motiv
+Name
+Zurück
+Hintergründe１
+Hintergründe２
+Hintergründe３
+Sonstige
 だいすき１
 だいすき２
-もり
-シティ
-さばく
-サバンナ
-いわやま
-かざん
-ゆきやま
-どうくつ
-うみべ
-かいてい
-かわ
-そら
-ポケセン
-きんぞく
-チェック
-シンプル
-スペシャル
-モノクロ
-プラズマだん
+Wald
+Mauer
+Wüste
+Steppe
+Geröll
+Vulkan
+Schnee
+Höhle
+Strand
+Tiefsee
+Fluss
+Himmel
+Poké-Center
+Metall
+Kariert
+Weiss
+Spezialmotive
+SchwarzWeiss
+Team Plasma
 ポケウッド
 ＰＷＴ
-キュレム１
-キュレム２
-レシラム
-ゼクロム
+Kyurem１
+Kyurem２
+Reshiram
+Zekrom
 もどる
 まえへ
 つぎへ
@@ -72,15 +72,15 @@
 バトルボックス
 ボックスをきりかえる
 もちものせいり
-ようすをみる
-もちもの
-マーキング
-にがす
-つれていく
-あずける
-やめる
-いどうする
-いどうする
+Bericht
+Item
+Markieren
+Freilassen
+Mitnehmen
+Ablegen
+Zurück
+Bewegen
+Bewegen
 ねかせる
 けってい
 やめる
@@ -200,6 +200,6 @@
 ー
 ♂
 ♀
-せいべつなし
-もっている
-もっていない
+Wesen
+Fähigkeit
+Item
