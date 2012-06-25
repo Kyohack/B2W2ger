@@ -5,7 +5,7 @@ Maennlich
 Weiblich
 Kaempfen
 Tauschen
-In der Stadt
+Stadt
 Auf dem Land
 Koepfchen
 Fitness
@@ -15,7 +15,7 @@ Aussehen
 Innere Werte
 Coole
 Niedliche
-Wundersame
+seltsam
 Floink
 Ottaro
 Serpifeu
