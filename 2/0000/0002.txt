@@ -6,7 +6,7 @@
 \xf000Ă\x0001\x0000
 Waehle ein Pokémon.
 Welches Pokémon?
-
+どれと　いれかえる
 Mit welchem Pokémon kaempfen?
 Welches Pokémon wechseln?
 L\xf000Ȃ\x0001\x0000
