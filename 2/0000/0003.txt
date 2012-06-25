@@ -1,61 +1,61 @@
-Willst du den letzten Kampf speichern\xfffeas dein Kampf Video?
+Moechtest du den letzten Kampf\xfffeals dein Kampfvideo speichern?
 Ja
 Nein
-Der letzte Kampf wird nicht gespeichert.\xfffeOK?
+Der Verlauf dieses Kampfes geht\xfffedamit verloren. Einverstanden?
 Ja
 Nein
-Ist es ok dein vorhandenes Kampf Video\xfffe zu überschreiben?
+Die Daten deines letzten Kampfvideos\xfffewerden ueberschrieben. Einverstanden?
 Ja
 Nein
-Speichert dein Video...\xfffeSchalte nicht aus.
-Das Video wurde gespeichert.
-Es gab einen Fehler.\xfffeDas Video konnte nicht gespeichert werden.
-Warten auf die Entscheidung deines Freundes...\xfffeBitte warten.
-Du kannst keine Videos\xfffemit diesem Trainer speichern... Bitte warten.
-Du kannst keine Videos mit diesem Trainer aufnehmen.
-Der letzte Kampf konnte nicht aufgenommen werden.
-Zeitbegrenzung:
+Das Kampfvideo wird gespeichert.\xfffeBitte das System nicht ausschalten.
+Das Kampfvideo wurde gespeichert.
+Ein Fehler ist aufgetreten. Das Kampf-\xfffevideo konnte nicht gespeichert werden.
+Dein Freund waehlt noch aus.\xfffeBitte warte einen Moment.
+Mit diesem Partner kann kein Kampfvideo\xfffeaufgezeichnet werden. Bitte warte...
+Mit diesem Partner kann kein Kampfvideo\xfffeaufgezeichnet werden.
+Dieser Kampf kann nicht aufgezeichnet\xfffewerden.
+ZEIT
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
 \xf000ȁ\x0001\x0001
-VORHERIGE AUFNAHMEN
-Kolosseum Einzel,\xfffeKeine Einschränkungen
-Kolosseum Einzel,\xfffeErniedrigt
-Kolosseum Einzel,\xfffeKeine Einschränkungen, Launcher An
-Kolosseum Einzel,\xfffeErniedrigt, Launcher An
-Kolosseum Doppel,\xfffeKeine Einschränkungen
-Kolosseum Doppel,\xfffeErniedrigt
-Kolosseum Doppel,\xfffeKeine Einschränkungen, Launcher An
-Kolosseum Doppel,\xfffeErniedrigt, Launcher An
-Kolosseum Dreier,\xfffeKeine Einschränkungen
-Kolosseum Dreier,\xfffeErniedrigt
-Kolosseum Dreier,\xfffeKeine Einschränkungen, Launcher An
-Kolosseum Dreier,\xfffeErniedrigt, Launcher An
-Kolosseum Reihum,\xfffeKeine Einschränkungen
-Kolosseum Reihum,\xfffeErniedrigt
-Kolosseum Reihum,\xfffeKeine Einschränkungen, Launcher An
-Kolosseum Reihum,\xfffeErniedrigt, Launcher An
-Kolosseum Multi,\xfffeKeine Einschränkungen
-Kolosseum Multi,\xfffeErniedrigt
-Kolosseum Multi,\xfffeKeine Einschränkungen, Launcher An
-Kolosseum Multi,\xfffeErniedrigt, Launcher An
-Kampfmetro,\xfffeEinzel
-Kampfmetro,\xfffeDoppel
-Kampfmetro,\xfffeMulti
-Zufälliges Match, Offen\xfffeEinzel
-Zufälliges Match, Offen\xfffeDoppel
-Zufälliges Match, Offen\xfffeDreier
-Zufälliges Match, Offen\xfffeReihum
-Zufälliges Match, Offen\xfffeLauncher Kampf
-Zufälliges Match, Bewertung\xfffeEinzel
-Zufälliges Match, Bewertung\xfffeDoppel
-Zufälliges Match, Bewertung\xfffeDreier
-Zufälliges Match, Bewertung\xfffeReihum
-Zufälliges Match, Bewertung\xfffeLauncher Kampf
-たいかい　シングル\xfffeシューターなし
-たいかい　シングル\xfffeシューターあり
-たいかい　ダブル\xfffeシューターなし
-たいかい　ダブル\xfffeシューターあり
-たいかい　トリプル\xfffeシューターなし
-たいかい　トリプル\xfffeシューターあり
-たいかい　ローテーション\xfffeシューターなし
-たいかい　ローテーション\xfffeシューターあり
+ALTES VIDEO
+Kolosseum, Einzel\xfffeKeine Einschraenkungen
+Kolosseum, Einzel\xfffeHandicapkampf
+Kolosseum, Einzel\xfffeKeine Einschraenkungen, mit Werfer
+Kolosseum, Einzel\xfffeHandicapkampf mit Werfer
+Kolosseum, Doppel\xfffeKeine Einschraenkungen
+Kolosseum, Doppel\xfffeHandicapkampf
+Kolosseum, Doppel\xfffeKeine Einschraenkungen, mit Werfer
+Kolosseum, Doppel\xfffeHandicapkampf mit Werfer
+Kolosseum, Dreierkampf\xfffeKeine Einschraenkungen
+Kolosseum, Dreierkampf\xfffeHandicapkampf
+Kolosseum, Dreierkampf\xfffeKeine Einschraenkungen, mit Werfer
+Kolosseum, Dreierkampf\xfffeHandicapkampf mit Werfer
+Kolosseum, Reihum\xfffeKeine Einschraenkungen
+Kolosseum, Reihum\xfffeHandicapkampf
+Kolosseum, Reihum\xfffeKeine Einschraenkungen, mit Werfer
+Kolosseum, Reihum\xfffeHandicapkampf mit Werfer
+Kolosseum, Multi\xfffeKeine Einschraenkungen
+Kolosseum, Multi\xfffeHandicapkampf
+Kolosseum, Multi\xfffeKeine Einschraenkungen, mit Werfer
+Kolosseum, Multi\xfffeHandicapkampf mit Werfer
+Kampfmetro\xfffeEinzel
+Kampfmetro\xfffeDoppel
+Kampfmetro\xfffeMulti
+Zufallsmatch (Frei),\xfffeEinzel
+Zufallsmatch (Frei),\xfffeDoppel
+Zufallsmatch (Frei),\xfffeDreierkampf
+Zufallsmatch (Frei),\xfffeReihum
+Zufallsmatch (Frei),\xfffeWerferkampf
+Zufallsmatch (Bewertet),\xfffeEinzel
+Zufallsmatch (Bewertet),\xfffeDoppel
+Zufallsmatch (Bewertet),\xfffeDreierkampf
+Zufallsmatch (Bewertet),\xfffeReihum
+Zufallsmatch (Bewertet),\xfffeWerferkampf
+Turnier, Einzel\xfffeOhne Werfer
+Turnier, Einzel\xfffeMit Werfer
+Turnier, Doppel\xfffeOhne Werfer
+Turnier, Doppel\xfffeMit Werfer
+Turnier, Dreierkampf\xfffeOhne Werfer
+Turnier, Dreierkampf\xfffeMit Werfer
+Turnier, Reihum\xfffeOhne Werfer
+Turnier, Reihum\xfffeMit Werfer
