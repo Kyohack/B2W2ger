@@ -5,16 +5,16 @@ REGISTRIEREN
 タグをみる
 けってい
 おりる
-もどる
-やめる
+ZURUECKGEHEN
+ABBRECHEN
 みせる
 ダミー
-キャンセル
+RUECKGAENGIG
 もちもの
-メール
+POST
 あずかる
 あずける
-みる
+ANSCHAUEN
 なし
 かいじょ
 ？？？
@@ -143,11 +143,11 @@ REGISTRIEREN
 おおいじゅんに\xfffeもちものを　せいり　しました！
 すくないじゅんに\xfffeもちものを　せいり　しました！
 ぜんぶ
-フリースペースへ
+Spezialfach
 もとのポケットへ
 さがしたい　しゅるいを\xfffeえらんで　ください
 \xf000Ē\x0001\x0000に　いれる　もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
-\xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　いどう　しました！
+\xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000wurde verschoben！
 \xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　もどしました！
 どの　ならびに　かえますか？
 しゅるいじゅん
