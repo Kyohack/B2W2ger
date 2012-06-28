@@ -3,19 +3,19 @@ MUELL
 REGISTRIEREN
 もたせる
 タグをみる
-けってい
-おりる
-ZURUECKGEHEN
-ABBRECHEN
+WEITER
+RENNEN
+ZURÜCK
+SCHLIEßEN
 みせる
 ダミー
 RUECKGAENGIG
-もちもの
-POST
-あずかる
-あずける
+TASCHE
+MAIL
+NEHMEN
+GEBEN
 ANSCHAUEN
-なし
+Nichts
 かいじょ
 ？？？
 ？？？？？
@@ -33,49 +33,49 @@ ANSCHAUEN
 ＩＤＮｏ
 　
 カーソル
-まえに　もどります！
-なにを　しますか？
-あげる
+Geh zurück!
+Was nun?
+Geben
 \xf000Ȃ\x0001\x0000
 ×
-のみ
+Trank
 \xf000ȃ\x0001\x0000まい
-とじる
+Schließen
 \xf000ĉ\x0001\x0000を　どうしますか？
-ここで　メールを\xfffeかくことは　できません！
-ポケモンが　いませんよ！
+Du kannst hier nicht schreiben\xfffeMail hier！
+Dort ist kein Pokemon！
 \xf000ĉ\x0001\x0000を　いどうさせます
 \xf000ĉ\x0001\x0000を\xfffeもたせることは　できません！
 ここでは　\xf000ĉ\x0001\x0000を\xfffeもたせることは　できません！
 \xf000ĉ\x0001\x0000を\xfffeいくつ　あずけますか？
 \xf000ĉ\x0001\x0000を\xfffe\xf000ȁ\x0001\x0001コ　あずけました
-これいじょう　あずけられません！
-これは　たいせつなもの　なので\xfffeすてることが　できません！
-\xf000ĉ\x0001\x0000を　いくつ　すてますか？
-\xf000ĉ\x0001\x0000を\xfffe\xf000Ȃ\x0001\x0001コ　すてました
-\xf000ĉ\x0001\x0000を\xfffe\xf000Ȃ\x0001\x0001コ　すてても　よろしいですか？
-アララギの　ことば……\xfffe\xf000Ā\x0001\x0000！　こういう　ものには\xf000븀\x0000\xfffeつかいどきが　あるのよ
-ここでは　おりられない！
-アララギの　ことば……\xfffe\xf000Ā\x0001\x0000！　こういう　ものには\xf000븀\x0000\xfffeつかいどきが　あるのよ
-あなたの　コイン　\xf000Ȅ\x0001\x0000まい
-わざマシンを　きどうした！
-ひでんマシンを　きどうした！
-なかには　\xf000ć\x0001\x0000が\xfffeきろく　されていた！\xf000븁\x0000\xfffe\xf000ć\x0001\x0000を\xfffeポケモンに　おぼえさせますか？
+Du kannst nicht mehr lagern！
+Das ist ein wichtiges Item\xfffedu kannst es nicht wegwerfen！
+Wieviele möchtest du \xfffe\xf000ĉ\x0001\x0000(s) wegwerfen?
+Werfe \xf000ĉ\x0001\x0000を \xf000Ȃ\x0001\x0001(s) weg.
+Ist es in Ordnung, dass\xfffe\xf000ĉ\x0001\x0000を \xf000Ȃ\x0001\x0001(s) weggeworfen wird?
+Professor Araragi sagt immer \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000\dies ist weder der\xffferechte Ort noch die Rechte Zeit dafür!
+Du kannst hier nicht vom Fahrrad absteigen！
+Professor Araragi sagt immer \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000\dies ist weder der\xffferechte Ort noch die Rechte Zeit dafür!
+Du hast　\xf000Ȅ\x0001\x0000 Münzen.
+Ein TM wurde aktiviert！
+Ein VM wurde aktiviert！
+Möchtest du \xf000ć\x0001\x0000.\xf000븁\x0000Teach \xf000ć\x0001\x0000\xfffeeinem Pokemon beibringen?
 \xf000Ā\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　つかった！
 まだ　まえに　つかった\xfffeスプレーの　こうかが　のこってます！
 \xf000Ā\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　つかった！\xf000븁\x0000\xfffeポケモンと\xfffeそうぐう　しやすくなった！
 \xf000Ā\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　つかった！\xf000븁\x0000\xfffeポケモンと\xfffeそうぐう　しにくくなった！
-ボックスが　いっぱい　です！
-こなの　りょう　\xf000ȃ\x0001\x0000
+Die Box ist Voll！
+Puder:　\xf000ȃ\x0001\x0000
 \xf000봂\x0000Ｎｏ．\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
 Ｎｏ\xf000Ȃ\x0001\x0000\xf000ć\x0001\x0001
 \xf000봂\x0000ひでん\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
-きのみのこな
-ポケモンのふえを　ふいた！\xfffeうーん！　すばらしい　ねいろだ！
-ポケモンのふえを　ふいた！
-ふえのねを　きいた\xfffeポケモンは　めを　さました
-いどう
-\xf000ĉ\x0001\x0000を\xfffeかいとることは　できません
+Beeren Puder
+Spielt auf der Poke-Flöte！\xfffeWOW! Das hört sich gut an！
+Spielt auf der Poke-Flöte！
+Das Pokemon hörte die\xfffeFlöte udn wachte auf.
+Bewegen
+Du kannst \xf000ĉ\x0001\x0000 ncith kaufen.
 \xf000ĉ\x0001\x0000を\xfffeいくつ　うりますか？
 それなら　\xf000Ȇ\x0001\x0000円で\xfffeおひきとり　いたしましょう
 \xf000ĉ\x0001\x0000を　わたして\xfffe\xf000Ȇ\x0001\x0001円を　うけとった
