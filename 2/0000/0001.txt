@@ -5,7 +5,7 @@ HEILMITTEL
 KP-/AP-
 ERHOLUNG
 KAMPFITEMS
-BAELLE
+BÄLLE
 Zuletzt verwendetes Item
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
@@ -24,7 +24,7 @@ KP-/AP-
 ERHOLUNG
 STATUS-
 HEILMITTEL
-BAELLE
+BÄLLE
 KAMPFITEMS
 ／
 \xf000Ȁ\x0001\x0000
@@ -50,4 +50,4 @@ Das wird nichts! Man kann auf ein\xfffenicht sichtbares Pokémon nicht zielen.
 Du verfügst nicht über genügend Energie.
 Prof. Esche sagt immer:„Dies ist weder der\xffferechte Ort, noch die rechte Zeit dafür!“
 Wenn du dich nicht auf eine Sache\xfffekonzentrierst, triffst du dein Ziel nie!
-Du kannst den Ball nicht benutzen, \xfffeda G-Cis Gerät eingesetzt wurde!
+Du kannst den Ball nicht benutzen, \xfffeda G-Cis' Gerät eingesetzt wurde!
