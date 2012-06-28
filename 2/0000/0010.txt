@@ -1,21 +1,21 @@
-なまえ
-しごと
-しゅみ
-プレイじかん
-\xf000ļ\x0001\x0000
-\xf000ļ\x0001\x0000
-\xf000봃\x0001\x0000\xf000Ȃ\x0001\x0002:\xf000ȁ\x0001\x0003
-しゅっしん
+NAME:
+BERUF:
+HOBBY:
+SPIELZEIT:
+\xf000Ĩ\x0001\x0000
+\xf000Ĩ\x0001\x0000
+\xf000Ȃ\x0001\x0002:\xf000ȁ\x0001\x0003
+WOHNORT:
 \xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
-おれいをうけた　かいすう\xfffeすれちがった　にんずう
-\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000かい\xfffe\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0001にん
+Dankesmitteilungen:\xfffeBegegnungen im Vorbeigehen:
+\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000\xfffe\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0001
 \xf000Ȅ\x0001\x0001にん
 \xf000Ȃ\x0001\x0002:\xf000ȁ\x0001\x0003
-すれちがったじかん　ＡＭ\xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001
-すれちがったじかん　ＰＭ\xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001
-やせいの　\xf000ā\x0001\x0000と\xfffeせんとうちゅう　です
-とくべつな　ポケモンと\xfffeせんとうちゅう　です
-\xf000Ď\x0001\x0000の　\xf000Ā\x0001\x0001と\xfffeたいせんちゅう　です
-ジムリーダーと\xfffeたいせんちゅう　です
-とくべつな　トレーナーと\xfffeたいせんちゅう　です
-\xf000ą\x0001\x0000を\xfffeいどうちゅう　です
+Zeitpunkt der Begegnung: \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001 Uhr
+Zeitpunkt der Begegnung: \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001 Uhr
+Im Kampf gegen ein wildes \xf000ā\x0001\x0000\xfffeverwickelt.
+Im Kampf gegen ein besonderes\xfffePokémon verwickelt.
+Im Kampf gegen \xf000Ď\x0001\x0000\xfffe\xf000Ā\x0001\x0001 verwickelt.
+Im Kampf gegen einen\xfffeArenaleiter verwickelt.
+Im Kampf gegen einen\xfffebesonderen Trainer verwickelt.
+Aufenthaltsort: \xf000ą\x0001\x0000
