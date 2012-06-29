@@ -1,20 +1,20 @@
-どうも！\xfffe\xf000Ĝ\x0001\x0000　です
-はじめまして！\xfffe\xf000Ĝ\x0001\x0000　だいすき　です！
-\xf000Ĝ\x0001\x0000　は\xfffeすき　ですか？
-おえかき　しようよ！\xfffe\xf000Ĝ\x0001\x0000　を　かきたいな
-たいせん　しようよ！\xfffe\xf000Ĝ\x0001\x0000　で　たたかうよ！
-\xf000Ĝ\x0001\x0000　トレーナー　です\xfffeたいせん　してください！
-おしゃべり　しようよ！\xfffe\xf000Ĝ\x0001\x0000　はなしが　いいな
-こうかん　してください！\xfffe\xf000Ĝ\x0001\x0000　が　ほしい！
-こうかん　してください！\xfffe\xf000Ĝ\x0001\x0000　を　あげます！
-\xf000Ĝ\x0001\x0000　こうかん　しよう\xfffeヒントは　\xf000Ĝ\x0001\x0001　！
-いっしょに\xfffe\xf000Ĝ\x0001\x0000　しませんか？
-\xf000Ĝ\x0001\x0000　を　\xfffeしたい　ひと　いる？
-\xf000Ĝ\x0001\x0000　と\xfffe\xf000Ĝ\x0001\x0001　したい！
-\xf000Ĝ\x0001\x0000　で\xfffe\xf000Ĝ\x0001\x0001　へ　いこう！
-オーケー　です！
-\xf000Ĝ\x0001\x0000\xfffeわかりました！
-\xf000Ĝ\x0001\x0000\xfffeちょっと　まってね
-\xf000Ĝ\x0001\x0000　は\xfffeしたく　ないです……
-ありがとう！\xfffeまた　\xf000Ĝ\x0001\x0000　しようね！
-さようなら！\xfffe\xf000Ĝ\x0001\x0000
+Tag! Ich bin \xf000Ĝ\x0001\x0000!
+Freut mich, dich kennenzulernen!\xfffeIch liebe \xf000Ĝ\x0001\x0000!
+Magst du \xf000Ĝ\x0001\x0000?
+Lass uns was zeichnen! Ich möchte\xfffe\xf000Ĝ\x0001\x0000 zeichnen!
+Lass uns kämpfen! Ich möchte gern\xfffemit \xf000Ĝ\x0001\x0000 kämpfen!
+Ich bin ein \xf000Ĝ\x0001\x0000-Trainer!\xfffeBitte, tritt gegen mich an!
+Lass uns etwas plaudern! Ich gebe\xfffedas Thema vor: \xf000Ĝ\x0001\x0000!
+Bitte tausch mit mir!\xfffeIch möchte \xf000Ĝ\x0001\x0000 haben!
+Oh, bitte tausch mit mir!\xfffeIch biete \xf000Ĝ\x0001\x0000!
+Ich will den \xf000Ĝ\x0001\x0000-Tausch!\xfffeEin Hinweis: \xf000Ĝ\x0001\x0001!
+Wärst du für \xf000Ĝ\x0001\x0000\xfffezu haben?
+Hat jemand Lust auf\xfffe\xf000Ĝ\x0001\x0000?
+Ich habe Lust auf \xf000Ĝ\x0001\x0000\xfffemit \xf000Ĝ\x0001\x0001!
+Lass uns mittels \xf000Ĝ\x0001\x0000\xfffenach \xf000Ĝ\x0001\x0001 gehen!
+Einverstanden!
+\xf000Ĝ\x0001\x0000!\xfffeIn Ordnung!
+\xf000Ĝ\x0001\x0000...\xfffeHm, warte mal kurz.
+Ich habe keine Lust auf\xfffe\xf000Ĝ\x0001\x0000.
+Vielen Dank! Für \xf000Ĝ\x0001\x0000\xfffehabe ich immer Zeit!
+Auf Wiedersehen!\xfffe\xf000Ĝ\x0001\x0000!Tag! Ich bin \xf000Ĝ\x0001\x0000!
