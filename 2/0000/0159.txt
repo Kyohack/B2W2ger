@@ -25,4 +25,4 @@ Bitte wähle aus welches\xfffeWort du ersetzen möchtest.
 GRUPPEN MODUS:\xfffeBitte wähle ein Satz oder ein Wort\xfffeaus der Gruppe.
 ABC MODUS:\xfffeBitte wähle einen Buchstaben\xfffeum deine Suche einzuschränken.
 ABC MODUS:\xfffeBitte wähle ein Wort\xfffevon der eingeschränkten Liste.
-GRUPPEN MODUS:\xfffeBitte wähle eine Gruppe von Wörtern\xfffeoder Sätze die dahin passen.
+GRUPPEN MODUS:\xfffeBitte wähle eine Gruppe von Wörtern\xfffeoder Sätze, die dahin passen.
