@@ -1,9 +1,9 @@
-たいりょく
-こうげき
-ぼうぎょ
-すばやさ
-とくこう
-とくぼう
-めいちゅうりつ
-かいひりつ
-さいだいＨＰ
+Kraftpunkte
+Angriff
+Vert.
+Initiative
+Sp.-Ang.
+Sp.-Ver.
+Genauigkeit
+Fluchtwert
+Max. KP
