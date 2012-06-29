@@ -22,7 +22,6 @@ da es uns allen nur um die möglichst baldige Veröffentlichung des deutschen Pa
 ist diese Information essenziell für euch.
 
 Pass Power= Transferfähigkeiten
-
 Pass Power kommt aus BW1eng und bedeutet Transferfähigkeiten. Das wird in der Kontaktebene benutzt. 
 
 WICHTIG:
@@ -30,15 +29,15 @@ Wenn es Leute gibt, die nicht mit solchen Wörtern zurechtkommen, bitte ich dies
 z.B. in Google oder Pokewiki.de ggf. in bulbapedia bzw. -garden
 
 Buchstaben wie ä, ö, ü können bei den Übersetzungen benutzt werden
-
 Neue Arenaleiter und Städte in B2W2ger haben einen deutschen offiziellen Namen bekommen. Passt das bitte an. Zu finden sind die Namen
 wie immer unter pokewiki.de
-
 Schaut auch in B2W2eng nach, falls ihr das nicht macht (was ich nicht hoffe)
-
 Falls jemand ZU OFT Google Translator o.ä. benutzt, absichtlich etwas umschreibt, offensichtliche Fehler macht, wird
 automatisch ausgeschlossen. d.h. Pull requests werden nicht akzeptiert.
 
-Viel Spass beim übersetzen
+Anleitung für Neue:
+folgt...
+
+Viel Spass beim Übersetzen
 
 PS: Achtet auf Rechtschreibung. Im Gegensatz zu Kyohack sehe ich(Thechandrians) eure Fehler...
