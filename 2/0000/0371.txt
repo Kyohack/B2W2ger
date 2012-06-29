@@ -1,16 +1,16 @@
-つづきから　はじめる
-さいしょから　はじめる
-ふしぎな　おくりもの
-Ｗｉ－Ｆｉせってい
-バトルたいかい
-ゲームシンクせってい
-てんそうマシンを　つかう
-マイクテスト
-イッシュリンク
-しゅじんこう
-プレイじかん　\xf000Ȃ\x0001\x0000：\xf000ȁ\x0001\x0001
-ずかん　\xf000Ȃ\x0001\x0000ひき
-バッジ　\xf000ȁ\x0001\x0000こ
+WEITER
+NEUES SPIEL
+GEHEIMGESCHEHEN
+EINSTELLUNGEN DER NINTENDO WFC
+KAMPFTURNIERE
+EINST. DER SPIELSYNCHROFUNKT.
+TRANSFERANLAGE
+MIKRO PRÜFEN
+EINALL-LINK
+HELD
+Zeit: \xf000Ȃ\x0001\x0000：\xf000ȁ\x0001\x0001
+Pokédex: \xf000Ȃ\x0001\x0000ひき
+Orden: \xf000ȁ\x0001\x0000こ
 \xf000Ā\x0001\x0000
 \xf000Ȃ\x0001\x0000：\xf000ȁ\x0001\x0001
 \xf000Ȃ\x0001\x0000ひき
@@ -20,30 +20,30 @@
 キーシステムせってい
 アシストモード
 チャレンジモード
-ホワイトフォレスト
-ブラックシティ
-いわやまのま
-くろがねのま
-ひょうざんのま
+WEISSER WALD
+SCHWARZE STADT
+GESTEIN
+STAHL
+EIS
 ほんたいの　せっていにより\xfffeむせんつうしんが　つかえません\xf000븁\x0000\xfffeむせんつうしんを　つかうには\xfffeほんたいせっていの　むせんつうしんを\xf000븀\x0000\xfffeオンにしてください　（５０６９９）
 ペアレンタルコントロールの\xfffeつうしんせいげん
 イッシュリンクの　キーシステム　で\xfffeモードへんこうの　キーが\xf000븀\x0000\xfffeそうしん　できるように　なりました\xf000븁\x0000
-ちゅうい！
-つうしんを　はじめると\xfffeこのゲームを　さいだいげん　たのしめます\xfffeつねに　つうしんを　おこないますので\xfffeひこうきや　びょういんなど\xfffeむせんつうしんが　きんしの　ばしょでは\xfffeつうしんを　せつだんしてください\xfffeゲームちゅうの　Ｃギアがめんでも\xfffeへんこう　することが　できます
-ちゅうい！
-べつの　レポートが　かかれています\xfffeこれから　はじめる　ぼうけんは\xfffeとちゅうで　レポートを\xfffeかくことが　できません！\xfffeそれでも　はじめますか？
-Ａボタン　ぼうけんを　はじめる
-Ｂボタン　やめる
-つうしんを　はじめますか？
-Ｃギアの　きのうが\xfffeせいげんされますが　よろしいですか？
-レポートの　ないようが\xfffeきえてしまった！
-きえて　しまった　バトルビデオの\xfffeきろくが　あります！
-Ｃギアの　スキンデータが\xfffeきえてしまった！
-とくべつな　バトルけんていの\xfffeデータが　きえてしまった！
-ミュージカルの　えんもくデータが\xfffeきえてしまった！
-ずかんの　スキンデータが\xfffeきえてしまった！
-でんどういりポケモンの\xfffeきろくが　きえてしまった！
-ふしぎな　おくりものの\xfffeきろくが　きえてしまった！
+Achtung!
+Du kannst das Spiel nur komplett genißen, wenn du\xfffedu die Wirelesseinstellungen anstellst.\xfffeWo es nicht erlaubt ist Wifi zu benutzen,\xfffean Orten wie Flugplätzen oder\xfffeKrankenhäuser mach bitte das Wifi\xfffedes DS aus.\xfffeDu kannst diese Einstellungen auch\xfffewährend dem Spiel über den C-Gear ändern.
+Achtung!
+Es gibt schon eine \xfffeSpeicherdatei. Wenn du jetzt ein Abenteuer startest,\xfffekannst du es nicht speichern.\xfffeBist du dir sicher, dass du immernoch starten willst?
+A Button: Abenteuer beginnen
+B Button: Zurück zum Menü
+C-Gear kommunikation starten?
+Einige Funktionen des C-Gears\xfffewerden beschränkt. Ist das OK?
+Die Speicherdatei wird gelöscht,\xfffeweil sie kaputt oder beschädigt ist.
+Ein Kampfviedo wird\xfffegelöscht.
+Diverse Daten des C-Gears\xfffewurden gelöscht.
+Spezielle Daten für den Testkampf\xfffewurden gelöscht.
+Die Musiktheater Daten \xfffewurden gelöscht.
+Diverse Daten für den Pokédex\xfffewurden gelöscht.
+Diene Ruhmeshallen Daten \xfffewurden gelöscht.
+Deine Geheimgeschehen \xfffewurden gelöscht.
 きえてしまった　ポケウッドの\xfffeきろくが　あります！
 キーシステムと　おもいでリンクの\xfffeきろくが　きえてしまった！
 きえて　しまった　ＰＷＴの\xfffeきろくが　あります！
