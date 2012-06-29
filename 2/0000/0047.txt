@@ -1,21 +1,21 @@
 \xf000Ā\x0001\x0000
-ＩＤ\xf000Ȅ\x0001\x0000
-メンバーが　そろったら\xfffeＡボタン：すすむ　Ｂボタン：やめる
-この　メンバーで　よろしいですか？
-ぐるぐるこうかんを\xfffeちゅうし　しますか？
-それでは　ぐるぐるこうかんを\xfffeちゅうし　します
-つごうが　わるくなってしまった\xfffeメンバーが　います
-メンバーが　いなくなりました\xfffeぐるぐるこうかんを　ちゅうし　します
-そのまま　おまちください\xfffeＢボタン：やめる
-つごうのつかない　メンバーがいたので\xfffeぐるぐるこうかんを　ちゅうし　します
-ぐるぐるこうかんを　やめますか？
-それでは　ぐるぐるこうかんを\xfffeちゅうし　します
+ID: \xf000Ȅ\x0001\x0000
+Wenn die Spieler bereit sind...\xfffeA-Knopf: Bestätigen   B-Knopf: Abbruch
+Ist diese Gruppe in Ordnung?
+Den Reihumtausch abbrechen?
+Der Reihumtausch wird abgebrochen.
+Ein Mitglied ist ausgeschieden.
+Es sind keine Mitglieder anwesend.\xfffeDer Reihumtausch wird abgebrochen.
+Bitte warten...\xfffeB-Knopf: Abbrechen
+Ein Mitglied ist ausgeschieden.\xfffeDer Reihumtausch wird abgebrochen.
+Den Reihumtausch abbrechen?
+Der Reihumtausch wird abgebrochen.
 レコードを　まぜています\xfffeでんげんを　きらないで　ください！
-ぐるぐるこうかんが　おわりました！\xfffeユニオンルームへ　いどうします
-リーダーが　やめると　かいさんに\xfffeなりますが　よろしいですか？
-\xf000Ā\x0001\x0000さんが　かえりました
-リーダーの　\xf000Ă\x0001\x0000さんが\xfffeぬけたので　かいさん　します
-ぐるぐるこうかん　ぼしゅうちゅう！
-ぐるぐるこうかんちゅう！
-はい
-いいえ
+Reihumtausch beendet.\xfffeKehre zum Konnex-Klub zurück.
+Wenn der Leiter ausscheidet, wird\xfffedie Gruppe aufgelöst. Einverstanden?
+\xf000Ā\x0001\x0000 ist gegangen.
+\xf000Ā\x0001\x0000 (Leiter) ist gegangen.\xfffeDie Gruppe wird aufgelöst.
+Suche Freunde zum Reihumtausch!
+Der Reihumtausch läuft!
+Ja
+Nein
