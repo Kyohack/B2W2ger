@@ -32,8 +32,8 @@ Achtung!
 Du kannst das Spiel nur komplett genißen, wenn du\xfffedu die Wirelesseinstellungen anstellst.\xfffeWo es nicht erlaubt ist Wifi zu benutzen,\xfffean Orten wie Flugplätzen oder\xfffeKrankenhäuser mach bitte das Wifi\xfffedes DS aus.\xfffeDu kannst diese Einstellungen auch\xfffewährend dem Spiel über den C-Gear ändern.
 Achtung!
 Es gibt schon eine \xfffeSpeicherdatei. Wenn du jetzt ein Abenteuer startest,\xfffekannst du es nicht speichern.\xfffeBist du dir sicher, dass du immernoch starten willst?
-A Button: Abenteuer beginnen
-B Button: Zurück zum Menü
+A-Knopf: Abenteuer beginnen
+B-Knopf: Zurück zum Menü
 C-Gear kommunikation starten?
 Einige Funktionen des C-Gears\xfffewerden beschränkt. Ist das OK?
 Die Speicherdatei wird gelöscht,\xfffeweil sie kaputt oder beschädigt ist.
