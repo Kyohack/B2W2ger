@@ -1,11 +1,11 @@
 EINALL POKÉDEX
 NATIONALER POKÉDEX
-Gesehen
-Gefangen
-Treffer
+GESEHEN
+GEFANGEN
+SUCHERGEBNISSE
 \xf000Ȃ\x0001\x0000
 \xf000ā\x0001\x0000
-？？？？？
+?????
 \xf000Ȃ\x0001\x0000
 ぜんこく
 イッシュ
