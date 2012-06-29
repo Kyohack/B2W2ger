@@ -1,48 +1,48 @@
 こんにちは
-hello
-bonjour
-ciao
-hallo
-hola
+HELLO
+BONJOUR
+CIAO
+HALLO
+HOLA
 안녕하세요
-コンニチハ
-……
-ありがとう
-いいよ
-いえ
-イエス
-いくぜ
-いくよ
-いくわよ
-いらっしゃい
-おっす
-おめでとう
-ください
-ゴメン
-ごめんなさい
-ごめんね
-さようなら
-サンキュー
-さんじょう
-しっけい
-しつれい
-じゃーね
-すみません
-それじゃ
-どうぞ
-どうも
-なんじゃ
-ノー
-ハーイ
-はい
-はいはい
-バイバイ
-はじめまして
-またね
-もしもし
-やあ
-やだよ
-やっほー
-よう
-ようこそ
-よろしく
+HELLO
+...
+DANKE
+KEIN PROBLEM
+NOPE
+JA
+HIER KOMMT
+LASS UNS GEHEN
+HIER KOMME ICH
+WILLKOMMEN
+GRÜßE
+GUT GEMACHT
+GIB MIR
+ENTSCHULDIGUNG
+VERGIB MIR
+ES TUT MIR LEID
+TSCHÜSS
+DANKE DIR
+ICH HAB ES BEKOMMEN
+PARDON
+ES TUT MIR SO LEID
+WIR SEHEN UNS
+ENTSCHULDIGE MICH
+OK DANN
+GEH VORAUS
+PROST
+WAS GEHT?
+NEIN
+HI
+YEP
+YEAH, YEAH
+TSCHÜSS
+WIR SEHEN UNS
+TSCHÜSS FÜR IMMER
+HALLO?
+HALLO DU
+KEIN WEG
+YAHOO
+YO
+WILLKOMMEN
+GRÜSSE
