@@ -1,4 +1,4 @@
-B2W2eng
+B2W2ger
 =======
 
 Pokemon Black2 �& White2 German Translation by PokeStation
@@ -11,5 +11,32 @@ Ludicario
 
 Thread: http://pokestation.net/forum/showthread.php?14123-Translation-project-for-Pok%E9mon-Black2-amp-White2
 
-B2W2ger
-=======
+Important Stuff (Zu beachten!)
+==============================
+
+Hello this information will be written in german:
+
+Hallo Übersetzer,
+
+da es uns allen nur um die möglichst baldige Veröffentlichung des deutschen Patches geht,
+ist diese Information essenziell für euch.
+
+Pass Power= Transferfähigkeiten
+
+Pass Power kommt aus BW1eng und bedeutet Transferfähigkeiten. Das wird in der Kontaktebene benutzt. 
+
+WICHTIG:
++Wenn es Leute gibt, die nicht mit solchen Wörtern zurechtkommen, bitte ich diese entweder nach den Sachen zu recherchieren
++z.B. in Google oder Pokewiki.de ggf. in bulbapedia bzw. -garden
+
++Buchstaben wie ä, ö, ü können bei den Übersetzungen benutzt werden
+
++Arenaleiter und Städte in B2W2ger haben einen offiziellen Namen bekommen. Passt das bitte an. Zu finden sind die Namen
++wie immer unter pokewiki.de
+
++schaut auch in B2W2eng nach, falls ihr das nicht macht (was ich nicht hoffe)
+
++Falls jemand ZU OFT Google Translator o.ä. benutzt, absichtlich etwas umschreibt, offensichtliche Fehler macht, wird
++automatisch ausgeschlossen. d.h. Pull requests werden nicht akzeptiert.
+
+Viel Spass beim übersetzen
