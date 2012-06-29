@@ -8,6 +8,7 @@ Kyohack
 CloneCharizard
 wowfreak3000
 Ludicario
+Thechandrians
 
 Thread: http://pokestation.net/forum/showthread.php?14123-Translation-project-for-Pok%E9mon-Black2-amp-White2
 
