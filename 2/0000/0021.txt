@@ -1,13 +1,13 @@
 \xf000ć\x0001\x0000
-ＰＰ
-\xf000ȁ\x0001\x0000／\xf000ȁ\x0001\x0001
-\xf000Ă\x0001\x0000♂
-\xf000Ă\x0001\x0000♀
+AP
+\xf000ȁ\x0001\x0000/\xf000ȁ\x0001\x0001
+\xf000Ă\x0001\x0000⑭
+\xf000Ă\x0001\x0000⑮
 \xf000Ă\x0001\x0000
 \xf000Ȃ\x0001\x0000
-／
+/
 \xf000ȁ\x0001\x0000
-ちゅうだん　しています！\xfffeしばらく　おまちください！
-プレイデータが　こわれて　いるので\xfffeさいせいを　ちゅうだん　します！
-スキップ　しています！\xfffeしばらく　おまちください
-いちじ　ていしちゅう……\xfffeしばらく　おまちください！
+Das Video wurde angehalten.\xfffeBitte warte einen Moment...
+Die Videodaten sind fehlerhaft.\xfffeDie Wiedergabe wird abgebrochen.
+Der Vor-/Rücklauf wurde aktiviert.\xfffeBitte warte einen Moment...
+Die Wiedergabe wurde pausiert.\xfffeBitte warte einen Moment.
