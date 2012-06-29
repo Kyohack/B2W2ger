@@ -3,15 +3,15 @@
 うんが　なかったのは\xfffeわたしの　ほうだったね……\xf000븁\x0000
 どぉ？　おばちゃんも　すこしは\xfffeスリムに　なったかしら？\xf000븁\x0000
 このこたちに　らんぼうしないで！\xfffe……だいじょうぶ？　おー　よしよし\xf000븁\x0000
-やるわね　あなた……\xfffeどうぞ　さきへ　すすみなさい\xf000븁\x0000
-しくしく……\xfffeまけちゃいました……\xf000븁\x0000\xfffeでも　じんせいには　まけないように\xfffeパンやには　もどろうと　おもいます\xf000븁\x0000
-まけちゃった！　ちなみに　わたしは\xfffeパンより　ごはんが　すきです\xf000븁\x0000
-あなた　なかなか\xfffeあなどれない　こどもね！\xf000븁\x0000
-う～ん……　ちょっぴり\xfffeこどもたちには　きけんかしらね？\xf000븁\x0000
-やるな！\xfffeつぎに　あうときは　こうはいかんぞ！\xf000븁\x0000
-フフッ……　おまえの　あついタマシイ\xfffeしかと　うけとったぞ！\xf000븁\x0000
-うぎゃー！　モンスターボールを\xfffeなげた　みぎてが　きんにくつうに！\xf000븁\x0000
-まけちゃった……　ふふっ♪\xfffeアンタ　ちょっと　ステキだったよ\xf000븁\x0000
+Spielstand wird erstellt.\xfffeBitte warte einen Moment...
+Hallo! Wie geht's?\xf000븁\x0000\xfffeWillkommen in der Welt der Pokémon!\xf000븁\x0000
+Ich bin Prof. Esche!\xf000븁\x0000\xfffeDie Leute nennen mich auch die\xfffePokémon-Professorin.\xf000븁\x0000
+Wie du vielleicht weißt, wird diese\xfffeWelt von Wesen bevölkert,\xf000븀\x0000\xfffedie man Pokémon nennt.\xf000븁\x0000
+In den Pokémon schlummern geheimnisvolle\xfffeKräfte. Begegnen kann man ihnen beinahe\xf000븀\x0000\xfffeüberall und es gibt eine große Vielfalt an\xf000븀\x0000\xfffeunterschiedlichen Arten unter ihnen.\xf000븁\x0000\xfffeDie Pokémon und wir Menschen ergänzen\xfffeuns ganz ausgezeichnet! Wir führen\xf000븀\x0000\xfffeein Leben in Eintracht mit ihnen und\xf000븀\x0000\xfffehelfen uns gegenseitig, wo wir können.\xf000븁\x0000\xfffeUm das Band der Freundschaft zu seinen\xfffePokémon zu stärken, ist es sehr\xf000븀\x0000\xfffebeliebt, mit ihnen gegen die Teams\xf000븀\x0000\xfffeanderer Trainer zu kämpfen.\xf000븁\x0000\xfffeTja, und ich habe mein Leben der\xfffeErforschung der Pokémon gewidmet!\xf000븁\x0000
+Aber genug von mir...\xf000븁\x0000\xfffeErzähl mir doch lieber ein bisschen\xfffewas über dich!\xf000븁\x0000
+Bist du ein Junge oder ein Mädchen?\xf000븁\x0000
+Aha, ein Junge bist du also!\xfffeHabe ich das richtig verstanden?\xf000븁\x0000
+Aha, ein Mädchen bist du also!\xfffeHabe ich das richtig verstanden?\xf000븁\x0000
 つよいね　あなた！　ありがとう\xfffeいい　トレーニングに　なったわ！\xf000븁\x0000
 ピースな　しょうぶだったね！\xfffeうふふっ　あくしゅ　しましょ！\xf000븁\x0000
 ううっ　しつれいしました……\xfffeどうぞ　おとおりください……\xf000븁\x0000
