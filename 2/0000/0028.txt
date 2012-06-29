@@ -1,7 +1,7 @@
-ともだちコードを　いれてください
-トレインナンバーを\xfffeいれてください（０１－\xf000ȁ\x0001\x0000）
-ランクを　いれてください（０１－\xf000ȁ\x0001\x0000）
-けす
-おわり
-そのトレインナンバーは　ありません\xfffe\xf000ȁ\x0001\x0000までの　すうじを　いれてください
-そのランクは　ありません\xfffe\xf000ȁ\x0001\x0000までの　すうじを　いれてください
+Bitte den Freundescode eingeben.
+Bitte gib die Zugnummer ein.\xfffe(01-\xf000ȁ\x0001\x0000)
+Bitte gib den Rang ein.\xfffe(01-\xf000ȁ\x0001\x0000)
+LÖSCHEN
+O.K.
+Diese Zugnummer existiert nicht.\xfffeBitte gib eine Zahl bis \xf000ȁ\x0001\x0000 ein.
+Dieser Rang existiert nicht.\xfffeBitte gib eine Nummer bis \xf000ȁ\x0001\x0000 ein.
