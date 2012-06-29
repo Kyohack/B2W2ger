@@ -1,6 +1,6 @@
-けってい
-やめる
-なにか　ことばを　いれてください
-メールを　もたせるのを\xfffeやめますか？
-はい
-いいえ
+O.K.
+ZURÜCK
+Fülle alle Felder mit einer Formulierung\xfffeoder einem Wort aus.
+Aktion abbrechen?
+JA
+NEIN
