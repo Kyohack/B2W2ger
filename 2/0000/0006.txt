@@ -58,8 +58,8 @@ Professor Araragi sagt immer \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000\die
 Du kannst hier nicht vom Fahrrad absteigen！
 Professor Araragi sagt immer \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000\dies ist weder der\xffferechte Ort noch die Rechte Zeit dafür!
 Du hast　\xf000Ȅ\x0001\x0000 Münzen.
-Ein TM wurde aktiviert！
-Ein VM wurde aktiviert！
+Eine TM wurde aktiviert！
+Eine VM wurde aktiviert！
 Möchtest du \xf000ć\x0001\x0000.\xf000븁\x0000Teach \xf000ć\x0001\x0000\xfffeeinem Pokemon beibringen?
 \xf000Ā\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　つかった！
 まだ　まえに　つかった\xfffeスプレーの　こうかが　のこってます！
