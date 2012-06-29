@@ -40,3 +40,5 @@ Falls jemand ZU OFT Google Translator o.ä. benutzt, absichtlich etwas umschreib
 automatisch ausgeschlossen. d.h. Pull requests werden nicht akzeptiert.
 
 Viel Spass beim übersetzen
+
+PS: Achtet auf Rechtschreibung. Im Gegensatz zu Kyohack sehe ich eure Fehler...
