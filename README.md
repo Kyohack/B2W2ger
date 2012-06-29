@@ -1,7 +1,7 @@
 B2W2eng
 =======
 
-Pokemon Black2 Å& White2 German Translation by PokeStation
+Pokemon Black2 ÔøΩ& White2 German Translation by PokeStation
 
 Contributors:
 Kyohack
@@ -10,3 +10,6 @@ wowfreak3000
 Ludicario
 
 Thread: http://pokestation.net/forum/showthread.php?14123-Translation-project-for-Pok%E9mon-Black2-amp-White2
+
+B2W2ger
+=======
