@@ -1,47 +1,46 @@
 のこりじかん　\xf000ȁ\x0001\x0000ふん\xfffeあと　\xf000ȁ\x0001\x0001かい
 のこりじかん　\xf000ȁ\x0001\x0000ふん\xfffeあと　\xf000ȁ\x0001\x0001にん
-\xf000Ā\x0001\x0000に　はなしかけて　もらい\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！
-\xf000Ā\x0001\x0000に　じぶんから　はなしかけ\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！
-\xf000Ā\x0001\x0000に　たたかいを　いどめ！\xfffeてもち　２ひき　レベルは　\xf000Ȃ\x0001\x0001フラット
-たたかってる　\xf000Ā\x0001\x0000に　はなしかけ\xfffe「せんとうＨＰかいふくパワー」をあたえよ
-たたかってる　\xf000Ā\x0001\x0000に　はなしかけ\xfffe「せんとうＨＰかいふくパワー」をあたえよ
-たたかってる　\xf000Ā\x0001\x0000に　はなしかけ\xfffe「せんとうＨＰかいふくパワー」をあたえよ
-たたかってる　\xf000Ā\x0001\x0000に　はなしかけ\xfffe「せんとうＨＰかいふくパワー」をあたえよ
-\xf000ĉ\x0001\x0000を　ライモンシティの\xfffeベンチとベンチの　あいだに　かくせ！
-\xf000ĉ\x0001\x0000を　ホドモエシティの\xfffeテントのうらの　いえのまえにかくせ！
-\xf000ĉ\x0001\x0000を　フキヨセシティの\xfffeおくの　ひこうきの　まえにかくせ！
-\xf000ĉ\x0001\x0000を　セッカシティの\xfffeみんなが　まわっていた　ばしょにかくせ！
-\xf000ĉ\x0001\x0000を　ソウリュウシティの\xfffeワープできない　ゲートのまえにかくせ！
-\xf000ĉ\x0001\x0000を　カゴメタウンにある\xfffeマンホールの　うえに　かくせ！
-\xf000ĉ\x0001\x0000を　サザナミタウンの\xfffeふんすいの　まえに　かくせ！
-\xf000ĉ\x0001\x0000を　５ばんどうろ　の\xfffeミュージシャンがいた　まえに　かくせ！
-\xf000ĉ\x0001\x0000を　６ばんどうろ　の\xfffeたてにながい　はしのまんなかに　かくせ！
-\xf000ĉ\x0001\x0000を　７ばんどうろ　の\xfffeタワーオブヘブン　のまえに　かくせ！
-\xf000ĉ\x0001\x0000を　８ばんどうろ　の\xfffeどうろかんばんの　まえに　かくせ！
-\xf000ĉ\x0001\x0000を　９ばんどうろ　の\xfffeゴミばこの　てまえに　かくせ！
-\xf000ĉ\x0001\x0000を　１１ばんどうろ　の\xfffeトレーラーの　まえに　かくせ！
-\xf000ĉ\x0001\x0000を　１２ばんどうろ　の\xfffeまんなかの　かんばんに　かくせ！
-\xf000ĉ\x0001\x0000を　１３ばんどうろ　の\xfffeくさむらのはえる　しまの　きにかくせ！
-\xf000ĉ\x0001\x0000を　１４ばんどうろ　の\xfffeすなはまと　りくちの　あいだに　かくせ！
-\xf000ĉ\x0001\x0000を　１５ばんどうろ　の\xfffeゴミばこの　てまえに　かくせ！
-\xf000ĉ\x0001\x0000を　１６ばんどうろ　の\xfffeさくが　きれているところに　かくせ！
-\xf000ĉ\x0001\x0000を　ライモンシティの\xfffeベンチとベンチの　あいだに　かくせ！
-\xf000ĉ\x0001\x0000を　ホドモエシティの\xfffeテントのうらの　いえのまえにかくせ！
-\xf000ĉ\x0001\x0000を　フキヨセシティの\xfffeおくの　ひこうきの　まえにかくせ！
-\xf000ĉ\x0001\x0000を　セッカシティの\xfffeみんなが　まわっていた　ばしょにかくせ！
-\xf000ĉ\x0001\x0000を　ソウリュウシティの\xfffeワープできない　ゲートのまえにかくせ！
-\xf000ĉ\x0001\x0000を　カゴメタウンにある\xfffeマンホールの　うえに　かくせ！
-\xf000ĉ\x0001\x0000を　サザナミタウンの\xfffeふんすいの　まえに　かくせ！
-\xf000ĉ\x0001\x0000を　５ばんどうろ　の\xfffeミュージシャンがいた　まえに　かくせ！
-\xf000ĉ\x0001\x0000を　６ばんどうろ　の\xfffeたてにながい　はしのまんなかに　かくせ！
-\xf000ĉ\x0001\x0000を　７ばんどうろ　の\xfffeタワーオブヘブン　のまえに　かくせ！
-\xf000ĉ\x0001\x0000を　８ばんどうろ　の\xfffeどうろかんばんの　まえに　かくせ！
-\xf000ĉ\x0001\x0000を　９ばんどうろ　の\xfffeゴミばこの　てまえに　かくせ！
-\xf000ĉ\x0001\x0000を　１１ばんどうろ　の\xfffeトレーラーの　まえに　かくせ！
-\xf000ĉ\x0001\x0000を　１２ばんどうろ　の\xfffeまんなかの　かんばんに　かくせ！
-\xf000ĉ\x0001\x0000を　１３ばんどうろ　の\xfffeくさむらのはえる　しまの　きにかくせ！
-\xf000ĉ\x0001\x0000を　１４ばんどうろ　の\xfffeすなはまと　りくちの　あいだに　かくせ！
-\xf000ĉ\x0001\x0000を　１５ばんどうろ　の\xfffeゴミばこの　てまえに　かくせ！
-\xf000ĉ\x0001\x0000を　１６ばんどうろ　の\xfffeさくが　きれているところに　かくせ！
-\xf000Ā\x0001\x0000に　\xf000ĉ\x0001\x0001を\xfffeおかいどくな　ねだんで　かってもらえ！
-ー
+Lass dich von \xf000Ā\x0001\x0000 anreden\xfffeund wende \xf000Đ\x0001\x0001 an!
+Sprich \xf000Ā\x0001\x0000 an und\xfffewende \xf000Đ\x0001\x0001 an!
+Fordere \xf000Ā\x0001\x0000 zum Kampf heraus!\xfffeHandicap: Zwei Team-Pokémon auf Lv. \xf000Ȃ\x0001\x0001.
+Sprich \xf000Ā\x0001\x0000 während eines Kampfes\xfffean und wende KP-Heilkraft (Kampf) an!
+Sprich \xf000Ā\x0001\x0000 während eines Kampfes\xfffean und wende KP-Heilkraft (Kampf) an!
+Sprich \xf000Ā\x0001\x0000 während eines Kampfes\xfffean und wende KP-Heilkraft (Kampf) an!
+Sprich \xf000Ā\x0001\x0000 während eines Kampfes\xfffean und wende KP-Heilkraft (Kampf) an!
+Verstecke das Item \xf000ĉ\x0001\x0000 zwischen\xfffezwei Bänken in Rayono City!
+Verstecke das Item \xf000ĉ\x0001\x0000 vor dem\xfffeHaus hinter dem Markt in Marea City!
+Verstecke das Item \xf000ĉ\x0001\x0000 am\xfffeFlugzeug im hinteren Teil von Panaero City!
+Verstecke das Item \xf000ĉ\x0001\x0000 dort in\xfffeNevaio City, wo im Kreis getanzt wird!
+Verstecke das Item \xf000ĉ\x0001\x0000 vor dem\xfffezu Fuß erreichbaren Tor in Twindrake City!
+Verstecke das Item \xf000ĉ\x0001\x0000 unter\xfffeeinem Gullideckel in Tessera!
+Verstecke das Item \xf000ĉ\x0001\x0000 vor dem\xfffeSpringbrunnen in Ondula!
+Verstecke das Item \xf000ĉ\x0001\x0000 vor\xfffedem Straßenmusiker auf Route 5!
+Verstecke das Item \xf000ĉ\x0001\x0000 mitten auf\xfffeeiner der Brücken auf Route 6.
+Verstecke das Item \xf000ĉ\x0001\x0000 vor dem\xfffeTurm des Himmels auf Route 7!
+Verstecke das Item \xf000ĉ\x0001\x0000 vor\xfffedem Routenwegweiser auf Route 8!
+Verstecke das Item \xf000ĉ\x0001\x0000 vor\xfffedem Abfalleimer auf Route 9!
+Verstecke das Item \xf000ĉ\x0001\x0000 vor\xfffedem Wohnwagen auf Route 11!
+Verstecke das Item \xf000ĉ\x0001\x0000 am Schild\xfffein der Mitte von Route 12!
+Verstecke das Item \xf000ĉ\x0001\x0000 am Baum\xfffeauf der Insel mit hohem Gras auf Route 13!
+Verstecke das Item \xf000ĉ\x0001\x0000 zwischen\xfffedem Strand und dem Festland auf Route 14!
+Verstecke das Item \xf000ĉ\x0001\x0000 vor dem\xfffeAbfalleimer auf Route 15!
+Verstecke das Item \xf000ĉ\x0001\x0000 in einer\xfffeLücke zwischen den Zäunen auf Route 16!
+Verstecke das Item \xf000ĉ\x0001\x0000 zwischen\xfffezwei Bänken in Rayono City!
+Verstecke das Item \xf000ĉ\x0001\x0000 vor dem\xfffeHaus hinter dem Markt in Marea City!
+Verstecke das Item \xf000ĉ\x0001\x0000 am\xfffeFlugzeug im nördlichen Teil Panaero Citys!
+Verstecke das Item \xf000ĉ\x0001\x0000 in Nevaio\xfffeCity, wo man sich im Kreis dreht!
+Verstecke das Item \xf000ĉ\x0001\x0000 vor dem\xfffezu Fuß erreichbaren Tor in Twindrake City.
+Verstecke das Item \xf000ĉ\x0001\x0000 unter\xfffeeinem Gullideckel in Tessera!
+Verstecke das Item \xf000ĉ\x0001\x0000 vor dem\xfffeSpringbrunnen in Ondula!
+Verstecke das Item \xf000ĉ\x0001\x0000 vor\xfffedem Straßenmusiker auf Route 5!
+Verstecke das Item \xf000ĉ\x0001\x0000 mitten auf\xfffeeiner der Brücken auf Route 6!
+Verstecke das Item \xf000ĉ\x0001\x0000 vor dem\xfffeTurm des Himmels auf Route 7!
+Verstecke das Item \xf000ĉ\x0001\x0000 vor\xfffedem Routenwegweiser auf Route 8!
+Verstecke das Item \xf000ĉ\x0001\x0000 vor\xfffedem Abfalleimer auf Route 9!
+Verstecke das Item \xf000ĉ\x0001\x0000 vor\xfffedem Wohnwagen auf Route 11!
+Verstecke das Item \xf000ĉ\x0001\x0000 am Schild\xfffein der Mitte von Route 12!
+Verstecke das Item \xf000ĉ\x0001\x0000 am Baum\xfffeauf der Insel mit hohem Gras auf Route 13!
+Verstecke das Item \xf000ĉ\x0001\x0000 zwischen\xfffedem Strand und dem Festland auf Route 14!
+Verstecke das Item \xf000ĉ\x0001\x0000 vor\xfffedem Abfalleimer auf Route 15!
+Verstecke das Item \xf000ĉ\x0001\x0000 in einer\xfffeLücke zwischen den Zäunen auf Route 16!
+Verkaufe \xf000Ā\x0001\x0000 das Item\xfffe\xf000ĉ\x0001\x0001 zu einem Sonderpreis!
