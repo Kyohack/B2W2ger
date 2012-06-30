@@ -19,6 +19,8 @@ Hello this information will be written in german:
 
 Hallo Übersetzer,
 
+(Kyohack wird ein Programm entwickeln, dass die alten Sachen von BW1 rüber zu BW2 anpasst. Bis dahin rate ich euch nichts zu tun!)
+
 da es uns allen nur um die möglichst baldige Veröffentlichung des deutschen Patches geht,
 ist diese Information essenziell für euch.
 
@@ -37,6 +39,8 @@ Falls jemand ZU OFT Google Translator o.ä. benutzt, absichtlich etwas umschreib
 automatisch ausgeschlossen. d.h. Pull requests werden nicht akzeptiert.
 
 To-Do-List: Official Translation To-Do-List of B2W2ger: http://pastebin.com/uZZsgtHu# *When there is nothing next to the number then it means that this file is unedited / We'll update this link weekly
+
+
 Viel Spass beim Übersetzen
 
 PS: Achtet auf Rechtschreibung. Im Gegensatz zu Kyohack sehe ich(Thechandrians) eure Fehler...
