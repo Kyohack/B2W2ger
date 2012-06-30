@@ -3,16 +3,16 @@
 ひだりておやゆびを　そのままに\xfffeみぎておやゆびを　ガイドに　タッチ！
 チェックが　おわりました　あいてと\xfffeせきがいせんつうしんを　してください
 チェックちゅう　です\xfffeつうしんを　つづけてください
-せきがいせんつうしんが\xfffeつながりました！
+Infrastruktur-Verbindung hergestellt!
 つうしんが　きれました　あいてと\xfffeせきがいせんつうしんを　してください
-もどる
-no data
-no data
-no data
+zurück
+keine Daten
+keine Daten
+keine Daten
 タッチしても　はんのうが　ないときは\xfffeもういちど　タッチ　してください
-no data
-no data
-no data
-no data
+keine Daten
+keine Daten
+keine Daten
+keine Daten
 シンクロチェック
 がめんから　ゆびを　はなして\xfffeひだりてから　やりなおしてください
