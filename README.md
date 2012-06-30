@@ -36,9 +36,7 @@ Schaut auch in B2W2eng nach, falls ihr das nicht macht (was ich nicht hoffe)
 Falls jemand ZU OFT Google Translator o.ä. benutzt, absichtlich etwas umschreibt, offensichtliche Fehler macht, wird
 automatisch ausgeschlossen. d.h. Pull requests werden nicht akzeptiert.
 
-Anleitung für Neue:
-folgt...
-
+To-Do-List: Official Translation To-Do-List of B2W2ger: http://pastebin.com/uZZsgtHu# *When there is nothing next to the number then it means that this file is unedited / We'll update this link weekly
 Viel Spass beim Übersetzen
 
 PS: Achtet auf Rechtschreibung. Im Gegensatz zu Kyohack sehe ich(Thechandrians) eure Fehler...
