@@ -1,5 +1,5 @@
 EINSETZEN
-MUELL
+MÜLL
 REGISTRIEREN
 GEBEN
 BERICHT
@@ -7,9 +7,9 @@ WEITER
 RENNEN
 ZURÜCK
 SCHLIEßEN
-みせる
-ダミー
-RUECKGAENGIG
+ZEIGEN
+DUMMY
+RÜCKGÄNGIG
 TASCHE
 MAIL
 NEHMEN
@@ -17,8 +17,8 @@ GEBEN
 ANSCHAUEN
 Nichts
 AUFHEBEN
-？？？
-？？？？？
+???
+?????
 ／
 \xf000ȁ\x0001\x0000／\xf000ȁ\x0001\x0001
 ―
@@ -26,37 +26,37 @@ AUFHEBEN
 ―――
 ♂
 ♀
-Ｌｖ．
-Ｎｏ
+Lv.
+Nr.
 ＋
 →
-ＩＤＮｏ
+ID-Nr.
 　
-カーソル
-Geh zurück!
+Cursor
+Zurückgehen!
 Was nun?
 Geben
 \xf000Ȃ\x0001\x0000
 ×
 Trank
 \xf000ȃ\x0001\x0000まい
-Schließen
-\xf000ĉ\x0001\x0000を　どうしますか？
-Du kannst hier nicht schreiben\xfffeMail hier！
+Schliessen
+Was über\xf000ĉ\x0001\x0000?
+Du kannst keine\xfffE-mail hier schreiben！
 Dort ist kein Pokemon！
-\xf000ĉ\x0001\x0000を　いどうさせます
-\xf000ĉ\x0001\x0000を\xfffeもたせることは　できません！
-ここでは　\xf000ĉ\x0001\x0000を\xfffeもたせることは　できません！
-\xf000ĉ\x0001\x0000を\xfffeいくつ　あずけますか？
+Bewege\xf000ĉ\x0001\x0000.
+Du kannst das nicht geben\xfffe\xf000ĉ\x0001\x0000!
+Du kannst das nicht hier\xfffe\xf000ĉ\x0001\x0000 geben!
+Wieviele\xfffe\xf000ĉ\x0001\x0000 speichern?
 \xf000ĉ\x0001\x0000を\xfffe\xf000ȁ\x0001\x0001コ　あずけました
 Du kannst nicht mehr lagern！
 Das ist ein wichtiges Item\xfffedu kannst es nicht wegwerfen！
 Wieviele möchtest du \xfffe\xf000ĉ\x0001\x0000(s) wegwerfen?
 Werfe \xf000ĉ\x0001\x0000を \xf000Ȃ\x0001\x0001(s) weg.
 Ist es in Ordnung, dass\xfffe\xf000ĉ\x0001\x0000を \xf000Ȃ\x0001\x0001(s) weggeworfen wird?
-Professor Araragi sagt immer \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000\dies ist weder der\xffferechte Ort noch die Rechte Zeit dafür!
+Professor Esche sagt immer \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000\dies ist weder der\xffferechte Ort noch die Rechte Zeit dafür!
 Du kannst hier nicht vom Fahrrad absteigen！
-Professor Araragi sagt immer \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000\dies ist weder der\xffferechte Ort noch die Rechte Zeit dafür!
+Professor Esche sagt immer \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000\dies ist weder der\xffferechte Ort noch die Rechte Zeit dafür!
 Du hast　\xf000Ȅ\x0001\x0000 Münzen.
 Eine TM wurde aktiviert！
 Eine VM wurde aktiviert！
@@ -88,7 +88,7 @@ Du kannst \xf000ĉ\x0001\x0000 ncith kaufen.
 うる
 ×\xf000Ȃ\x0001\x0000
 とりだす
-ＰＰ
+AP
 いりょく
 めいちゅう
 ぶんるい
@@ -138,24 +138,24 @@ Du kannst \xf000ĉ\x0001\x0000 ncith kaufen.
 ライトストーンを　つかったが\xfffeまったく　はんのう　しない……
 Deine Items wurden\xfffesortiert!
 \xf000Ē\x0001\x0000
-\xfffemoechte nach Typen sortieren!
-\xfffemoechte nach Namen sortieren!
+\xfffemöchte nach Typen sortieren!
+\xfffemöchte nach Namen sortieren!
 おおいじゅんに\xfffeもちものを　せいり　しました！
 すくないじゅんに\xfffeもちものを　せいり　しました！
 ぜんぶ
 Spezialfach
 もとのポケットへ
-Bitte waehle das\xfffenach dem du suchst!
+Bitte wähle das\xfffenach dem du suchst!
 \xf000Ē\x0001\x0000に　いれる　もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
 \xf000ĉ\x0001\x0001 \xfffe\xf000Ē\x0001\x0000wurde verschoben?
 \xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　もどしました！
-Welche Sortierung moechtest du nutzen?
+Welche Sortierung möchtest du nutzen?
 Nach Typ
 Nach Name
 おおいじゅん
 すくないじゅん
 Nach Zahlen
 もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
-\xfffemoechte nach Zahlen sortieren!
+\xfffemöchte nach Zahlen sortieren!
 Nicht gefunden
 Weglegen
