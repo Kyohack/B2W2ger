@@ -34,4 +34,4 @@ Du hast schon gespeicherte Daten\xfffeDu kannst dies nicht aendern\xf000븁\x000
 Änderungen vornehmen？
 JA
 NEIN
-ダミーメッセージ
+Dummy-Nachricht
