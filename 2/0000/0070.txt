@@ -1,17 +1,17 @@
-メールボックス
+POSTFACH
 \xf000Ȁ\x0001\x0000
 ／
-やめる
-とじる
-メールを　よむ
-メールを　けす
-もたせる
-やめる
-\xf000Ā\x0001\x0000の\xfffeメールを　どうしますか？
-ないようは　きえて　しまいますが\xfffeよろしいですか？
-ないようを　けしました
-ポケモンに　もたせますか？
-ないようを　けした　メールを\xfffeバッグに　しまいました
-バッグが　いっぱいです……\xfffeメールを　すてました
-はい
-いいえ
+BEENDEN
+WEITER
+LESEN
+LÖSCHEN
+GEBEN
+ZURUECK
+Was möchtest du mit \xfffe\xf000Ā\x0001\x0000's Mail machen?
+Die Nachricht wird verschwinden.\xfffeIst das OK?
+Die Nachricht wurde gelöscht.
+Soll ein Pokémon die Nachricht halten?
+Die Nachricht wurde gelöscht,\xfffeund wurde in deine Tasche gesteckt.
+Diene Tasche ist voll...\xfffeDie Nachricht wurde verworfen.
+JA
+NEIN
