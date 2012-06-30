@@ -4,9 +4,9 @@
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
-Waehle ein Pokémon.
+Wähle ein Pokémon.
 Welches Pokémon?
-Welches Pokémon möchtest du ersetzen?
+Ersetzen durch?
 Mit welchem Pokémon kaempfen?
 Welches Pokémon wechseln?
 L\xf000Ȃ\x0001\x0000
@@ -24,7 +24,7 @@ TAUSCH
 ♀
 BERICHT
 ATTACKEN
-KAMPFUNFAEHIG
+KAMPFUNFÄHIG
 SCHON IM KAMPF
 BEREIT
 PARTNER
@@ -56,7 +56,7 @@ AP
 \xf000ȁ\x0001\x0000
 ／
 ――
-STAERKE
+STÄRKE
 \xf000Ȃ\x0001\x0000
 ―
 GENAU.
@@ -85,12 +85,12 @@ VM-Attacken können jetzt nicht\xfffevergessen werden.
 \xf000ȁ\x0001\x0000
 \xf000ȁ\x0001\x0000
 \xf000Ă\x0001\x0000 \xfffekämpft bereits!
-\xf000Ă\x0001\x0000 ist nicht fit genug, um zu\xfffekaempfen!
+\xf000Ă\x0001\x0000 ist nicht fit genug, um zu\xfffekämpfen!
 \xf000Ă\x0001\x0000 kann nicht ausgetauscht\xfffewerden!
 Ein Ei kann nicht kämpfen!
-Pokémon von Mitstreitern können\xfffenicht ausgewaehlt werden!
+Pokémon von Mitstreitern können\xfffenicht ausgewählt werden!
 Es wird keine Wirkung haben.
-\xf000Ă\x0001\x0000s　KP was wurden um\xfffe\xf000Ȃ\x0001\x0001 Punkte aufgefuellt!
+\xf000Ă\x0001\x0000s　KP wurden um\xfffe\xf000Ȃ\x0001\x0001 Punkte aufgefüllt!
 \xf000Ă\x0001\x0000 ist nicht mehr\xfffevergiftet.
 \xf000Ă\x0001\x0000 ist nicht mehrs\xfffeparalysiert.
 \xf000Ă\x0001\x0000ss\xfffeVerbrennung wurde behoben.
