@@ -5,7 +5,7 @@ KAMPFSTIL
 TON
 TEXTMODUS
 RADIO
-ＩＲ-SICHERUNG
+IR-SICHERUNG
 O.K.
 ZURUECK
 1
@@ -17,21 +17,21 @@ TAUSCH
 FOLGE
 STEREO
 MONO
-ひらがな
-かんじ
-オン
-オフ
-かく
-かかない
-Waehle zwischen drei verschiedenen\xfffeTextgeschwindigkeiten.
-Waehle, ob in den Kaempfen Animationen für\xfffedie Attacken angezeigt werden sollen.
-Waehle zwischen zwei verschiedenen\xfffeKampfstilen.
-Waehle, wie das\xfffeSpiel klingen soll.
-もじの　ひょうじを\xfffeきりかえることが　できます
-いつも　むせんで　つうしんするか\xfffeオン／オフが　えらべます
-Ｃギアの　せきがいせんつうしん　まえに\xfffeレポートを　かくかどうか　えらべます
-べつの　レポートが　かかれているので\xfffeへんこう　できません\xf000븁\x0000
-Aenderungen vornehmen？
+Deutsch
+Japanisch
+AN
+AUS
+SPEICHERN
+NICHT SPEICHERN
+Wähle zwischen drei verschiedenen\xfffeTextgeschwindigkeiten.
+Wähle, ob in den Kämpfen Animationen für\xfffedie Attacken angezeigt werden sollen.
+Wähle zwischen zwei verschiedenen\xfffeKampfstilen.
+Wähle, wie das\xfffeSpiel klingen soll.
+Wähle die Sprache des Spiels
+Wähle, ob die drahtlose\xfffeKommunikation an oder aus ist.
+Wähle, ob du vor dem Einsatz\xfffeder Infrarotfunktion speichern möchtest.
+Du hast schon gespeicherte Daten\xfffeDu kannst dies nicht aendern\xf000븁\x0000
+Änderungen vornehmen？
 JA
 NEIN
 ダミーメッセージ
