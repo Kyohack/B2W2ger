@@ -19,7 +19,7 @@ Hello this information will be written in german:
 
 Hallo Übersetzer,
 
-(Kyohack wird ein Programm entwickeln, dass die alten Sachen von BW1 rüber zu BW2 anpasst. Bis dahin rate ich euch nur in Ordner 3 die Story zu übersetzen)
+(Kyohack wird ein Programm entwickeln, dass die alten Sachen von BW1 rüber zu BW2 anpasst. Dieses Programm hat keinen Einfluss auf den deutschen Patch, also bleiben uns nach wie vor 1100 Files übrig.)
 
 da es uns allen nur um die möglichst baldige Veröffentlichung des deutschen Patches geht,
 ist diese Information essenziell für euch.
