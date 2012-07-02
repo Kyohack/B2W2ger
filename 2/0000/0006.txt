@@ -62,7 +62,7 @@ Eine TM wurde aktiviert！
 Eine VM wurde aktiviert！
 Möchtest du \xf000ć\x0001\x0000.\xf000븁\x0000Teach \xf000ć\x0001\x0000\xfffeeinem Pokemon beibringen?
 \xf000Ā\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　つかった！
-まだ　まえに　つかった\xfffeスプレーの　こうかが　のこってます！
+Schutz wirkt bereits!
 \xf000Ā\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　つかった！\xf000븁\x0000\xfffeポケモンと\xfffeそうぐう　しやすくなった！
 \xf000Ā\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　つかった！\xf000븁\x0000\xfffeポケモンと\xfffeそうぐう　しにくくなった！
 Die Box ist Voll！
@@ -87,22 +87,22 @@ Du kannst \xf000ĉ\x0001\x0000 ncith kaufen.
 いいえ
 うる
 ×\xf000Ȃ\x0001\x0000
-とりだす
+Flucht
 AP
-いりょく
-めいちゅう
-ぶんるい
+Kraft
+Genauigkeit
+Kategorie
 \xf000ȁ\x0001\x0000
 \xf000Ȃ\x0001\x0000
 シール　\xf000ȃ\x0001\x0000まい
 アクセサリー　\xf000Ȃ\x0001\x0000こ\xfffeかべがみ　　　　\xf000ȁ\x0001\x0001まい
-バッグを　とじます
+Tasche schließen
 うめる
-ひらく
+Öffnen
 たまった　バトルポイント\xfffe\xf000ȃ\x0001\x0000ＢＰ
-タイプ
+Typ
 バッグに　いれてある　どうぐを\xfffeべんりボタンに　とうろく　できます
-べんりボタンに　とうろく　できる\xfffeどうぐは　２つ　までです！
+Du kannst nicht mehr als ２Items registrieren！
 ＧＢプレイヤーの　でんげんを　\xfffeいれた！
 ＧＢプレイヤーの　でんげんを\xfffeきった！
 \xf000ĉ\x0001\x0000は　つかえません
@@ -133,21 +133,21 @@ AP
 はい
 いいえ
 \xf000봂\x0000\xf000ĉ\x0001\x0000
-もっていません
-ダークストーンを　つかったが\xfffeまったく　はんのう　しない……
-ライトストーンを　つかったが\xfffeまったく　はんのう　しない……
+Es ist leer.
+Du hast einen Dunkelstein benutzt aber nichts geschieht……
+Du hast einen Leuchtstein benutzt aber nichts geschieht……
 Deine Items wurden\xfffesortiert!
 \xf000Ē\x0001\x0000
 \xfffemöchte nach Typen sortieren!
 \xfffemöchte nach Namen sortieren!
 おおいじゅんに\xfffeもちものを　せいり　しました！
 すくないじゅんに\xfffeもちものを　せいり　しました！
-ぜんぶ
+Total
 Spezialfach
-もとのポケットへ
+Zurück nehmen
 Bitte wähle das\xfffenach dem du suchst!
 \xf000Ē\x0001\x0000に　いれる　もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
-\xf000ĉ\x0001\x0001 \xfffe\xf000Ē\x0001\x0000wurde verschoben?
+\xf000ĉ\x0001\x0001 \xfffe\xf000Ē\x0001\x0000wurde verschoben!
 \xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　もどしました！
 Welche Sortierung möchtest du nutzen?
 Nach Typ
