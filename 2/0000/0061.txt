@@ -1,11 +1,11 @@
-すきなリズムで　１０かい\xfffeしたがめんを　タッチしてください
-チェックが　おわりました　あいてと\xfffeせきがいせんつうしんを　してください
-チェックちゅう　です\xfffeつうしんを　つづけてください
-せきがいせんつうしんが　\xfffeつながりました！
-つうしんが　きれました\xfffeせきがいせんを　あわせてください
-もどる
-タッチ　スタート
-リズムチェック
+Berühre den Touch-Screen Zehn mal\xfffein einem Rhythmus der dir gefällt.
+Überprüfung abgeschlossen. Erstelle eine Infrarot\xfffeVerbindung mit dem anderen Trainer.
+Überprüfe...\xfffeBitte behalte die Infrarot Verbindung bei.
+Du hast die Infrarot Verbindung erfolgreich hergestellt!
+Die Verbindung wurde unterbrochen.\xfffeBitte richte deine Infrarot Verbindung neu aus.
+Zurück
+Drücke Start
+RHYTHMUS CHECK
 no data
 no data
 no data
