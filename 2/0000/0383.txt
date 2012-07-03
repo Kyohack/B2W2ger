@@ -1,57 +1,56 @@
-ポケモントレーナー
-ポケモントレーナー
-たんぱんこぞう
-ミニスカート
-じゅくがえり
-じゅくがえり
-テニスプレイヤー
-フットボーラー
-ウエーター
-ウエートレス
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
-ほいくし
-えんじ
-えんじ
-ふたごちゃん
-ポケモンブリーダー
-ポケモンブリーダー
+Pokémon Trainer
+Pokémon Trainer
+Youngster
+Göre
+Schüler
+Schülerin
+Tennis-Spieler
+Footballer
+Kellner
+Kellnerin
+Pokémon Trainer
+Pokémon Trainer
+Kindergärtnerin
+Kindergärtnerin
+Kindergärtnerin
+Zwillinge
+Pokémon Züchter
+Pokémon Züchterin
 アロエ
 no data
 no data
 no data
 no data
-ポケモンレンジャー
-ポケモンレンジャー
+Pokémon Ranger
+Pokémon Ranger
 さぎょういん
-バックパッカー
-バックパッカー
+Wanderer
+Wanderer
 つりびと
-ミュージシャン
-ダンサー
+Musiker
+Tänzer
 クラウン
-げいじゅつか
-ベーカリー
+Künstler
+Bäcker
 サイキッカー
 サイキッカー
 no data
-ポケモントレーナー
+Pokémon Trainer
 no data
-ポケモントレーナー
+Pokémon Trainer
 おぼっちゃま
 おじょうさま
-パイロット
-さぎょういん
+Pilot
+Basketballer
 バスケせんしゅ
 けんきゅういん
 no data
 ＯＬ
-エリートトレーナー
-エリートトレーナー
-カラテおう
+Ass-Trainer
+Ass-Trainer
+Karate Meister
 けんきゅういん
-サッカーせんしゅ
+Footballer
 ハチク
 no data
 no data
@@ -59,65 +58,65 @@ no data
 せいそういん
 だいすきクラブ
 だいすきクラブ
-ドクター
-ナース
+Doktor
+Schwester
 バッドチーム
 バトルガール
-パラソルおねえさん
-ビジネスマン
-ビジネスマン
+Schirmdame
+Geschäftsmann
+Geschäftsmann
 ファンクラブ
 ファンクラブ
-ベテラントレーナー
-ベテラントレーナー
+Veteran-Trainer
+Veteran-Trainer
 ぼうそうぞく
-やきゅうせんしゅ
+Baseballer
 やまおとこ
-マダム
-ジェントルマン
+Dame
+Gentleman
 no data
-してんのう
-してんのう
-してんのう
-してんのう
+Top Vier
+Top Vier
+Top Vier
+Top Vier
 no data
-てつどういん
+Lökführer
 かいパンやろう
 ビキニのおねえさん
-おまわりさん
-メイド
+Polizist
+Dienstmädchen
 サブウェイマスター
-ポケモントレーナー
-サイクリング
-サイクリング
-バイクずき
+Pokémon Trainer
+Radfahrer
+Radfahrer
+Biker
 no data
 no data
 no data
 no data
-ゲームフリーク
+GAME FREAK
 no data
 no data
-ポケモントレーナー
-プラズマだん
+Pokémon Trainer
+N´s Team Plasma
 サブウェイマスター
 no data
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
-ジムリーダー
-ジムリーダー
-ジムリーダー
-ジムリーダー
-ジムリーダー
-ジムリーダー
-ジムリーダー
-ジムリーダー
+Pokemon Trainer
+Pokemon Trainer
+Pokemon Trainer
+Pokemon Trainer
+Pokemon Trainer
+Pokemon Trainer
+Pokemon Trainer
+Pokemon Trainer
+Arenaleiter
+Arenaleiter
+Arenaleiter
+Arenaleiter
+Arenaleiter
+Arenaleiter
+Arenaleiter
+Arenaleiter
 タケシ
 カスミ
 マチス
@@ -143,8 +142,8 @@ no data
 フウ
 ラン
 アダン
-ポケモントレーナー
-ギタリスト
+Pokémon Trainer
+Gitarrist
 ボストレーナー
 ボストレーナー
 ボストレーナー
@@ -178,29 +177,29 @@ no data
 ダイゴ
 ミクリ
 おとなのおねえさん
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
-プラズマだん
-プラズマだん
-プラズマだん
-プラズマだん
-ポケモントレーナー
-プラズマだん
-プラズマだん
+Pokemon Trainer
+Pokemon Trainer
+Pokemon Trainer
+Pokemon Trainer
+Pokemon Trainer
+Pokemon Trainer
+N´s Team Plasma
+N´s Team Plasma
+N´s Team Plasma
+N´s Team Plasma
+Pokémon Trainer
+N´s Team Plasma
+N´s Team Plasma
 チャンピオン
 かいじん
-ポケモントレーナー
+Pokémon Trainer
 ゲームフリーク
-ポケモントレーナー
-ポケモントレーナー
+Pokémon Trainer
+Pokémon Trainer
 ヒーロー
 ヒーロー
-にんじゃ
-にんじゃ
+Ninjajunge
+Ninjajunge
 ＳＦたいいん
 ＳＦたいいん
 けんきゅういん
@@ -232,5 +231,5 @@ no data
 no data
 みらいじん
 クラウン
-レッド
-ポケモントレーナー
+Rot
+Pokemon Trainer
