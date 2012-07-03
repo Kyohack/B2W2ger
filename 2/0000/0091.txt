@@ -1,30 +1,30 @@
-ロードしています\xfffeしばらく　おまちください
-ただしい　ソフトが　ささっていません\xfffeでんげんをきり　ただしい　ソフトを\xfffeさしてから　ポケシフターを\xfffeきどうしなおして　ください\xf000븁\x0000
-ポケシフター　きどうちゅう……\xfffeまもなく　はじまります
-レポートに　かきこんでいます\xfffeでんげんを　きらないでください
-レポートに　かきこみました\xf000븂\x0001<
-もういちど　ポケシフターで\xfffeあそびますか？
-ポケシフターを　しゅうりょうします\xfffeでんげんを　きって\xfffeしゅうりょうしてください
-もう１つの　ＤＳに\xfffeボックスの　あきが　たりません\xf000븁\x0000
-ポケシフターで　つかまえられる\xfffeポケモンが\xfffeボックスに　６ひき　いません\xf000븁\x0000
-データの　よみこみに\xfffeしっぱい　しました\xf000븁\x0000
-もう１つの　ＤＳの\xfffeせつぞくに　しっぱい　しました\xf000븁\x0000
-データの　かきこみに\xfffeしっぱい　しました\xf000븁\x0000
-つれてきた　ポケモンは\xfffeもう　もとの　ばしょには\xf000븁\x0000\xfffeもどれませんが\xfffeほんとうに　よろしいですか？
-ポケモンを　もとのちほうに\xfffeかえしました\xf000븁\x0000
-レポートを　よみこむことが\xfffeできませんでした\xfffeレポートが　かかれていないか\xfffeこわれている　かのうせいがあります\xf000븁\x0000
-ただしい　ソフトが　ささっていません\xfffeでんげんをきり　ただしい　ソフトを\xfffeさしてから　ポケシフターを\xfffeきどうしなおして　ください\xf000븁\x0000
-はい
-いいえ
-Ｌｖ．\xf000Ȃ\x0001\x0000
-タマゴは　ポケシフターで\xfffeつかまえることが　できません
-ひでんわざを　おぼえている　ポケモンは\xfffeポケシフターで　つかまえられません
-このポケモンは　ポケシフターで\xfffeつかまえられません
-この６ひきで　よろしいですか？
-オウ！\xf000븁\x0000\xfffeこの　ギザみみピチューは\xfffeもとの　ばしょに\xf000븀\x0000\xfffeステイさせたほうが　よさそうだ！\xf000븁\x0000\xfffeこのピチューは　ときわたりで\xfffeやってきた　ポケモンらしいね\xf000븁\x0000\xfffeみたところ　この　ピチューは\xfffeセレビィと　いっしょに　ながい　じかん\xf000븀\x0000\xfffeわたってきた　えいきょうが　からだに\xf000븀\x0000\xfffeのこってる　みたいだ\xf000븁\x0000\xfffeつれてくるのは　デンジャラス！\xfffeベリー　デンジャラスッ！\xf000븁\x0000\xfffeもとの　ばしょに　いるほうが\xfffeピチューに　とっても　ベストだろう！
-もっている　どうぐは　バッグに\xfffeもどりますが　よろしいですか？
-バッグに　いっぱいの　どうぐは\xfffeきえてしまいますが　よろしいですか？
-ポケシフターを　しゅうりょうしますか？
-ポケモンを　６ひき　えらんで\xfffeタッチペンをつかって　みぎのわくに\xfffeスライドさせて　ください
-じかんないに　ポケモンを\xfffeぜんぶ　つかまえろ！
+Ladevorgang.\xfffeBitte warten...
+Kein kompatibles Spiel gefunden.\xfffeSchalte dein System ab, lege eine\xfffekompatible Nintendo DS-Karte ein\xfffeund starte den Poképorter erneut.\xf000븁\x0000
+Der Poképorter wird aktiviert...\xfffeGleich geht es los!
+Speichervorgang...\xfffeBitte schalte das System nicht aus.
+Speichervorgang abgeschlossen.\xf000븂\x0001<
+Möchtest du den Poképorter erneut\xfffeeinsetzen?
+Der Poképorter wird abgeschaltet.\xfffeBitte schalte dein System aus,\xfffeum den Vorgang zu beenden.
+Nicht genügend Platz in den Boxen\xfffeauf dem zweiten System.\xf000븁\x0000
+In den Boxen befinden sich keine\xfffe6 Pokémon, die sich mit dem\xfffePoképorter fangen lassen.\xf000븁\x0000
+Fehler beim Lesen der Daten.\xf000븁\x0000
+Der Verbindungsaufbau zum zweiten\xfffeSystem ist fehlgeschlagen.\xf000븁\x0000
+Fehler beim Schreiben der Daten.\xf000븁\x0000
+Für Pokémon, die auf eine andere\xfffeEdition hinübergewandert sind,\xf000븀\x0000\xfffegibt es kein Zurück mehr.\xf000븁\x0000\xfffeMöchtest du wirklich fortfahren?
+Die Pokémon wurden zurück an den Ort\xfffegeschickt, von dem sie kamen.\xf000븁\x0000
+Lesen der Speicherdaten fehl-\xfffegeschlagen. Es sind entweder\xfffekeine oder nur fehlerhafte\xfffeDaten vorhanden.\xf000븁\x0000
+Kein kompatibles Spiel gefunden.\xfffeSchalte dein System ab, lege eine\xfffekompatible Nintendo DS-Karte ein\xfffeund starte den Poképorter erneut.\xf000븁\x0000
+JA
+NEIN
+Lv. \xf000Ȃ\x0001\x0000
+Ein Ei kannst du mit dem Poképorter\xfffenicht fangen.
+Pokémon mit VM-Attacken kannst du mit\xfffedem Poképorter nicht fangen.
+Dieses Pokémon kannst du mit dem\xfffePoképorter nicht fangen.
+Diese 6 Pokémon?
+Oh! This Strubbelohr-Pichu bleibt\xfffebesser where it is - wo es ist!\xf000븁\x0000\xfffeApparently - offenbar hat diese Pichu\xfffeeine Zeitreise hinter sick!\xf000븁\x0000\xfffeWie es aussieht, hat diese lange Reise\xfffethrough time an seine body so ihre\xf000븀\x0000\xfffeSpuren hinterlassen, it seems!\xf000븁\x0000\xfffeDiese Pokémon mitzunehmen would be\xfffestrawberry... bromberry... very, berry\xf000븀\x0000\xfffedangerous für seine Gesundheit!!\xf000븁\x0000\xfffeEs bleibt besser right where it is!\xfffeGenau wo es ist, bleibt es besser!
+Getragene Items wandern zurück in den\xfffeBeutel. Einverstanden?
+Items, von denen du bereits zu viele im\xfffeBeutel hast, verschwinden. Einverstanden?
+Soll der Poképorter abgeschaltet werden?
+Wähle bitte 6 Pokémon aus und ziehe sie\xfffemit dem Touchpen in den Rahmen\xfffeauf der rechten Seite.
+Versuche, alle Pokémon in der\xfffevorgegebenen Zeit zu fangen!
 デバッグROM\xfffeDP　Y\xfffePT　X\xfffeGS　A
