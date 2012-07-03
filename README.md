@@ -1,7 +1,7 @@
 B2W2ger
 =======
 
-Pokemon Black2 �& White2 German Translation by PokeStation
+German Translation project for Pokémon Black2 & White2 (by PokeStation)
 
 Contributors:
 Kyohack
@@ -9,6 +9,7 @@ CloneCharizard
 wowfreak3000
 Ludicario
 Thechandrians
+MLess
 
 Thread: http://pokestation.net/forum/showthread.php?14123-Translation-project-for-Pok%E9mon-Black2-amp-White2
 
