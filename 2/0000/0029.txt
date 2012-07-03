@@ -15,32 +15,32 @@
 ＩＤ\xf000Ȅ\x0001\x0000
 ―／―
 \xf000Ȁ\x0001\x0000／４
-ともだちを　えらんでください
-ともだちを　よびだす
+Bitte wähle deine Freunde aus
+Freund(e) anrufen
 さんかする
 ともだちを　よびだしちゅう！
 ともだちを　よびだしちゅう・
 ともだちを　よびだしちゅう・・
 ともだちを　よびだしちゅう・・・
-せつぞくちゅう！
-せつぞくちゅう・
-せつぞくちゅう・・
-せつぞくちゅう・・・
-ともだちを　さがしています！
-ともだちを　さがしています・
-ともだちを　さがしています・・
-ともだちを　さがしています・・・
+Verbindet！
+Verbindet・
+Verbindet・・
+Verbindet・・・
+Sucht nach deinen Freunden！
+Sucht nach deinen Freunden・
+Sucht nach deinen Freunden・・
+Sucht nach deinen Freunden・・・
 ライブキャスターを\xfffeしゅうりょう　しますか？
 リーダーが　やめると　かいさんに\xfffeなりますが　よろしいですか？
-はい
-いいえ
+Ja
+Nein
 リーダーが　しゅうりょうしたので　\xfffeかいさんします
 あいてが　しゅうりょうしたので　\xfffeかいさんします
 メンバーが　いなくなったので\xfffeしゅうりょうします
-よびだしに　しっぱいしました
-せつぞくに　しっぱいしました
+Anruf fehlgeschlagen.
+Verbindung konnte nicht hergestellt werden.
 ペアレンタルコントロールの\xfffeせっていにより　しゃしんデータの\xfffeそうじゅしんが\xfffeせいげん　されています\xfffeがぞうを　だしたいときは\xfffeほんたいせっていで\xfffeせいげんを　かいじょ　してください
-あいての　しゅうりょうを　まっています
+Warten auf andere Spieler
 ただいま　『\xf000Ĝ\x0001\x0000』の\xfffeさんかしゃを　ぼしゅうちゅうです！\xfffeしめきりまで　あと\xf000ȁ\x0001\x0001びょうです！
 『\xf000Ĝ\x0001\x0000』の\xfffeかいしまで　しばらくおまちください
 『\xf000Ĝ\x0001\x0000』が\xfffeちゅうし　されました
@@ -61,10 +61,10 @@
 もういちど\xfffe『\xf000Ĝ\x0001\x0000』を　\xfffeあそびますか？
 バルーンキャッチ
 バルーンスマッシュ
-ゲームルール
-ちゅうし
+Spiel Regeln
+Abbrechen
 \xf000Ȃ\x0001\x0000
-あか
-あお
-き
-みどり
+Rot
+Blau
+Gelb
+Grün
