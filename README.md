@@ -2,6 +2,7 @@ B2W2ger
 =======
 
 German Translation project for Pokémon Black2 & White2 (by PokeStation)
+==============================
 
 Contributors:
 Kyohack
@@ -13,7 +14,7 @@ MLess
 
 Thread: http://pokestation.net/forum/showthread.php?14123-Translation-project-for-Pok%E9mon-Black2-amp-White2
 
-Important Stuff (Zu beachten!)
+Important Stuff (zu beachten!):
 ==============================
 
 Hello this information will be written in german:
