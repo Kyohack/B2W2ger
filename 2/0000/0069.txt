@@ -1,43 +1,43 @@
-ライブたいかいに　さんかするため\xfffeデジタルせんしゅしょうを\xf000븀\x0000\xfffeこうしん　します\xf000븁\x0000\xfffeデジタルせんしゅしょうを\xfffeうわがきしても　よろしいですか？
-ライブたいかいに　さんかするため\xfffeデジタルせんしゅしょうを\xf000븀\x0000\xfffeこうしん　します\xf000븁\x0000\xfffeぜんかいの　たいかいで　おこなった\xfffeバトルボックスの　とうろくは\xf000븀\x0000\xfffeかいじょ　されます\xf000븁\x0000\xfffeデジタルせんしゅしょうを\xfffeうわがきしても　よろしいですか？
-せきがいせんつうしんで\xfffeせんしゅしょうを　じゅしんします\xf000븁\x0000\xfffeじぶんと　あいての\xfffeＤＳカードを　むきあわせて\xf000븀\x0000\xfffeＡボタンを　おしてください\xf000븁\x0000
-いちど　たいかいに　とうろくして\xfffeかいじょ　しています\xf000븁\x0000\xfffeこんかいの　たいかいは\xfffeとうろく　できません\xf000븁\x0000
-この　たいかいに　さんかして\xfffeたいせんを　おえています\xf000븁\x0000\xfffeいちど　さんかした　たいかいは\xfffeとうろく　できません\xf000븁\x0000
-バトルボックスの　ポケモンを\xfffeたいかいに　とうろくします\xf000븁\x0000\xfffeちゅうい！\xfffeいちど　とうろくすると\xf000븀\x0000\xfffeさんかを　かいじょ　するまで\xf000븀\x0000\xfffeバトルボックスへ　ポケモンを\xf000븀\x0000\xfffeだしいれ　できなくなります\xf000븁\x0000\xfffeバトルボックスの　ポケモンを\xfffeとうろく　しても　よろしいですか？
-はい
-いいえ
-さんか　ポケモンの\xfffeとうろくを　やめますか？
-たいかいの　じょうけんを\xfffeみたしていません\xf000븁\x0000\xfffeたいかいの　ルールを　かくにんして\xfffeバトルボックスに　ポケモンを\xf000븀\x0000\xfffeセット　してください\xf000븁\x0000
-レポートに　かきこんでいます\xfffeでんげんを　きらないでください
-バトルボックスの　ポケモンを\xfffeとうろく　しました\xf000븁\x0000\xfffeたいかいの　さんかを\xfffeかいじょするまで\xf000븀\x0000\xfffeバトルボックスの　ポケモンは\xf000븀\x0000\xfffeかえられなく　なります\xf000븁\x0000
-ポケモンバトルたいかい！\xfffeなにを　しますか？
-たいせんする
-ふりかえる
-さんかを　かいじょする
-さいごの　たいせんの　きろくを\xfffeさいせい　します\xf000븁\x0000
-さんかを　かいじょすると\xfffeおなじ　たいかいに　さんかできません\xf000븁\x0000\xfffeかいじょしても　よろしいですか？
-たいかいの　さんかを　かいじょします\xfffeほんとうに　よろしいですか？
-バトルボックスの　とうろくを\xfffeかいじょ　しました\xf000븁\x0000
-たいせんする　あいてと\xfffeせきがいせんつうしん　します\xf000븁\x0000\xfffeじぶんと　あいての\xfffeＤＳカードを　むきあわせて\xf000븀\x0000\xfffeＡボタンを　おしてください\xf000븁\x0000
-せきがいせんつうしんを\xfffeやめますか？
-おたがいの　えらんでいる\xfffeたいかいが　ちがいます\xf000븁\x0000\xfffeデジタルせんしゅしょうを\xfffeかくにんして\xf000븁\x0000\xfffeかかりいんの　しじに\xfffeしたがって　ください\xf000븁\x0000
-たいせん　あいてが\xfffeみつかりました！
-かかりいんの　しじに　したがい\xfffeAボタンを　おしてください\xf000븁\x0000
-たいせんが　おわりましたので\xfffeバトルボックスの　とうろくを\xf000븀\x0000\xfffeかいじょ　しました\xf000븁\x0000
-せんしゅしょうの　じゅしんに　\xfffeしっぱい　しました\xf000븁\x0000
-せんしゅしょうの　じゅしんに　\xfffeしっぱい　しました\xf000븁\x0000
-つうしんに　\xfffeしっぱい　しました\xf000븁\x0000
-ライブたいかいを　しゅうりょうします\xf000븁\x0000
-おわる
-たいかいを　しゅうりょうします\xfffeおつかれさまでした\xf000븁\x0000
-データを　うけとっています……\xfffeしばらく　おまちください
-たいせん　あいてを　さがしています……\xfffeしばらく　おまちください
-さいごの　たいせんの　きろくには\xfffeもんだいが　あるため\xf000븀\x0000\xfffeさいせい　できませんでした\xf000븁\x0000
-つうしん　たいきちゅう　です……\xfffeしばらく　おまちください
-つうしんした　あいてとは\xfffeいちど　たいせん　しています\xf000븁\x0000\xfffeおなじ　あいてとは\xfffeたいせん　できません\xf000븁\x0000
-バトルボックスに\xfffeポケモンが　１ひきも　いません\xf000븁\x0000\xfffeたいかいの　ルールを　かくにんして\xfffeバトルボックスに　ポケモンを\xf000븀\x0000\xfffeセット　してください\xf000븁\x0000
-ポケモンを\xfffeえらんで　ください
-エラーが　はっせいしたため\xfffeたいせんを　しゅうりょうしました\xf000븀\x0000\xfffeかかりいんの　しじに　したがってください\xf000븁\x0000
+Vor der Teilnahme an einem Hautnahturnier\xfffemüssen deine digitalen Ausweisdaten\xf000븀\x0000\xfffeerneuert werden.\xf000븁\x0000\xfffeSollen die bisherigen Daten wirklich\xfffeüberschrieben werden?
+Deine digitalen Ausweisdaten werden für\xfffedie Teilnahme an den Hautnahturnieren\xf000븀\x0000\xfffeaktualisiert.\xf000븁\x0000\xfffeDie Zusammenstellung deiner Kampfbox\xfffeaus dem letzten Turnier wird gelöscht.\xf000븁\x0000\xfffeSollen deine digitalen Ausweisdaten\xfffetrotzdem überschrieben werden?
+Bereite Infrarotempfang der digitalen\xfffeAusweisdaten des Gegenübers vor.\xf000븁\x0000\xfffeRichtet nun eure Karten aufeinander\xfffeaus und drückt den A-Knopf.\xf000븁\x0000
+Du warst für das Turnier angemeldet,\xfffebist aber wieder ausgestiegen.\xf000븁\x0000\xfffeDu kannst dich daher nicht noch einmal\xfffefür das aktuelle Turnier anmelden.\xf000븁\x0000
+Du hast an diesem Turnier bereits\xfffeteilgenommen.\xf000븁\x0000\xfffeEs ist nicht möglich, zweimal am\xfffeselben Turnier teilzunehmen.\xf000븁\x0000
+Die Pokémon in deiner Kampfbox werden\xfffenun zum Turnier angemeldet.\xf000븁\x0000\xfffeVorsicht!\xfffeNach der Anmeldung ist es bis zum Ausstieg\xf000븀\x0000\xfffeaus dem Turnier nicht mehr möglich, die\xf000븀\x0000\xfffeZusammenstellung der Kampfbox zu ändern.\xf000븁\x0000\xfffeSollen die Pokémon in deiner Kampfbox\xfffewirklich zum Turnier angemeldet werden?
+Ja
+Nein
+Soll die Anmeldung der teilnehmenden\xfffePokémon abgebrochen werden?
+Es wurden noch nicht alle Bedingungen\xfffezur Teilnahme am Turnier erfüllt.\xf000븁\x0000\xfffeÜberprüfe noch einmal die Turnierregeln\xfffeund fülle deine Kampfbox dementsprechend\xf000븀\x0000\xfffemit Pokémon.\xf000븁\x0000
+Speichervorgang...\xfffeBitte das System nicht ausschalten.
+Der Anmeldevorgang der Pokémon\xfffein deiner Kampfbox wurde abgeschlossen.\xf000븁\x0000\xfffeDie Aufstellung der Pokémon in deiner\xfffeKampfbox kann nun bis zum Ausstieg aus\xf000븀\x0000\xfffedem Turnier nicht mehr geändert werden.\xf000븁\x0000
+Willkommen bei den Pokémon-\xfffeKampfturnieren! Was hast du vor?
+Kämpfen
+Rückblick
+Aussteigen
+Eine Aufnahme des letzten Kampfes\xfffewird abgespielt.\xf000븁\x0000
+Trittst du aus dem Turnier aus, kannst\xfffedu danach nicht mehr daran teilnehmen.\xf000븁\x0000\xfffeIst deine Entscheidung endgültig?
+Du trittst nun aus dem Turnier aus.\xfffeBist du dir ganz sicher?
+Die Zusammenstellung deiner Kampfbox\xfffewurde gelöscht.\xf000븁\x0000
+Bereite Infrarotverbindung mit\xfffedem Gegner vor.\xf000븁\x0000\xfffeRichtet nun eure Karten aufeinander\xfffeaus und drückt den A-Knopf.\xf000븁\x0000
+Soll die Infrarotverbindung getrennt\xfffewerden?
+Ihr habt euch für jeweils unterschiedliche\xfffeTurniere entschieden.\xf000븁\x0000\xfffeÜberprüft eure digitalen Ausweisdaten\xfffeund folgt den offiziellen Anweisungen.\xf000븁\x0000
+Gegner gefunden!
+Folge den offiziellen Anweisungen und\xfffedrücke den A-Knopf.\xf000븁\x0000
+Der Kampf wurde beendet und die\xfffeangemeldeten Pokémon in deiner\xf000븀\x0000\xfffeKampfbox sind wieder freigegeben.\xf000븁\x0000
+Fehler beim Empfang der\xfffedigitalen Ausweisdaten.\xf000븁\x0000
+Fehler beim Empfang der\xfffedigitalen Ausweisdaten.\xf000븁\x0000
+Verbindungsfehler.\xf000븁\x0000
+Hautnahturnier wird beendet.\xf000븁\x0000
+Ende
+Das Turnier wird beendet.\xfffeVielen Dank für die Teilnahme!\xf000븁\x0000
+Empfange Daten...\xfffeBitte warten.
+Suche nach Gegnern...\xfffeBitte warten.
+Die Aufzeichnung des letzten Kampfes\xfffekann aufgrund eines Fehlers nicht\xf000븀\x0000\xfffewiedergegeben werden.\xf000븁\x0000
+Verbindung wird hergestellt.\xfffeBitte warten...
+Gegen den Spieler, mit dem du aktuell\xfffeverbunden bist, hast du bereits gekämpft.\xf000븁\x0000\xfffeEs ist nicht möglich, zweimal gegen\xfffedenselben Gegner anzutreten.\xf000븁\x0000
+In deiner Kampfbox befinden sich\xfffezurzeit keine Pokémon.\xf000븁\x0000\xfffeÜberprüfe noch einmal die Turnierregeln\xfffeund fülle deine Kampfbox dementsprechend\xf000븀\x0000\xfffemit Pokémon.\xf000븁\x0000
+Bitte Pokémon wählen.
+Der Kampf wurde aufgrund eines Fehlers\xfffeabgebrochen.\xf000븀\x0000\xfffeBitte folge den offiziellen Anweisungen.\xf000븁\x0000
 けっかを　かくにん
 たいかいの　じょうけんを\xfffeみたしていません\xf000븁\x0000
 ポケモンの　かずが\xfffeじょうけんを　みたしていません\xf000븁\x0000
