@@ -73,9 +73,9 @@ Puder:　\xf000ȃ\x0001\x0000
 Beeren Puder
 Spielt auf der Poke-Flöte！\xfffeWOW! Das hört sich gut an！
 Spielt auf der Poke-Flöte！
-Das Pokemon hörte die\xfffeFlöte udn wachte auf.
+Das Pokemon hörte die\xfffeFlöte und wachte auf.
 Bewegen
-Du kannst \xf000ĉ\x0001\x0000 ncith kaufen.
+Du kannst \xf000ĉ\x0001\x0000 nicht kaufen.
 \xf000ĉ\x0001\x0000を\xfffeいくつ　うりますか？
 それなら　\xf000Ȇ\x0001\x0000円で\xfffeおひきとり　いたしましょう
 \xf000ĉ\x0001\x0000を　わたして\xfffe\xf000Ȇ\x0001\x0001円を　うけとった
