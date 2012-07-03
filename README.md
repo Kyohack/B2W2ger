@@ -5,12 +5,12 @@ German-Translation project for Pokémon Black2 & White2 (by PokeStation)
 
 
 Contributors:
-Kyohack, 
-CloneCharizard, 
-wowfreak3000, 
-Ludicario, 
-Thechandrians,
-MLess
+Kyohack     
+CloneCharizard      
+wowfreak3000      
+Ludicario     
+Thechandrians     
+MLess     
 
 Special thanks to Thechandrians.
 
