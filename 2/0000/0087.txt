@@ -1,84 +1,83 @@
-\xf000봂\x0000『バトル　ミッション』
-\xf000봂\x0000『サポート　ミッション』
-\xf000봂\x0000『サポート　ミッション』
-\xf000봂\x0000『アイテム　ミッション』
-\xf000봂\x0000『アイテム　ミッション』
-\xf000봂\x0000『レスキュー　ミッション』
+\xf000봂\x0000KAMPFMISSION
+\xf000봂\x0000UNTERSTÜTZUNGSMISSION
+\xf000봂\x0000UNTERSTÜTZUNGSMISSION
+\xf000봂\x0000ITEM-MISSION
+\xf000봂\x0000ITEM-MISSION
+\xf000봂\x0000RETTUNGSMISSION
 おおきさミッション
 はっせいミッション
-\xf000Ā\x0001\x0000に　はなしかけて　もらい\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（あいてのＨＰが　かんぜんかいふく　する）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　はなしかけて　もらい\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（１じかん　タマゴが　かえりやすくなる）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　はなしかけて　もらい\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（１じかん　やすうりが　おこなわれる）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　はなしかけて　もらい\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（１じかん　ポケモンがなつきやすくなる）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　はなしかけて　もらい\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（１じかん　けいけんちが　たまりやすい）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　はなしかけて　もらい\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（１じかん　おこづかいが　たまりやすい）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　はなしかけて　もらい\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（１じかん　ポケモンが　ほかくしやすい）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　はなしかけて　もらい\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（３０ふん　タマゴが　かえりやすくなる）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　はなしかけて　もらい\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（３０ふん　やすうりが　おこなわれる）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　はなしかけて　もらい\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（３０ふん　ポケモンが　なつきやすくなる）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　はなしかけて　もらい\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（３０ふん　けいけんちが　たまりやすい）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　はなしかけて　もらい\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（３０ふん　おこづかいが　たまりやすい）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　はなしかけて　もらい\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（３０ふん　ポケモンが　ほかくしやすい）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　じぶんから　はなしかけ\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（１じかん　ポケモンが　ほかくしやすい）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　じぶんから　はなしかけ\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（１じかん　おこづかいが　たまりやすい）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　じぶんから　はなしかけ\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（１じかん　けいけんちが　たまりやすい）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　じぶんから　はなしかけ\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（１じかん　ポケモンがなつきやすくなる）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　じぶんから　はなしかけ\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（１じかん　やすうりが　おこなわれる）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　じぶんから　はなしかけ\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（１じかん　タマゴが　かえりやすくなる）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　じぶんから　はなしかけ\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（あいてのＨＰが　かんぜんかいふく　する）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　じぶんから　はなしかけ\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（３０ふん　ポケモンが　ほかくしやすい）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　じぶんから　はなしかけ\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（３０ふん　おこづかいが　たまりやすい）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　じぶんから　はなしかけ\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（３０ふん　けいけんちが　たまりやすい）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　じぶんから　はなしかけ\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（３０ふん　ポケモンが　なつきやすくなる）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　じぶんから　はなしかけ\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（３０ふん　やすうりが　おこなわれる）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　じぶんから　はなしかけ\xfffe「タマゴふかパワー　Ｓ」を　あたえよ！\xfffe（３０ふん　タマゴが　かえりやすくなる）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　たたかいを　いどめ！\xfffeてもち　２ひき　レベルは　\xf000Ȃ\x0001\x0001フラット\xfffe（ことわられたら　しっぱい！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　たたかいを　いどめ！\xfffeてもち　２ひき　レベルは　\xf000Ȃ\x0001\x0001フラット\xfffe（ことわられたら　しっぱい！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　たたかいを　いどめ！\xfffeてもち　２ひき　レベルは　\xf000Ȃ\x0001\x0001フラット\xfffe（ことわられたら　しっぱい！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　たたかいを　いどめ！\xfffeてもち　２ひき　レベルは　\xf000Ȃ\x0001\x0001フラット\xfffe（ことわられたら　しっぱい！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　たたかいを　いどめ！\xfffeてもち　２ひき　レベルは　\xf000Ȃ\x0001\x0001フラット\xfffe（ことわられたら　しっぱい！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　たたかいを　いどめ！\xfffeてもち　２ひき　レベルは　\xf000Ȃ\x0001\x0001フラット\xfffe（ことわられたら　しっぱい！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　たたかいを　いどめ！\xfffeてもち　２ひき　レベルは　\xf000Ȃ\x0001\x0001フラット\xfffe（ことわられたら　しっぱい！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　たたかいを　いどめ！\xfffeてもち　２ひき　レベルは　\xf000Ȃ\x0001\x0001フラット\xfffe（ことわられたら　しっぱい！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-たたかってる　\xf000Ā\x0001\x0000に　はなしかけ\xfffe「せんとうＨＰかいふくパワー」をあたえよ\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-たたかってる　\xf000Ā\x0001\x0000に　はなしかけ\xfffe「せんとうＨＰかいふくパワー」をあたえよ\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-たたかってる　\xf000Ā\x0001\x0000に　はなしかけ\xfffe「せんとうＨＰかいふくパワー」をあたえよ\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-たたかってる　\xf000Ā\x0001\x0000に　はなしかけ\xfffe「せんとうＨＰかいふくパワー」をあたえよ\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　ライモンシティの\xfffeベンチとベンチの　あいだに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　ホドモエシティの\xfffeテントのうらの　いえのまえにかくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　フキヨセシティの　\xfffeおくの　ひこうきの　まえにかくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　セッカシティの\xfffeみんなが　まわっていた　ばしょにかくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　ソウリュウシティの\xfffeワープできない　ゲートのまえにかくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　カゴメタウンにある\xfffeマンホールの　うえに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　サザナミタウンの\xfffeふんすいの　まえに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　５ばんどうろ　の\xfffeミュージシャンがいた　まえに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　６ばんどうろ　の\xfffeたてにながい　はしのまんなかに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　７ばんどうろ　の\xfffeタワーオブヘブン　のまえに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　８ばんどうろ　の\xfffeどうろかんばんの　まえに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　９ばんどうろ　の\xfffeゴミばこの　てまえに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　１１ばんどうろ　の\xfffeトレーラーの　まえに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　１２ばんどうろ　の\xfffeまんなかの　かんばんに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　１３ばんどうろ　の\xfffeくさむらのはえる　しまの　きにかくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　１４ばんどうろ　の\xfffeすなはまと　りくちの　あいだに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　１５ばんどうろ　の\xfffeゴミばこの　てまえに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　１６ばんどうろ　の\xfffeさくが　きれているところに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　ライモンシティの\xfffeベンチとベンチの　あいだに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　ホドモエシティの\xfffeテントのうらの　いえのまえにかくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　フキヨセシティの　\xfffeおくの　ひこうきの　まえにかくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　セッカシティの\xfffeみんなが　まわっていた　ばしょにかくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　ソウリュウシティの\xfffeワープできない　ゲートのまえにかくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　カゴメタウンにある\xfffeマンホールの　うえに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　サザナミタウンの\xfffeふんすいの　まえに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　５ばんどうろ　の\xfffeミュージシャンがいた　まえに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　６ばんどうろ　の\xfffeたてにながい　はしのまんなかに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　７ばんどうろ　の\xfffeタワーオブヘブン　のまえに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　８ばんどうろ　の\xfffeどうろかんばんの　まえに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　９ばんどうろ　の\xfffeゴミばこの　てまえに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　１１ばんどうろ　の\xfffeトレーラーの　まえに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　１２ばんどうろ　の\xfffeまんなかの　かんばんに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　１３ばんどうろ　の\xfffeくさむらのはえる　しまの　きにかくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　１４ばんどうろ　の\xfffeすなはまと　りくちの　あいだに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　１５ばんどうろ　の\xfffeゴミばこの　てまえに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　１６ばんどうろ　の\xfffeさくが　きれているところに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　\xf000ĉ\x0001\x0001を\xfffeおかいどくな　ねだんで　かってもらえ！！\xfffe（ことわられたら　しっぱい！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-ー
+Lass dich von \xf000Ā\x0001\x0000 anreden\xfffeund wende \xf000Đ\x0001\x0001 an!\xfffe(Frischt beim Ziel alle KP auf)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Lass dich von \xf000Ā\x0001\x0000 anreden\xfffeund wende \xf000Đ\x0001\x0001 an!\xfffe(Pokémon schlüpfen für 1 Stunde leichter)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Lass dich von \xf000Ā\x0001\x0000 anreden\xfffeund wende \xf000Đ\x0001\x0001 an!\xfffe(Lässt die Preise für eine Stunde fallen)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Lass dich von \xf000Ā\x0001\x0000 anreden\xfffeund wende \xf000Đ\x0001\x0001 an!\xfffe(Pokémon für 1 Stunde leichter zähmbar)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Lass dich von \xf000Ā\x0001\x0000 anreden\xfffeund wende \xf000Đ\x0001\x0001 an!\xfffe(E.-Punkte-Ausbeute steigt für 1 Stunde)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Lass dich von \xf000Ā\x0001\x0000 anreden\xfffeund wende \xf000Đ\x0001\x0001 an!\xfffe(Preisgeld-Ausbeute steigt für 1 Stunde)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Lass dich von \xf000Ā\x0001\x0000 anreden\xfffeund wende \xf000Đ\x0001\x0001 an!\xfffe(Pokémon für 1 Stunde leichter fangbar)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Lass dich von \xf000Ā\x0001\x0000 anreden\xfffeund wende \xf000Đ\x0001\x0001 an!\xfffe(Pokémon schlüpfen für 30 Min. leichter)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Lass dich von \xf000Ā\x0001\x0000 anreden\xfffeund wende \xf000Đ\x0001\x0001 an!\xfffe(Senkt die Preise für 30 Minuten)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Lass dich von \xf000Ā\x0001\x0000 anreden\xfffeund wende \xf000Đ\x0001\x0001 an!\xfffe(Pokémon für 30 Min. leichter zähmbar)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Lass dich von \xf000Ā\x0001\x0000 anreden\xfffeund wende \xf000Đ\x0001\x0001 an!\xfffe(E.-Punkte-Ausbeute steigt für 30 Min.)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Lass dich von \xf000Ā\x0001\x0000 anreden\xfffeund wende \xf000Đ\x0001\x0001 an!\xfffe(Preisgeld-Ausbeute steigt für 30 Min.)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Lass dich von \xf000Ā\x0001\x0000 anreden\xfffeund wende \xf000Đ\x0001\x0001 an!\xfffe(Pokémon für 30 Min. leichter fangbar)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Sprich \xf000Ā\x0001\x0000 an und\xfffewende \xf000Đ\x0001\x0001 an!\xfffe(Pokémon für 1 Stunde leichter fangbar)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Sprich \xf000Ā\x0001\x0000 an und\xfffewende \xf000Đ\x0001\x0001 an!\xfffe(Preisgeld-Ausbeute steigt für 1 Stunde)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Sprich \xf000Ā\x0001\x0000 an und\xfffewende \xf000Đ\x0001\x0001 an!\xfffe(E.-Punkte-Ausbeute steigt für 1 Stunde)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Sprich \xf000Ā\x0001\x0000 an und\xfffewende \xf000Đ\x0001\x0001 an!\xfffe(Pokémon für 1 Stunde leichter zähmbar)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Sprich \xf000Ā\x0001\x0000 an und\xfffewende \xf000Đ\x0001\x0001 an!\xfffe(Senkt die Preise für eine Stunde)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Sprich \xf000Ā\x0001\x0000 an und\xfffewende \xf000Đ\x0001\x0001 an!\xfffe(Pokémon schlüpfen für 1 Stunde leichter)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Sprich \xf000Ā\x0001\x0000 an und\xfffewende \xf000Đ\x0001\x0001 an!\xfffe(Frischt beim Ziel alle KP auf)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Sprich \xf000Ā\x0001\x0000 an und\xfffewende \xf000Đ\x0001\x0001 an!\xfffe(Pokémon für 30 Min. leichter fangbar)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Sprich \xf000Ā\x0001\x0000 an und\xfffewende \xf000Đ\x0001\x0001 an!\xfffe(Preisgeld-Ausbeute steigt für 30 Min.)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Sprich \xf000Ā\x0001\x0000 an und\xfffewende \xf000Đ\x0001\x0001 an!\xfffe(E.-Punkte-Ausbeute steigt für 30 Min.)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Sprich \xf000Ā\x0001\x0000 an und\xfffewende \xf000Đ\x0001\x0001 an!\xfffe(Pokémon für 30 Min. leichter zähmbar)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Sprich \xf000Ā\x0001\x0000 an und\xfffewende \xf000Đ\x0001\x0001 an!\xfffe(Senkt die Preise für 30 Minuten)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Sprich \xf000Ā\x0001\x0000 an und\xfffewende Brutkraft S an!\xfffe(Pokémon schlüpfen für 30 Min. leichter)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Fordere \xf000Ā\x0001\x0000 zum Kampf heraus!\xfffeHandicap: Zwei Team-Pokémon auf Lv. \xf000Ȃ\x0001\x0001.\xfffe(Mission scheitert, wenn Gegner ablehnt)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Fordere \xf000Ā\x0001\x0000 zum Kampf heraus!\xfffeHandicap: Zwei Team-Pokémon auf Lv. \xf000Ȃ\x0001\x0001.\xfffe(Mission scheitert, wenn Gegner ablehnt)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Fordere \xf000Ā\x0001\x0000 zum Kampf heraus!\xfffeHandicap: Zwei Team-Pokémon auf Lv. \xf000Ȃ\x0001\x0001.\xfffe(Mission scheitert, wenn Gegner ablehnt)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Fordere \xf000Ā\x0001\x0000 zum Kampf heraus!\xfffeHandicap: Zwei Team-Pokémon auf Lv. \xf000Ȃ\x0001\x0001.\xfffe(Mission scheitert, wenn Gegner ablehnt)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Fordere \xf000Ā\x0001\x0000 zum Kampf heraus!\xfffeHandicap: Zwei Team-Pokémon auf Lv. \xf000Ȃ\x0001\x0001.\xfffe(Mission scheitert, wenn Gegner ablehnt)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Fordere \xf000Ā\x0001\x0000 zum Kampf heraus!\xfffeHandicap: Zwei Team-Pokémon auf Lv. \xf000Ȃ\x0001\x0001.\xfffe(Mission scheitert, wenn Gegner ablehnt)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Fordere \xf000Ā\x0001\x0000 zum Kampf heraus!\xfffeHandicap: Zwei Team-Pokémon auf Lv. \xf000Ȃ\x0001\x0001.\xfffe(Mission scheitert, wenn Gegner ablehnt)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Fordere \xf000Ā\x0001\x0000 zum Kampf heraus!\xfffeHandicap: Zwei Team-Pokémon auf Lv. \xf000Ȃ\x0001\x0001.\xfffe(Mission scheitert, wenn Gegner ablehnt)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Sprich \xf000Ā\x0001\x0000 während eines Kampfes\xfffean und wende KP-Heilkraft (Kampf) an!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Sprich \xf000Ā\x0001\x0000 während eines Kampfes\xfffean und wende KP-Heilkraft (Kampf) an!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Sprich \xf000Ā\x0001\x0000 während eines Kampfes\xfffean und wende KP-Heilkraft (Kampf) an!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Sprich \xf000Ā\x0001\x0000 während eines Kampfes\xfffean und wende KP-Heilkraft (Kampf) an!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000\xfffezwischen zwei Bänken in Rayono City!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000 vor dem\xfffeHaus hinter dem Markt in Marea City!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000 am\xfffeFlugzeug nördlich in Panaero City!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000 in\xfffeNevaio City, wo die Kinder im Kreis tanzen!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Versteck das Item \xf000ĉ\x0001\x0000 vor dem\xfffeTor ohne Teleporter in Twindrake City!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000 unter\xfffeeinem Gullideckel in Tessera!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000 vor dem\xfffeSpringbrunnen in Ondula!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000 vor\xfffedem Straßenmusiker auf Route 5!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000\xfffeauf einer der Brücken auf Route 6.\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000\xfffevor dem Turm des Himmels auf Route 7!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000 vor\xfffedem Routenwegweiser auf Route 8!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000 vor\xfffedem Mülleimer auf Route 9!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000 vor\xfffedem Wohnwagen auf Route 11!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000 am\xfffeSchild in der Mitte von Route 12!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000 am Baum\xfffeauf d. Insel mit hohem Gras auf Route 13!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000\xfffezw. Strand und Festland auf Route 14!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000\xfffevor dem Mülleimer auf Route 15!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000 in der\xfffeLücke zwischen den Zäunen auf Route 16!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000\xfffezwischen zwei Bänken in Rayono City!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000 vor dem\xfffeHaus hinter dem Markt in Marea City!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000 am\xfffeFlugzeug nördlich in Panaero City!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000 in\xfffeNevaio City, wo die Kinder im Kreis tanzen!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000 vor dem\xfffeTor ohne Teleporter in Twindrake City.\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000 unter\xfffeeinem Gullideckel in Tessera!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000\xfffevor dem Springbrunnen in Ondula!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000 vor\xfffedem Straßenmusiker auf Route 5!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000\xfffeauf einer der Brücken auf Route 6!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000\xfffevor dem Turm des Himmels auf Route 7!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000 vor\xfffedem Routenwegweiser auf Route 8!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000 vor\xfffedem Mülleimer auf Route 9!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000 vor\xfffedem Wohnwagen auf Route 11!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000 am\xfffeSchild in der Mitte von Route 12!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000 am Baum\xfffeauf d. Insel mit hohem Gras auf Route 13!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000\xfffezw. Strand und Festland auf Route 14!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000 vor\xfffedem Mülleimer auf Route 15!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verstecke das Item \xf000ĉ\x0001\x0000 in der\xfffeLücke zwischen den Zäunen auf Route 16!\xfffe(Neustart, wenn du angesprochen wirst)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
+Verkaufe \xf000Ā\x0001\x0000 das Item\xfffe\xf000ĉ\x0001\x0001 zu einem Sonderpreis!\xfffe(Mission scheitert, wenn Partner ablehnt)\xfffe\xfffe\xfffeZeitbegrenzung: \xf000Ȃ\x0001\x0002 Sekunden\xfffe\xfffeBelohnung: \xf000ȁ\x0001\x0003 Transferorb(s)
