@@ -1,47 +1,47 @@
-たいせん
-こうかん
-もどる
-ふたりで　たいせん
-４にんで　たいせん
-シングルバトル
-ダブルバトル
-トリプルバトル
-たいせん　あいてと\xfffeせきがいせんつうしんを　してください
-パートナーとなる　あいてと\xfffeせきがいせんつうしんを　してください
+KAMPF
+TAUSCH
+ZURÜCK
+ZU ZWEIT KÄMPFEN
+ZU VIERT KÄMPFEN
+EINZELKAMPF
+DOPPELKAMPF
+DREIERKAMPF
+Bitte stelle eine Infrarotverbindung\xfffezu deinem Gegner her.
+Bitte stelle eine Infrarotverbindung\xfffezu deinem Teampartner her.
 リーダーに　なりました！
-たいせん　あいての　リーダーと\xfffeせきがいせんつうしんを　してください
-しばらく　おまちください
-ともだちコード
-フィーリング\xfffeチェック
-ちゅうだんしますか？
-こうかんする　あいてと\xfffeせきがいせんつうしんを　してください
+Bitte stelle eine Infrarotverbindung\xfffezum Leiter des gegnerischen Teams her.
+Bitte warte einen Moment...
+FREUNDESCODE
+HARMONIETEST
+Vorgang abbrechen?
+Bitte stelle eine Infrarotverbindung\xfffezum Tauschpartner her.
 ポケモンこうかん
 てもち
 こうかんしますか？
 Ｌｖ．\xf000Ȃ\x0001\x0000
 しゅうりょうしますか？
 こうかんしました
-しばらく　おまちください
-あそぶないようが　ちがったので\xfffeさいしょに　もどります
-ここまでの　かつやくを\xfffeポケモンレポートに　かきこみますか？
-はい
-いいえ
-ポケモンレポートに　かきこんでいます\xfffeでんげんを　きらないでください
-こうかんを　かいしします\xfffeしばらく　おまちください
-たいせんを　かいしします\xfffeしばらく　おまちください
-ローテーションバトル
-ともだちコードの　こうかん　あいてと\xfffeせきがいせんつうしんを　してください
-ともだちリストが　いっぱいです\xfffeともだちを　とうろく　できません
-\xf000봂\x0000とうろくにんずう\xfffe\xf000봂\x0000\xf000ȁ\x0001\x0000／３２
-けってい
-この　にんずうで　よろしいですか？
-さんかする　メンバー　ぜんいんと\xfffeせきがいせんつうしんを　してください
-えんもくを　きめた　リーダーと\xfffeせきがいせんつうしんを　してください
-\xf000Ȁ\x0001\x0000にんと　つうしんちゅう\xfffe　けっていで　すすむ
-バトルボックスで　たたかう
-てもちで　たたかう
-ともだちリストに\xfffeとうろく　しました！
-ともだちリストを\xfffeこうしん　しました！
-こうかんには　てもちの　ポケモンが\xfffe２ひき　いじょう　ひつようです
-すでに　べつの　ポケモンレポートが\xfffeかかれていますので\xf000븀\x0000\xfffeレポートが　かけません！\xf000븁\x0000\xfffeくわしくは\xfffeとりあつかいせつめいしょを\xf000븀\x0000\xfffeごらんください
-いっしょに　あそぶ　ともだちと\xfffeせきがいせんつうしんを　してください
+Bitte warte einen Moment.
+Die Spielinhalte stimmen nicht überein.\xfffeDer Vorgang wird neu gestartet.
+Möchtest du das Spiel speichern?
+JA
+NEIN
+Speichervorgang...\xfffeBitte das System nicht ausschalten.
+Der Tauschvorgang wird vorbereitet.\xfffeBitte warten...
+Der Kampf wird vorbereitet.\xfffeBitte warten...
+REIHUMKAMPF
+Bitte stelle eine Infrarotverbindung\xfffeher, um Freundescodes auszutauschen.
+Deine Freundesliste ist voll. Du kannst\xfffekeine weiteren Freunde darin aufnehmen.
+\xf000봂\x0000Registrierte Kontakte:\xfffe\xf000봂\x0000\xf000ȁ\x0001\x0000/32
+WEITER
+Ist diese Gruppe in Ordnung?
+Bitte stelle der Reihe nach eine Infrarot-\xfffeverbindung zu allen Teilnehmern her.
+Bitte stelle eine Infrarotverbindung zum\xfffeLeiter her, der die Partie aufgesetzt hat.
+Verbunden mit \xf000Ȁ\x0001\x0000 Person(en). Zum\xfffeFortfahren „WEITER“ berühren.
+MIT KAMPFBOX-POKÉMON KÄMPFEN
+MIT TEAM-POKÉMON KÄMPFEN
+In deine Freundesliste wurde ein\xfffeneuer Eintrag aufgenommen!
+Die Freundesliste wurde aktualisiert!
+Zum Tauschen musst du mindestens\xfffezwei Pokémon bei dir haben.
+Es gibt bereits einen Spielstand.\xfffeSpeichern nicht möglich.\xf000븁\x0000\xfffeWeitere Details findest du\xfffein der Spielanleitung.\xf000븁\x0000\xfffeDrücke im Titelbildschirm\xfffeOben + SELECT + B-Knopf, wenn du den\xf000븀\x0000\xfffeaktuellen Spielstand löschen willst.
+Bitte stelle eine Infrarotverbindung\xfffezu den teilnehmenden Spielern her.
