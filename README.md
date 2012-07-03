@@ -51,7 +51,5 @@ mögliche Einzelnachweise:
 ====
 
 www.pokewiki.de
-
 www.bisafans.de/pokedex/
-
 www.http://bulbapedia.bulbagarden.net
