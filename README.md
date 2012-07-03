@@ -50,6 +50,6 @@ PS: Achtet auf Rechtschreibung. MLess is watching you!
 mögliche Einzelnachweise:
 ====
 
-www.pokewiki.de
-www.bisafans.de/pokedex/
-www.http://bulbapedia.bulbagarden.net
+www.pokewiki.de     
+www.bisafans.de/pokedex/      
+www.http://bulbapedia.bulbagarden.net     
