@@ -46,3 +46,10 @@ To-Do-List: Official Translation To-Do-List of B2W2ger: http://pastebin.com/uZZs
 Vielen Dank für eure Unterstützung. Ohne euch wären wir längst nicht so weit!
 
 PS: Achtet auf Rechtschreibung. MLess is watching you!
+
+mögliche Einzelnachweise:
+====
+
+www.pokewiki.de
+www.bisafans.de/pokedex/
+www.http://bulbapedia.bulbagarden.net
