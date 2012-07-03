@@ -16,7 +16,7 @@ Special thanks to Thechandrians.
 
 Thread: http://pokestation.net/forum/showthread.php?14123-Translation-project-for-Pok%E9mon-Black2-amp-White2
 
-Important Stuff (zu beachten!):
+Important Stuff (wichtig, zu beachten!):
 ==============================
 
 Hello this information will be written in german:
