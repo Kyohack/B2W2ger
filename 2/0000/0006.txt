@@ -42,7 +42,7 @@ Trank
 \xf000ȃ\x0001\x0000まい
 Schliessen
 Was über\xf000ĉ\x0001\x0000?
-Du kannst keine\xfffE-mail hier schreiben！
+Du kannst keine\xfffE-mail hier schreiben!
 Dort ist kein Pokemon！
 Bewege\xf000ĉ\x0001\x0000.
 Du kannst das nicht geben\xfffe\xf000ĉ\x0001\x0000!
@@ -58,8 +58,8 @@ Professor Esche sagt immer \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000\dies 
 Du kannst hier nicht vom Fahrrad absteigen！
 Professor Esche sagt immer \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000\dies ist weder der\xffferechte Ort noch die Rechte Zeit dafür!
 Du hast　\xf000Ȅ\x0001\x0000 Münzen.
-Eine TM wurde aktiviert！
-Eine VM wurde aktiviert！
+Eine TM wurde aktiviert!
+Eine VM wurde aktiviert!
 Möchtest du \xf000ć\x0001\x0000.\xf000븁\x0000Teach \xf000ć\x0001\x0000\xfffeeinem Pokemon beibringen?
 \xf000Ā\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　つかった！
 Schutz wirkt bereits!
@@ -71,8 +71,8 @@ Puder:　\xf000ȃ\x0001\x0000
 Ｎｏ\xf000Ȃ\x0001\x0000\xf000ć\x0001\x0001
 \xf000봂\x0000ひでん\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
 Beeren Puder
-Spielt auf der Poke-Flöte！\xfffeWOW! Das hört sich gut an！
-Spielt auf der Poke-Flöte！
+Spielt auf der Poke-Flöte!\xfffeWOW! Das hört sich gut an！
+Spielt auf der Poke-Flöte!
 Das Pokemon hörte die\xfffeFlöte und wachte auf.
 Bewegen
 Du kannst \xf000ĉ\x0001\x0000 nicht kaufen.
@@ -145,7 +145,7 @@ Deine Items wurden\xfffesortiert!
 Total
 Spezialfach
 Zurück nehmen
-Bitte wähle das\xfffenach dem du suchst!
+Bitte wähle das \xfffenach dem du suchst!
 \xf000Ē\x0001\x0000に　いれる　もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
 \xf000ĉ\x0001\x0001 \xfffe\xf000Ē\x0001\x0000wurde verschoben!
 \xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　もどしました！
@@ -155,7 +155,7 @@ Nach Name
 おおいじゅん
 すくないじゅん
 Nach Zahlen
-もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
+もちものが\xfffe\xf000Ȃ\x0001\x0001 Sachen gefunden!
 \xfffemöchte nach Zahlen sortieren!
 Nicht gefunden
 Weglegen
