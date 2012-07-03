@@ -1,16 +1,16 @@
-Der Gefuehls Check\xfffemit dir und\xf000Ā\x0001\x0000 zeigte, dass...
+Der Gefühls Check\xfffemit dir und\xf000Ā\x0001\x0000 zeigte, dass...
 ERGEBNIS
-Du beruehrst den Bildschirm Falsch. \xfffeBitte Spiel die Einfuehrung.
-Dein Gefuehls Rank ist I!\xfffeNah genug um Hallo zu sagen.
-Dein Gefuehls Rank ist H!\xfffeIhr Interessiert euch fuereinander.
-Dein Gefuehls Rank ist G!\xfffeGenug um zusammen spazieren zu gehen.
-Dein Gefuehls Rank ist F!\xfffeIhr koennt euch Spitznamen geben.
-Dein Gefuehls Rank ist E!\xfffeIhr koennt die Besten Freunde sein.
-Dein Gefuehls Rank ist D!\xfffeGut genug um Gute-nacht anrufe zu machen.
-Dein Gefuehls Rank ist C!\xfffeNah genug um zusammen zu verreisen.
-Dein Gefuehls Rank ist B!\xfffeJeder beeneidet euch.
-Dein Gefuehls Rank ist A!\xfffeIhr seit emotional vereint.
-Dein Gefuehls Rank ist S!\xfffeZweifellos ein vom Schicksal erwaehltes Paar!
-\xf000Ā\x0001\x0000 steckt das \xf000Ȁ\x0001\x0002 \xf000ĉ\x0001\x0001\xfffein seine \xf000\xff00\x0001\x0002Medicine\xf000\xff00\x0001\x0000 Tasche.
-\xf000Ā\x0001\x0000 steckt das \xf000Ȁ\x0001\x0002 \xf000ĉ\x0001\x0001\xfffein seine \xf000\xff00\x0001\x0002Medicine\xf000\xff00\x0001\x0000 Tasche.
-Schade!\xfffeDeien Tasche ist voll...
+Du berührst den Bildschirm Falsch. \xfffeBitte Spiel die Einführung.
+Dein Gefühls Rank ist I!\xfffeNah genug um Hallo zu sagen.
+Dein Gefühls Rank ist H!\xfffeIhr Interessiert euch fuereinander.
+Dein Gefühls Rank ist G!\xfffeGenug um zusammen spazieren zu gehen.
+Dein Gefühls Rank ist F!\xfffeIhr könnt euch Spitznamen geben.
+Dein Gefühls Rank ist E!\xfffeIhr könnt die Besten Freunde sein.
+Dein Gefühls Rank ist D!\xfffeGut genug um gute-Nacht anrufe zu machen.
+Dein Gefühls Rank ist C!\xfffeNah genug um zusammen zu verreisen.
+Dein Gefühls Rank ist B!\xfffeJeder beeneidet euch.
+Dein Gefühls Rank ist A!\xfffeIhr seit emotional vereint.
+Dein Gefühls Rank ist S!\xfffeZweifellos ein vom Schicksal erwähltes Paar!
+\xf000Ā\x0001\x0000 steckt das \xf000Ȁ\x0001\x0002 \xf000ĉ\x0001\x0001\xfffein seinen \xf000\xff00\x0001\x0002Medicine\xf000\xff00\x0001\x0000 Beutel.
+\xf000Ā\x0001\x0000 steckt das \xf000Ȁ\x0001\x0002 \xf000ĉ\x0001\x0001\xfffein seinen \xf000\xff00\x0001\x0002Medicine\xf000\xff00\x0001\x0000 Beutel.
+Schade!\xfffeDein Beutel ist voll...
