@@ -1,48 +1,48 @@
-\xf000봂\x0000だれでも　こうかん
-\xf000봂\x0000まちあわせ　こうかん
-こうかんきぼう
-レベル
-Ｌｖ．１からＬｖ．４９
-Ｌｖ．５０
-Ｌｖ．５１からＬｖ．１００
-なんでも
-かっこいい
-かわいい
-こわい
-へんな
-なんでも
-こうかんサーチ
-きぼうにそった　こうかんあいてを\xfffeさがしています……
-キャンセル
-あいてのじょうほうを　もらっています
-こうかんあいてが　みつかりました！
-サーチ
-こうかんする　あいてを\xfffeえらんで　ください
-こうかんきぼう　じょうけんをきめて\xfffeサーチを　おしてください
-こうかんあいて
-どちらの　こうかんを　するか\xfffeえらんで　ください
-ほしいポケモン
-あげるポケモン
-はい
-いいえ
-まちあわせ
-\xf000Ā\x0001\x0000 \xf000봃\x0001\x0001ＩＤ：\xf000Ȅ\x0001\x0001\xfffe\xf000Ĥ\x0001\x0002
-まだ　まちあわせが\xfffeできる　ひとは　いません
-まちあわせあいての　せんたく
-このひとと　まちあわせしますか？
-こうかんあいての　えらびかたを\xfffeきめてください
-やめる
+\xf000봂\x0000BELIEBIGER PARTNER
+\xf000봂\x0000BESTIMMTER PARTNER
+TAUSCHWÜNSCHE
+LEVEL
+Lv. 1 bis 49
+Lv. 50
+Lv. 51 bis 100
+Egal
+Coole Pokémon
+Niedliche Pokémon
+Gruselige Pokémon
+Seltsame Pokémon
+Egal
+TAUSCHPARTNERSUCHE
+Es wird nach einem Tauschpartner gesucht,\xfffeder deinen Wünschen entspricht...
+ABBRECHEN
+Empfange Daten des Tauschpartners...
+Tauschpartner gefunden!
+SUCHEN
+Bitte wähle einen Tauschpartner.
+Bitte lege deine Tauschbedingungen fest\xfffeund berühre dann „SUCHEN“.
+
+
+GESUCHT
+DEIN ANGEBOT
+JA
+NEIN
+VERHANDELN
+\xf000Ā\x0001\x0000 \xf000봃\x0001\x0001ID: \xf000Ȅ\x0001\x0001\xfffe\xf000Ĥ\x0001\x0002
+Es gibt noch keinen Tauschpartner, mit dem\xfffedu in Verhandlungen treten könntest.
+MIT WEM VERHANDELN?
+Möchtest du mit dieser Person in\xfffeVerhandlungen treten?
+Lege fest, wie du deinen Tauschpartner\xfffeauswählen möchtest.
+ZURÜCK
 \xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
-あいさつ
-\xf000봃\x0001\x0001\xf000Ȅ\x0001\x0000かい
+GRUSS
+\xf000봃\x0001\x0001\xf000Ȅ\x0001\x0000
 \xf000봂\x0000\xf000Ā\x0001\x0000
-さがすのを　あきらめますか？
-こうかんを　かいしします！
-\xf000봃\x0001\x0001こうかんすう
-すんでいるばしょ
-Ｗｉ－Ｆｉコネクション　から\xfffeせつだん　しても　よろしいですか？
-こうかんには　てもちの　ポケモンが\xfffe２ひき　いじょう　ひつようです
-みんなと　まちあわせ
-いぜん　ポケモンを　こうかん\xfffeしたひとと　まちあわせますか？
+
+Der Tausch beginnt!
+\xf000봃\x0001\x0001TAUSCHANZAHL
+ORT
+Soll die Verbindung zur Nintendo Wi-Fi\xfffeConnection wirklich beendet werden?
+Zum Tauschen musst du mindestens\xfffezwei Pokémon bei dir haben.
+MIT ALLEN
+Möchtest du mit jemandem verhandeln,\xfffemit dem du bereits Pokémon getauscht hast?
 さくじょします
 ９９ついかします
