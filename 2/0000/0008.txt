@@ -1,35 +1,35 @@
-Kampf Videos
-Kampfmetro
-Zufallsmatch
-Abbrechen
-Verlassen
-Mein Video
-Andere Videos
-Videos löschen
-\xf000봂\x0000\xf000Ā\x0001\x0000　のきろく
-Leer
+KAMPFVIDEOS
+KAMPFMETRO
+ZUFALLSMATCH
+BEENDEN
+ZURÜCK
+MEIN VIDEO
+ANDERE VIDEOS
+VIDEOS LÖSCHEN
+\xf000봂\x0000Video von \xf000Ā\x0001\x0000
+LEER
 \xf000ȃ\x0001\x0000
-Kämpfen
-\xf000봂\x0000ビデオナンバー：\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002
-\xf000봂\x0000ビデオナンバー：\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002★
-\xf000봂\x0000\xf000Ā\x0001\x0000　の　プロフィール
-Stumm
-\xf000봂\x0000\xf000ȁ\x0001\x0000がつうまれ
-\xf000봂\x0000すんでいるばしょ
-\xf000봂\x0000じこしょうかい
+Kampf
+\xf000봂\x0000Video-Nr.: \xf000ȁ\x0001\x0000-\xf000Ȅ\x0001\x0001-\xf000Ȅ\x0001\x0002
+\xf000봂\x0000Video-Nr.: \xf000ȁ\x0001\x0000-\xf000Ȅ\x0001\x0001-\xf000Ȅ\x0001\x0002★
+\xf000봂\x0000Profil von \xf000Ā\x0001\x0000
+Ton aus
+Geboren im \xf000ƀ\x0001\x0000
+\xf000봂\x0000WOHNORT
+\xf000봂\x0000TRAINERZITAT
 Daten
 Profil
 
-みとうろく
+nicht Registriert
 \xf000Ĥ\x0001\x0000
 \xf000ĥ\x0001\x0000
 \xf000Ĝ\x0001\x0000　\xf000Ĝ\x0001\x0001
-\xf000Ā\x0001\x0000　のきろく
-Mein Video löschen
-Andere Videos löschen
+VIDEO VON \xf000Ā\x0001\x0000
+MEIN VIDEO LÖSCHEN
+ANDERE VIDEOS LÖSCH.
 Herbst
 \xf000Ā\x0001\x0000　Aufnahmen löschen
-ランキングでさがす
+SUCHE NACH WERTUNG
 Daten senden
 Neusten ３０
 Suche
@@ -82,28 +82,28 @@ Team: Lieblingspokémon
 せんしゅうの　けっか！
 Colosseum
 バトルフロンティア
-Speichern
-Betrachte Kampfvideo
-Kampfvideo
-Neueste ３０Kampf Videos
-バトルビデオ　にんきランキング\xfffeつうしんたいせん
-バトルビデオ　にんきランキング\xfffeバトルサブウェイ
-けんさくした　バトルビデオ\xfffeいちらん
+SICHERN
+KAMPFVIDEO\xfffeANSEHEN
+KAMPFVIDEO
+DIE NEUESTEN 30 KAMPFVIDEOS
+TOP-KAMPFVIDEOS VON LINKKÄMPFEN
+TOP-KAMPFVIDEOS AUS DER KAMPFMETRO
+LISTE VON KAMPFVIDEOS AUS\xfffeDEN SUCHERGEBNISSEN
 
 \xf000Ā\x0001\x0000の Wo willst du dein Kampfvideo speichern？
 Überschreiben
-\xf000Ā\x0001\x0000の　バトルビデオを\xfffeけしても　よろしいですか？
+Kampfvideo von \xf000Ā\x0001\x0000 wird gelöscht.\xfffeEinverstanden?
 Betrachte Kampfvideos
 Sende Kampf Video
 Neueste ３０
 Suche
 Suche nach Video Nr.
-しせつでさがす
+NACH EINRICHT. SUCHEN
 Suche nach Pokémon
 Suche deinen Ort
 ＯＫ！
 Bitte gib die Video Nr. ein.
-しせつを　きめてください
+Bitte Einrichtung wählen.
 Bitte wähle die Pokémon aus.
 Bitte gib das Suchkriterium ein.
 Du hast kein Suchkriterium ausgewählt！
@@ -114,133 +114,133 @@ Das Kampfvideo wurde gesendet！
 \xf000봂\x0000 Betrachte Profil
 \xf000봂\x0000 Schließe Profil
 Neueste ３０Kampfvideos
-じょうけんを　いれてください
-なし
-けんさくした　バトルビデオ\xfffeいちらん
-おなじ　バトルビデオは\xfffe２かい　おくれません
-Du hast deinen Ort nicht registriert.
-おくる　バトルビデオが　ありません
+Bitte Suchkriterien festlegen.
+Nicht bestimmt
+LIST OF BATTLE VIDEOS FROM\xfffeSEARCH RESULTS
+Selbes Kampfvideo nicht mehrmals sendbar.\xfffeTouchscreen berühren, um fortzufahren.
+Du hast deinen Wohnort nicht registriert.
+Kein Kampfvideo zum Senden vorhanden.
 \xf000ȁ\x0001\x0000
 つうしんたいせん
 Kampfmetro
 すんでいるばしょ\xfffe\xf000Ĥ\x0001\x0000
-\xf000봂\x0000シングルトレイン
-\xf000봂\x0000ダブルトレイン
-\xf000봂\x0000マルチトレイン
-\xf000봂\x0000Ｗｉ－Ｆｉトレイン
-\xf000봂\x0000バトルサブウェイ
-\xf000봂\x0000スーパーシングルトレイン
-\xf000봂\x0000スーパーダブルトレイン
-\xf000봂\x0000スーパーマルチトレイン
-Wähle die Aufnahme aus, die du sehen willst.
-ぜんかい：
-Aufnehmen：
+\xf000봂\x0000EINZELLINIE
+\xf000봂\x0000DOPPELLINIE
+\xf000봂\x0000MULTILINIE
+\xf000봂\x0000Wi-Fi-LINIE
+\xf000봂\x0000KAMPFMETRO
+\xf000봂\x0000SUPER-EINZELLINIE
+\xf000봂\x0000SUPER-DOPPELLINIE
+\xf000봂\x0000SUPER-MULTILINIE
+Wähle, welche Statistik du sehen möchtest.
+VORHER:
+REKORD:
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
-れんしょう
-トレーナーとマルチ
-ともだちとマルチ
-ランク
-Derzeitiger Rekord
-\xf000봂\x0000Ｗｉ－Ｆｉトレイン　せいせき
-げんざい：
-\xf000봂\x0000\xf000Ā\x0001\x0000　の　レーティング
-\xf000봂\x0000レーティングモード　せいせき
-\xf000봂\x0000フリーモード　せいせき
-\xf000봃\x0001\x0000Win
-\xf000봃\x0001\x0000Lose
-\xf000봃\x0001\x0000シングル：
-\xf000봃\x0001\x0000ダブル：
-\xf000봃\x0001\x0000トリプル：
-\xf000봃\x0001\x0000ローテーション：
-\xf000봃\x0001\x0000シューター：
+Wins
+Multi mit Trainer
+Multi mit Freund
+Rang
+Aktueller Rekord
+\xf000봂\x0000Statistik für die Wi-Fi-Linie
+AKTUELL:
+\xf000봂\x0000BEWERTUNG VON \xf000Ā\x0001\x0000
+\xf000봂\x0000STATISTIKEN (BEWERTUNGSMODUS)
+\xf000봂\x0000STATISTIKEN (FREIER MODUS)
+\xf000봂\x0000GEW.
+\xf000봂\x0000VERL.
+\xf000봃\x0001\x0000EINZEL:
+\xf000봃\x0001\x0000DOPPEL:
+\xf000봃\x0001\x0000DREIER:
+\xf000봃\x0001\x0000REIHUM:
+\xf000봃\x0001\x0000WERFER:
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
 \xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000
-\xf000봃\x0001\x0000Rating
-\xf000봂\x0000 Ja
-\xf000봂\x0000 Nein
-Ja
-Nein
-Ｗｉ－Ｆｉコネクションから\xfffeせつだん　しても　よろしいですか？
-コロシアム　シングル\xfffeせいげんなし
-コロシアム　シングル\xfffeフラット
-コロシアム　シングル\xfffeせいげんなし　シューターあり
-コロシアム　シングル\xfffeフラット　シューターあり
-コロシアム　ダブル\xfffeせいげんなし
-コロシアム　ダブル\xfffeフラット
-コロシアム　ダブル\xfffeせいげんなし　シューターあり
-コロシアム　ダブル\xfffeフラット　シューターあり
-コロシアム　トリプル\xfffeせいげんなし
-コロシアム　トリプル\xfffeフラット
-コロシアム　トリプル\xfffeせいげんなし　シューターあり
-コロシアム　トリプル\xfffeフラット　シューターあり
-コロシアム　ローテーション\xfffeせいげんなし
-コロシアム　ローテーション\xfffeフラット
-コロシアム　ローテーション\xfffeせいげんなし　シューターあり
-コロシアム　ローテーション\xfffeフラット　シューターあり
-コロシアム　マルチ\xfffeせいげんなし
-コロシアム　マルチ\xfffeフラット
-コロシアム　マルチ\xfffeせいげんなし　シューターあり
-コロシアム　マルチ\xfffeフラット　シューターあり
-Kampfmetro \xfffeシングル
-Kampfmetro \xfffeダブル
-Kampfmetro \xfffeマルチ
-ランダムマッチ　フリー\xfffeシングル
-ランダムマッチ　フリー\xfffeダブル
-ランダムマッチ　フリー\xfffeトリプル
-ランダムマッチ　フリー\xfffeローテーション
-ランダムマッチ　フリー\xfffeシューターバトル
-ランダムマッチ　レーティング\xfffeシングル
-ランダムマッチ　レーティング\xfffeダブル
-ランダムマッチ　レーティング\xfffeトリプル
-ランダムマッチ　レーティング\xfffeローテーション
-ランダムマッチ　レーティング\xfffeシューターバトル
-たいかい　シングル\xfffeシューターなし
-たいかい　シングル\xfffeシューターあり
-たいかい　ダブル\xfffeシューターなし
-たいかい　ダブル\xfffeシューターあり
-たいかい　トリプル\xfffeシューターなし
-たいかい　トリプル\xfffeシューターあり
-たいかい　ローテーション\xfffeシューターなし
-たいかい　ローテーション\xfffeシューターあり
-０１：コロシアム　シングル\xfffe　　　シューターなし
-０２：コロシアム　シングル\xfffe　　　シューターあり
-０３：コロシアム　ダブル\xfffe　　　シューターなし 
-０４：コロシアム　ダブル\xfffe　　　シューターあり
-０５：コロシアム　トリプル\xfffe　　　シューターなし
-０６：コロシアム　トリプル\xfffe　　　シューターあり
-０７：コロシアム　ローテーション\xfffe　　　シューターなし
-０８：コロシアム　ローテーション\xfffe　　　シューターあり
-０９：コロシアム　マルチ\xfffe　　　シューターなし
-１０：コロシアム　マルチ\xfffe　　　シューターあり
-１１：Kampfmetro \xfffe　　　シングル
-１２：Kampfmetro \xfffe　　　ダブル
-１３：Kampfmetro \xfffe　　　マルチ
-１４：ランダムマッチ\xfffe　　　シングル
-１５：ランダムマッチ\xfffe　　　ダブル
-１６：ランダムマッチ\xfffe　　　トリプル
-１７：ランダムマッチ\xfffe　　　ローテーション
-１８：ランダムマッチ\xfffe　　　シューターバトル
-１９：バトルたいかい\xfffe
-２０：バトルキャッスル\xfffe　　　マルチ
-２１：バトルルーレット\xfffe　　　シングル
-２２：バトルルーレット\xfffe　　　ダブル
-２３：バトルルーレット\xfffe　　　マルチ
-\xf000봂\x0000 Berühre hier!
-Ｗｉ－Ｆｉコネクション　から\xfffeせつだんしても　よろしいですか？
+\xf000봃\x0001\x0000BEWERTUNG
+\xf000봂\x0000JA
+\xf000봂\x0000NEIN
+JA
+NEIN
+Soll die Verbindung zur Nintendo Wi-Fi\xfffeConnection wirklich beendet werden?
+Kolosseum, Einzel\xfffeKeine Einschränkungen
+Kolosseum, Einzel\xfffeHandicapkampf
+Kolosseum, Einzel\xfffeKeine Einschränkungen, mit Werfer
+Kolosseum, Einzel\xfffeHandicapkampf mit Werfer
+Kolosseum, Doppel\xfffeKeine Einschränkungen
+Kolosseum, Doppel\xfffeHandicapkampf
+Kolosseum, Doppel\xfffeKeine Einschränkungen, mit Werfer
+Kolosseum, Doppel\xfffeHandicapkampf mit Werfer
+Kolosseum, Dreierkampf\xfffeKeine Einschränkungen
+Kolosseum, Dreierkampf\xfffeHandicapkampf
+Kolosseum, Dreierkampf\xfffeKeine Einschränkungen, mit Werfer
+Kolosseum, Dreierkampf\xfffeHandicapkampf mit Werfer
+Kolosseum, Reihum\xfffeKeine Einschränkungen
+Kolosseum, Reihum\xfffeHandicapkampf
+Kolosseum, Reihum\xfffeKeine Einschränkungen, mit Werfer
+Kolosseum, Reihum\xfffeHandicapkampf mit Werfer
+Kolosseum, Multi\xfffeKeine Einschränkungen
+Kolosseum, Multi\xfffeHandicapkampf
+Kolosseum, Multi\xfffeKeine Einschränkungen, mit Werfer
+Kolosseum, Multi\xfffeHandicapkampf mit Werfer
+Kampfmetro, Einzel
+Kampfmetro, Doppel
+Kampfmetro, Multi
+Zufallsmatch (Frei),\xfffeEinzel
+Zufallsmatch (Frei),\xfffeDoppel
+Zufallsmatch (Frei),\xfffeDreierkampf
+Zufallsmatch (Frei),\xfffeReihum
+Zufallsmatch (Frei),\xfffeWerferkampf
+Zufallsmatch (Bewertet),\xfffeEinzel
+Zufallsmatch (Bewertet),\xfffeDoppel
+Zufallsmatch (Bewertet),\xfffeDreierkampf
+Zufallsmatch (Bewertet),\xfffeReihum
+Zufallsmatch (Bewertet),\xfffeWerferkampf
+Turnier, Einzel\xfffeOhne Werfer
+Turnier, Einzel\xfffeMit Werfer
+Turnier, Doppel\xfffeOhne Werfer
+Turnier, Doppel\xfffeMit Werfer
+Turnier, Dreierkampf\xfffeOhne Werfer
+Turnier, Dreierkampf\xfffeMit Werfer
+Turnier, Reihum\xfffeOhne Werfer
+Turnier, Reihum\xfffeMit Werfer
+01: Kolosseum, Einzel\xfffe     Ohne Werfer
+02: Kolosseum, Einzel\xfffe     Mit Werfer
+03: Kolosseum, Doppel\xfffe     Ohne Werfer
+04: Kolosseum, Doppel\xfffe     Mit Werfer
+05: Kolosseum, Dreierkampf\xfffe     Ohne Werfer
+06: Kolosseum, Dreierkampf\xfffe     Mit Werfer
+07: Kolosseum, Reihum\xfffe     Ohne Werfer
+08: Kolosseum, Reihum\xfffe     Mit Werfer
+09: Kolosseum, Multi\xfffe     Ohne Werfer
+10: Kolosseum, Multi\xfffe     Mit Werfer
+11: Kampfmetro, Einzel
+12: Kampfmetro, Doppel
+13: Kampfmetro, Multi
+14: Zufallsmatch, Einzel
+15: Zufallsmatch, Doppel
+16: Zufallsmatch, Dreierkampf
+17: Zufallsmatch, Reihum
+18: Zufallsmatch, Werferkampf
+19: Kampfturnier
+20: Kampfpalais\xfffe      Multi
+21: Kampfarkaden\xfffe      Einzel
+22: Kampfarkaden\xfffe      Doppel
+23: Kampfarkaden\xfffe      Multi
+\xf000봂\x0000HIER BERÜHREN!
+Soll die Verbindung zur Nintendo Wi-Fi\xfffeConnection wirklich beendet werden?
 　
 Authentifizierungsfehler. Verbindung nicht möglich.
 Diese Daten sind bereits registriert. Berühre den Touchscreen, um fortzufahren.
-ミュージカルショットの　ないように\xfffeもんだいが　あるようです
-ミュージカルショットの　ポケモンに\xfffeもんだいが　あるようです
-プロフィールの　ないように\xfffeもんだいが　あるようです
+Es gibt offenbar ein Problem mit den\xfffeMusical-Schnappschuss-Daten.
+Es gibt offenbar ein Problem mit dem\xfffePokémon des Musical-Schnappschusses.
+Es gibt offenbar ein Problem\xfffemit den Profil-Daten.
 Ein Fehler trat auf. Berühre den Touchscreen, um fortzufahren.
 　
 Authentifizierungsfehler. Verbindung nicht möglich.
-えらんだ　ポケモンに\xfffeもんだいが　あるようです
+Es gibt offenbar ein Problem\xfffemit den ausgewählten Pokémon.
 Ein Fehler trat auf. Berühre den Touchscreen, um fortzufahren.
 　
-ユーザーにんしょうエラーです\xfffeすこし　まってから　せつぞくしてください
+User authentication error.\xfffePlease wait a while before reconnecting.
 Diese Daten sind bereits registriert. Berühre den Touchscreen, um fortzufahren.
 ミュージカルショットの　ないように\xfffeもんだいが　あるようです
 プロフィールの　ないように\xfffeもんだいが　あるようです
