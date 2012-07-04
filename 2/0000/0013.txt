@@ -59,17 +59,17 @@ Spezialmotive
 SchwarzWeiss
 Team Plasma
 ポケウッド
-ＰＷＴ
-Kyurem１
-Kyurem２
-Reshiram
-Zekrom
-もどる
-まえへ
-つぎへ
-てもちポケモン
-ボックスリスト
-バトルボックス
+PWT
+KYUREM 1
+KYUREM 2
+RESHIRAM
+ZEKROM
+Zurueck
+Vorher
+Weiter
+PARTY ⒆⒇
+BOX LIST
+KAMPF BOX
 ボックスをきりかえる
 もちものせいり
 Bericht
@@ -81,35 +81,35 @@ Ablegen
 Zurück
 Bewegen
 Bewegen
-ねかせる
-けってい
-やめる
+TUCK IN
+Rueckgaengig
+Abbrechen
 いれかえ
-やめる
-やめる
-ボックスを\xfffeきりかえる
+Abbrechen
+Abbrechen
+Soll das Pokemon in die\xfffeBox verschoben werden?
 かべがみを\xfffeはりかえる
 ポケモンを\xfffeあずける
-バッグへ
-もたせる
-いどうする
+Tasche
+Geben
+Bewegen
 ♂
 ♀
 \xf000Ć\x0001\x0000
 \xf000Ĉ\x0001\x0000
 \xf000ĉ\x0001\x0000
-せいかく
-とくせい
-もちもの
+WESEN
+FÄHIGKEIT
+ITEM
 \xf000Ȃ\x0001\x0000
 \xf000Ȃ\x0001\x0000
-なし
-？？？
-Ｌｖ．
-Ｎｏ．
-もっているわざ
-はい
-いいえ
+Keins
+???
+Lv.
+Nr.
+ATTACKEN
+JA
+NEIN
 ボックスを　せいりする
 バトルボックス
 ポケモンを　しぼりこむ
