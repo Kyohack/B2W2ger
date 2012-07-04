@@ -1,8 +1,6 @@
 X-Knopf
-    2	
-+SELECT
- 	 3	
-+B-Knopf
+SELECT
+B-Knopf
 Graffiti-Werkzeuge öffnen
 Bild anhalten
 Graffiti-Modus beenden
