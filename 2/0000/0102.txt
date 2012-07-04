@@ -1,2 +1,2 @@
-つうしんエラーが　はっせいしました
-つうしんエラーが　はっせいしました\xfffeでんげんを　きってください
+Fehlermeldung
+Fehlermeldung \xfffe Bitte schalten Sie das Gerät aus.
