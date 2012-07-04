@@ -1,70 +1,67 @@
-\xf000ȁ\x0001\x0000がつ\xf000ȁ\x0001\x0001にち
+\xf000ȁ\x0001\x0001. \xf000ƀ\x0001\x0000 20\xf000ȁ\x0001\x0002
 
 
-◇ヒオウギシティしゅっしんの　トレーナーが　ヒオウギジムリーダー　チェレンにしょうり！
-◇ヒオウギシティしゅっしんの　トレーナーが　タチワキジムリーダー　ホミカにしょうり！
-◇ヒオウギシティしゅっしんの　トレーナーが　ヒウンジムリーダー　アーティにしょうり！
-◇ヒオウギシティしゅっしんの　トレーナーが　ライモンジムリーダー　カミツレにしょうり！
-◇ヒオウギシティしゅっしんの　トレーナーが　ホドモエジムリーダー　ヤーコンにしょうり！
-◇ヒオウギシティしゅっしんの　トレーナーが　フキヨセジムリーダー　フウロにしょうり！
-◇ヒオウギシティしゅっしんの　トレーナーが　ソウリュウジムリーダー　シャガにしょうり！
-◇ヒオウギシティしゅっしんの　トレーナーが　セイガイハジムリーダー　シズイにしょうり！
-◇ヒオウギシティしゅっしんの　トレーナーが　セイガイハジムリーダー　シズイにしょうり！
-◇「おまかせ　あんしん　ポケモンそだてて５０ねん！」３ばんどうろ　そだてや
-◇「なまえで　みえる　ポケモンのすべて！」ヒウンシティ　せいめいはんだんし
-◇「みんなのことを　しりたいな！　もっと　ちょうさだ！」ヒウンシティ　すれちがいちょうさたい
-◇「でんしゃにのって　たたかって！」ライモンシティ　バトルサブウェイ
-◇「スターへのかいだんを　かけのぼろう！」ライモンシティ　ミュージカル
-◇「つどえ　トレーナー！　めざすは　せかいいち！」ホドモエシティ　ポケモンワールドトーナメント
-◇「イッシュでいちばんの　しなぞろえ！　さがしものは　とうてんで！」ショッピングモール　アールナイン
-◇サンヨウシティは　もりと　ていえんに　かこまれた　しずかなまちです
-◇げんかんさきにあるかいだんは　ゆきをさけるためにあります
-◇サンヨウレストランは　しょうぶと　しょくじを　たのしめる　スポットです　
-◇みどりゆたかなていえんが　こころを　あたたかく　させてくれます
-◇まちのとなりには　そだてやがあり　おおくのトレーナーが　かよいます
-◇トレーナーズスクールでは　ポケモンのきそから　まなべます
-◇サンヨウシティは　もりにかこまれ　すずやかな　かぜが　かおります
-◇げんかんさきにあるかいだんは　ゆきをさけるためにあります
-◇サンヨウレストランは　しょうぶと　しょくじを　たのしめる　スポットです　
-◇シッポウシティは　いしだたみとそうこが　とくちょうです
-◇はくぶつかんでは　ほねからポケモンについて　けんきゅうしています
-◇はくぶつかんでは　たすうのしょもつを　よむことができます
-◇わかてげいじゅつかが　おおくすみ　そうこをアトリエにしています
-◇かんこうきゃくは　そうこがいと　はくぶつかんを　みるために　おとずれます
-◇せんろが　とおっていた　なごりが　いまもみられます
-◇げいじゅつに　みせられたひとがあつまる　まちです
-◇はくぶつかんのテーマは　ぶんかとしぜんの　たいひです
-◇シッポウシティから　ゆうめいげいじゅつかが　おおくうまれました
-◇かくれためいぶつ　ヒウンアイスが　いま　ブームになっています
-◇ヒウンシティの　ピアからでるふねは　それぞれいきさきが　ちがいます
-◇ヒウンジムが　アーティの　しんさくアートによって　うまれかわりました
-◇ちゅうしんの　ふんすいは　ひととひとを　つなぐばしょだと　いわれています
-◇せかいじゅうの　げいじゅつかが　ヒウンシティで　ギャラリーを　ひらいています
-◇ホドモエシティが　おおきくなった　いまでも　ヒウンシティが　イッシュちほういちの　だいとしです
-◇さまざまな　くにの　ひとびとがうつりすみ　ヒウンシティは　へんかしつづけます
-◇ヒウンシティには　いろんなくにが　まざった　どくじのぶんかや　たべものがあります
-◇ひとと　ひとの　すれちがいについて　けんきゅうしている　ばしょが　あります
-◇ライモンシティには　しげきをもとめて　おおくのトレーナーが　あつまります
-◇あついテニス　はくねつのバスケットボール　ねっきあふれるリトルコート
-◇あついポケモンしょうぶを　ねんりょうに　バトルサブウェイは　しっそうしつづけています
-◇ミュージカルホールでは　ときおり　ポケモンのスカウトが　あるそうです
-◇スタープレイヤーあつまるスタジアム　れんしゅうする　せんしゅとポケモンしょうぶ
-◇めいぶつの　ジェットコースターは　おどろきのばしょで　はしっています
-◇キラキラけしき　ワクワクたかさ　ドキドキであいの　あいのりかんらんしゃ
-◇ギアステーションから　カナワタウンへ　いくことができます
-◇なんどでも　きたくなる　ごらくのまち　ライモンシティへようこそ
-◇ホドモエシティは　みずべにりんせつする　みなとまちです
-◇むかしは　すいじょうからの　かぜをうける　はんせんが　はしっていました
-◇ホドモエは　かもつとりひきと　ぎょぎょうで　はってんしたまちです
-◇マーケットは　せかいからあつまったしなもので　にぎわっています
-◇まちのイメージカラーは　オレンジから　エメラルドにかわりました
-◇そらにそびえる　リザードンばしは　ぜっけいです
-◇ジムリーダー　ヤーコンは　いつまでもほりつづける　おとこです
-◇ポケモンワールドトーナメントかんせんを　みんな　たのしみにしています
-◇みつぼしホテルが　せかいじゅうから　おこしいただく　ひとびとを　おむかえします
-
-
-
+◇Junger Trainer aus Avenitia siegt über Maik, Colin und Benny, die Arenaleiter von Orion City!
+◇Junger Trainer aus Avenitia siegt über Aloe, die Arenaleiterin von Septerna City!
+◇Junger Trainer aus Avenitia siegt über Artie, den Arenaleiter von Stratos City!
+◇Junger Trainer aus Avenitia siegt über Kamilla, die Arenaleiterin von Rayono City!
+◇Junger Trainer aus Avenitia siegt über Turner, den Arenaleiter von Marea City!
+◇Junger Trainer aus Avenitia siegt über Géraldine, die Arenaleiterin von Panaero City!
+◇Junger Trainer aus Avenitia siegt über Sandro, den Arenaleiter von Nevaio City!
+◇Junger Trainer aus Avenitia siegt über Lilia, die Arenaleiterin von Twindrake City!
+◇Junger Trainer aus Avenitia siegt über Lysander, den Arenaleiter von Twindrake City!
+◇„Liebe im Überfluss für trainingsbedürftige Pokémon!“ Die Pokémon-Pension auf Route 3!
+◇„Komm deinem Pokémon mit dem richtigen Spitznamen noch näher!“ Der Namenbewerter von Stratos City!
+◇„Du willst wissen, was dieser über jenes denkt? Finde es heraus!“ Das Automatische Passanten-Umfrage-Komitee in Stratos City!
+◇„Heiße Kämpfe bei hoher Geschwindigkeit!“ Die Züge der Kampfmetro in Rayono City machen vor nichts Halt!
+◇„Dein Einstieg in die Welt der Promis!“ Das Musiktheater in Rayono City!
+◇„Wo die Güter noch frisch von Wind und Wellen angeliefert werden!“ Der Markt von Marea City!
+◇„Das größte Einkaufszentrum in ganz Einall!“ Kaufhaus 9!
+◇„Wo immer ein herbes, frisches Lüftchen aus den angrenzenden Wäldern weht.“ Orion City!
+◇Die Treppen vor den Eingängen dienen zum Schutz vor tiefem Schnee...
+◇„Fesselnde Kämpfe und köstliche Speisen!“ In der Arena von Orion City bekommst du beides aufgetischt!
+◇Unser sattgrüner Landschaftsgarten zaubert auch auf deine Lippen ein Lächeln...
+◇Direkt neben der Stadt befindet sich die Pokémon-Pension, wo sich zahlreiche Trainer tummeln...
+◇Lerne in der Trainerschule die Grundlagen des Pokémon-Trainings!
+◇„Wo immer ein herbes, frisches Lüftchen aus den angrenzenden Wäldern weht.“ Orion City!
+◇Die Treppen vor den Eingängen dienen zum Schutz vor tiefem Schnee...
+◇„Fesselnde Kämpfe und köstliche Speisen!“ In der Arena von Orion City bekommst du beides aufgetischt!
+◇„Berühmt für seine Lagerhallen und das ausgefallene Steinpflaster.“ Septerna City!
+◇Das Museum betreibt anhand von Knochen rege Nachforschungen über die Pokémon...
+◇„Wo dein Hunger nach Kämpfen und dein Durst nach Wissen gestillt werden!“ Die Arena von Septerna City!
+◇Die Lagerhäuser werden von zahlreichen jungen Künstlern als Ateliers genutzt...
+◇Die Einkaufsstraßen mit ihren Lagerhäusern und das Museum zählen zum Pflichtprogramm eines jeden Touristen...
+◇Die Überreste der alten Bahnstrecke können noch heute bestaunt werden!
+◇„Ein wahrer Magnet für Künstler!“ Septerna City!
+◇Der Gegensatz von Natur- und Geisteswissenschaften bildet die thematische Grundlage des Museums...
+◇Septerna City brachte bereits viele berühmte Künstler hervor...
+◇Bis vor Kurzem war es eher ein Geheimtipp, doch nun ist das köstliche Stratos-Eis in aller Munde!
+◇Jedes der Schiffe, die an den Piers von Stratos City vor Anker liegen, fährt seine ganz eigene Route ab...
+◇Stratos City, Stadt des Nervenkitzels. Besonders die Arena hält Überraschungen bereit!
+◇Man sagt, der Springbrunnen in der Stadtmitte diene als Treffpunkt für Jung und Alt...
+◇Künstler aus aller Welt stellen in Stratos City ihre Werke aus...
+◇Nirgendwo in Einall gibt es so viele Häuser, Läden oder Einwohner wie in Stratos City!
+◇Am Tag und in der Nacht zeigt sich Stratos City von einer jeweils ganz anderen Seite...
+◇In Stratos City treffen die Kulturen aufeinander und bilden ein buntes Potpourri...
+◇Besuch das Hauptquartier des Automatischen Passanten-Umfrage-Komitees (APUK)!
+◇Es heißt, in Rayono City würden so viele Kämpfe ausgefochten, weil das fulminante Flair der Stadt die Gemüter erhitze...
+◇„Für heiße Tennisspiele und noch heißere Basketballbegegnungen!“ Die Sporthalle!
+◇Man munkelt, die Kampfmetro sei das Produkt eines kampfwütigen Zugliebhabers...
+◇Manchmal mischen sich im Musiktheater angeblich Pokémon-Talentsucher unter das Publikum...
+◇Mit etwas Glück triffst du im Stadion einen von vielen berühmten Spitzensportlern!
+◇Die berühmte Achterbahn der Stadt dreht an einem unerwarteten Ort ihre Runden...
+◇Genieße den strahlenden Ausblick und luftige Höhen in einer der Gondeln des Riesenrades!
+◇Von der Weichenstation aus kann man Ferrula erreichen...
+◇Willkommen in Rayono City, der Vergnügungsstadt Nr. 1! Rayono City ist immer einen Besuch wert!
+◇Marea City! Eine Hafenstadt am Meer.
+◇Früher verkehrten hier vom Meereswind angetriebene Segelschiffe...
+◇Die Stadt Marea City verdankt ihr Aufblühen dem Güterverkehr und der Fischerei...
+◇Auf dem Marktplatz findet man unzählige Güter aus aller Welt...
+◇Die Dächer der Stadt sind einheitlich orange gehalten und glühen im Abendrot...
+◇Die stolze, hochaufragende Glurak-Brücke ist ein Anblick für sich...
+◇Im Hafengebiet stehen viele riesige Tiefkühlcontainer...
+◇Die Tiefkühlcontainer werden von Pokémon bewohnt...
+◇Marea City! Eine Hafenstadt am Meer...
 
 
 
@@ -80,72 +77,72 @@
 
 
 
-◇ビルのそうしょくは　１００ねんかけて　しょくにんたちのてで　つくられています
-◇ソウリュウシティのれきしは　せかいいちふるいと　いわれています
-◇ソウリュウシティでは　むかしのぎじゅつを　いまでも　やくだてています
-◇まちからは　まいとし　こうこがくしゃが　おおく　たんじょうします
-◇まちでは　なんびゃくねんという　れきしを　もつ　おんがくを　きくことができます
-◇ビルのそうしょくは　１００ねんかけて　しょくにんたちのてで　つくられています
-◇ソウリュウシティのれきしは　せかいいちふるいと　いわれています
-◇ソウリュウシティでは　むかしのぎじゅつを　いまでも　やくだてています
-◇まちからは　まいとし　こうこがくしゃが　おおく　たんじょうします
-◇まちのビルは　ポケモンが　１００ぴきのっても　くずれないと　いわれています
-◇ソウリュウシティでは　さいしんのモンスターボールが　かいはつされています
-◇まちのビルは　さいしんの　ざいりょうで　たてられています
-◇ソウリュウシティの　セキュリティは　あんぜんなことで　ゆうめいです
-◇ネットワークをつかった　とてもべんりな　せいかつが　できます
-◇まちのビルは　ポケモンが　１００ぴきのっても　くずれないと　いわれています
-◇ソウリュウシティでは　さいしんのモンスターボールが　かいはつされています
-◇まちのビルは　さいしんの　ざいりょうで　たてられています
-◇ソウリュウシティの　セキュリティは　あんぜんなことで　ゆうめいです
-◇カゴメタウンは　じかんにおおざっぱなため　みんかには　とけいが　おいてありません
-◇カゴメタウンの　ひとびとは　ひがしずむとともに　しごとをおえます
-◇きょだいな　はしのうえから　まちぜんたいを　みおろせます
-◇まちからみえる　もりでは　なぞのポケモンの　もくげきじょうほうがあります
-◇カゴメタウンの　どうろも　たてものも　すべて　いしで　できています
-◇カゴメタウンでは　ひるをすぎてから　まちが　かっぱつになります
-◇はれのひには　にっこうよくをするひとが　おおくみられます
-◇カゴメタウンは　じかんにおおざっぱなため　みんかには　とけいが　おいてありません
-◇カゴメタウンの　ひとびとは　ひがしずむとともに　しごとをおえます
-◇はまべのすなは　とてもこまかく　あしあとがハッキリと　のこります
-◇サザナミタウンに　べっそうをもつことは　あこがれとされています
-◇サザナミタウンの　なみのおとの　うつくしさは　たからものであると　いわれています
-◇なつには　すきとおるうみに　およぎにくる　かんこうきゃくがいます
-◇おおきながけが　サザナミタウンぜんたいを　きわだたせています
-◇なみはつねに　おだやかなため　うみといえは　とてもちかいです
-◇マリンチューブは　サザナミタウンと　セイガイハシティを　むすぶ　しんめいしょです
-◇サザナミわんで　おおむかしの　かいていいせきが　みつかりました
-◇はまべのすなは　とてもこまかく　あしあとがハッキリと　のこります
-◇ホワイトフォレストは　しぜんが　おおくみられるまちです
-◇まちのひとは　しぜんをあいし　しぜんとともにせいかつしています
-◇しろのじゅどうに　おおくの　トレーナーが　いどんでいます
-◇しぜんにひかれた　ブリーダーが　おおくあつまっています
-◇ゆたかなしぜんのおかげで　こころいやされる　ばしょとして　にんきです
-◇ポケモンの　おとしものがあり　しぜんのめぐみとされています
-◇しろのじゅどうが　たんじょうして　トレーナーがおおくつどっています
-◇ホワイトフォレストは　しぜんが　おおくみられるまちです
-◇まちのひとは　しぜんをあいし　しぜんとともにせいかつしています
-◇ブラックシティは　ビルがならぶ　ぶんめいのまちです
-◇イッシュで　いちばん　はったつしたまちを　めざしています
-◇くろのまてんろうに　おおくの　トレーナーが　いどんでいます
-◇きょうそういしきのたかいトレーナーが　おおくすんでいます
-◇まちのマーケットでは　ちょっとした　ほりだしものを　うっています
-◇あつまったひとが　りゅうつうをかえ　しなものがかわります
-◇くろのまてんろうが　たんじょうして　トレーナーがおおくつどっています
-◇ブラックシティは　ビルがならぶ　ぶんめいのまちです
-◇イッシュで　いちばん　はったつしたまちを　めざしています
-◇いせきめあての　りょこうしゃがおおい　かんこうスポットです
-◇さばくは　ひろく　かこくです　じゅんびをととのえて　おこしください
-◇さばくぜんたいに　ふきわたる　すなあらしに　ごちゅういください
-◇いせきが　たてられたじきについて　げんざいちょうさされています
-◇こだいのくにが　なぜほろびたのかは　なぞです
-◇こだいのしろないぶでは　げんざいもすなが　ながれおちています
-◇いせきめあての　りょこうしゃがおおい　かんこうスポットです
-◇さばくは　ひろく　かこくです　じゅんびをととのえて　おこしください
-◇さばくぜんたいに　ふきわたる　すなあらしに　ごちゅういください
 
 
 
+◇Mehr als 100 Jahre haben Handwerker an den Verzierungen der hiesigen Gebäude gearbeitet...
+◇Man sagt, Twindrake City sei eine der ältesten Städte auf der Welt...
+◇In Twindrake City kommen Fertigkeiten aus vergangenen Tagen auch heute noch zum Einsatz...
+◇Unsere Stadt bringt Jahr für Jahr neue Archäologen hervor...
+◇In unserer Stadt kann man sich an mehrere hundert Jahre alten Melodien ergötzen...
+◇Mehr als 100 Jahre haben Handwerker an den Verzierungen der hiesigen Gebäude gearbeitet...
+◇Man sagt, Twindrake City sei eine der ältesten Städte auf der Welt...
+◇In Twindrake City kommen Fertigkeiten aus vergangenen Tagen auch heute noch zum Einsatz...
+◇Unsere Stadt bringt Jahr für Jahr neue Archäologen hervor...
+◇Es heißt, nicht einmal das Gewicht von 100 schweren Pokémon könne die Häuser der Stadt zum Einsturz bringen...
+◇In Twindrake City werden die Pokébälle der Zukunft entwickelt...
+◇Die Häuser der Stadt wurden aus den allerneuesten Baustoffen errichtet...
+◇In Twindrake City wird Sicherheit großgeschrieben...
+◇Durch das große Stadtnetzwerk genießen unsere Bürger ein komfortables Leben...
+◇Es heißt, nicht einmal das Gewicht von 100 schweren Pokémon könne die Häuser der Stadt zum Einsturz bringen...
+◇In Twindrake City werden die Pokébälle der Zukunft entwickelt...
+◇Die Häuser der Stadt wurden aus den allerneuesten Baustoffen errichtet...
+◇In Twindrake City wird Sicherheit großgeschrieben...
+◇In Tessera gibt es keine Uhren, da man Zeit hier als unwichtig erachtet...
+◇In Tessera legt man die Arbeit nieder, sobald die Sonne untergeht...
+◇Die Tessera-Brücke bietet einen herrlichen Blick über die gesamte Stadt...
+◇In den Wäldern vor der Stadt wurde ein seltsames Pokémon gesichtet...
+◇Alle Straßen und Häuser in Tessera bestehen aus Stein...
+◇In Tessera wird es erst nachmittags so richtig geschäftig...
+◇Bei gutem Wetter kann man hier viele Leute beim Sonnenbaden beobachten...
+◇In Tessera gibt es keine Uhren, da man Zeit hier als unwichtig erachtet...
+◇In Tessera legt man die Arbeit nieder, sobald die Sonne untergeht...
+◇Der Sand am Strand ist so fein, dass jeder Schritt dort deutliche Fußabdrücke hinterlässt...
+◇Viele Leute träumen von einem Sommerhaus in Ondula...
+◇Das Rauschen der Wellen nahe Ondula ist so schön, dass manche es sogar als Schatz bezeichnen...
+◇Im Sommer wird die Stadt von Touristen überlaufen, die einem das Schwimmen im klaren Meerwasser erschweren...
+◇Erst die hohen Steilhänge machen Ondula zu der Stadt, die sie ist...
+◇Die Wellen sind so sanft, dass die Häuser sehr nah ans Meer gebaut werden konnten...
+◇In Ondula erfreut sich Wassersport äußerst großer Beliebtheit...
+◇Ab und zu erzählen Taucher davon, im Meer bei Ondula Ruinen voller Reichtümer gefunden zu haben...
+◇Der Sand am Strand ist so fein, dass jeder Schritt dort deutliche Fußabdrücke hinterlässt...
+◇Der Weiße Wald besticht durch seine weiten, naturbelassenen Flächen...
+◇Seine Bewohner lieben die Natur und leben in völligem Einklang mit ihr...
+◇Die Bewohner des Waldes pflanzen Bäume und tragen damit zu seinem Wachsen bei...
+◇Der Wald lockt dank seiner naturbelassenen Flächen viele Pokémon-Züchter an...
+◇Dank der naturbelassenen Flächen des Waldes sieht man dort viele seltene Pokémon...
+◇Von Pokémon zurückgelassene Gegenstände werden als Geschenk der Natur angesehen...
+◇Immer mehr Leute zieht es in die Stadt. Das macht sich in Bezug auf die Bevölkerungsdichte bemerkbar...
+◇Der Weiße Wald besticht durch seine weiten, naturbelassenen Flächen...
+◇Seine Bewohner lieben die Natur und leben in völligem Einklang mit ihr...
+◇Die Schwarze Stadt ist ein urbanes Ballungsgebiet mit vielen Hochhäusern...
+◇In der Schwarzen Stadt strebt man danach, die Stadt größer und moderner als alle anderen in Einall zu machen...
+◇Durch den regen Zulauf an Neuanliegern entwickelt sich die Schwarze Stadt jeden Tag ein Stück weiter...
+◇Viele wetteifernde Trainer nennen die Schwarze Stadt ihr Zuhause...
+◇Als Langzeit-Projekt wird ein großer Markt im Stadtinneren angelegt...
+◇Neu zugezogene Anwohner bringen frischen Wind in den Güterverkehr und ändern das Warenangebot der Stadt...
+◇Immer mehr Leute zieht es in die Stadt. Das macht sich in Bezug auf die Bevölkerungsdichte bemerkbar...
+◇Die Schwarze Stadt ist ein urbanes Ballungsgebiet mit vielen Hochhäusern...
+◇In der Schwarzen Stadt strebt man danach, die Stadt größer und moderner als alle anderen in Einall zu machen...
+◇Die Ruinen des Alten Palastes ziehen viele Touristen an...
+◇Die Wüste ist groß und kennt kein Erbarmen. Es wird angeraten, vor einem Besuch Vorbereitungen zu treffen!
+◇Vorsicht vor den Sandstürmen, die über die gesamte Wüste hinwegfegen!
+◇Zurzeit werden Nachforschungen über die Erbauungszeit des Alten Palastes angestellt...
+◇Niemand weiß, weshalb die alte Hochkultur dieser Wüste unterging...
+◇Im Inneren des Alten Palastes rieselt noch immer Sand aus dem Gemäuer...
+◇Die Ruinen des Alten Palastes ziehen viele Touristen an...
+◇Die Wüste ist groß und kennt kein Erbarmen. Es wird angeraten, vor einem Besuch Vorbereitungen zu treffen!
+◇Vorsicht vor den Sandstürmen, die über die gesamte Wüste hinwegfegen!
 
 
 
@@ -179,23 +176,26 @@
 
 
 
-はれ
-ゆき
-あめ
-すなあらし
-すなあらし
-ふぶき
-あられ
-きり
-ひじょうにめずらしい　ダイヤモンドダストが　はっせい！！
-ひじょうにつよい　らいうが　はっせい！！
-ひじょうにつよい　おおあらしが　はっせい！！
-\xf000ą\x0001\x0000:\xf000ľ\x0001\x0001
+
+
+
+Sonnig
+Schnee
+Regnerisch
+Sandsturm
+Sandsturm
+Blizzard
+Hagelsturm
+Neblig
+Seltener Diamantstaub liegt in der Luft!
+Ein ungewöhnlich starkes Gewitter wütet!
+Ein ungewöhnlich starker Sturm wütet!
+\xf000ą\x0001\x0000: \xf000Ā\x0001\x0001
 \xf000Ā\x0001\x0000
-\xf000Ā\x0001\x0000　　\xf000Ā\x0001\x0001
-\xf000Ā\x0001\x0000　　\xf000Ā\x0001\x0001　　\xf000Ā\x0001\x0002
-\xf000Ā\x0001\x0000　　\xf000Ā\x0001\x0001　　\xf000Ā\x0001\x0002　　\xf000Ā\x0001\x0003
-◆\xf000ą\x0001\x0000で　ポケモンが　たいりょうはっせい！！
+\xf000Ā\x0001\x0000   \xf000Ā\x0001\x0001
+\xf000Ā\x0001\x0000   \xf000Ā\x0001\x0001   \xf000Ā\x0001\x0002
+\xf000Ā\x0001\x0000   \xf000Ā\x0001\x0001   \xf000Ā\x0001\x0002   \xf000Ā\x0001\x0003
+◆\xf000ą\x0001\x0000: Ein massiver Auflauf von Pokémon hat sich gebildet!
 
 
 
@@ -203,12 +203,12 @@
 
 
 
-◆でんどういり　おめでとう！　トレーナー　\xf000Ā\x0001\x0006は　\xf000ā\x0001\x0000とともに　しょうりをおさめた！
-◆でんどういり　おめでとう！　トレーナー　\xf000Ā\x0001\x0006は　\xf000ā\x0001\x0000　\xf000ā\x0001\x0001とともに　しょうりをおさめた！
-◆でんどういり　おめでとう！　トレーナー　\xf000Ā\x0001\x0006は　\xf000ā\x0001\x0000　\xf000ā\x0001\x0001　\xf000ā\x0001\x0002とともに　しょうりをおさめた！
-◆でんどういり　おめでとう！　トレーナー　\xf000Ā\x0001\x0006は　\xf000ā\x0001\x0000　\xf000ā\x0001\x0001　\xf000ā\x0001\x0002　\xf000ā\x0001\x0003とともに　しょうりをおさめた！
-◆でんどういり　おめでとう！　トレーナー　\xf000Ā\x0001\x0006は　\xf000ā\x0001\x0000　\xf000ā\x0001\x0001　\xf000ā\x0001\x0002　\xf000ā\x0001\x0003　\xf000ā\x0001\x0004とともに　しょうりをおさめた！
-◆でんどういり　おめでとう！　トレーナー　\xf000Ā\x0001\x0006は　\xf000ā\x0001\x0000　\xf000ā\x0001\x0001　\xf000ā\x0001\x0002　\xf000ā\x0001\x0003　\xf000ā\x0001\x0004　\xf000ā\x0001\x0005とともに　しょうりをおさめた！
+◆\xf000Ā\x0001\x0006 ist mit \xf000ā\x0001\x0000 in die Ruhmeshalle eingegangen. Herzlichen Glückwunsch!
+◆\xf000Ā\x0001\x0006 ist mit \xf000ā\x0001\x0000 und \xf000ā\x0001\x0001 in die Ruhmeshalle eingegangen. Herzlichen Glückwunsch!
+◆\xf000Ā\x0001\x0006 ist mit \xf000ā\x0001\x0000, \xf000ā\x0001\x0001 und \xf000ā\x0001\x0002 in die Ruhmeshalle eingegangen. Herzlichen Glückwunsch!
+◆\xf000Ā\x0001\x0006 ist mit \xf000ā\x0001\x0000, \xf000ā\x0001\x0001, \xf000ā\x0001\x0002 und \xf000ā\x0001\x0003 in die Ruhmeshalle eingegangen. Herzlichen Glückwunsch!
+◆\xf000Ā\x0001\x0006 ist mit \xf000ā\x0001\x0000, \xf000ā\x0001\x0001, \xf000ā\x0001\x0002, \xf000ā\x0001\x0003 und \xf000ā\x0001\x0004 in die Ruhmeshalle eingegangen. Herzlichen Glückwunsch!
+◆\xf000Ā\x0001\x0006 ist mit \xf000ā\x0001\x0000, \xf000ā\x0001\x0001, \xf000ā\x0001\x0002, \xf000ā\x0001\x0003, \xf000ā\x0001\x0004 und \xf000ā\x0001\x0005 in die Ruhmeshalle eingegangen. Herzlichen Glückwunsch!
 ◇ヒオウギシティしゅっしんの　トレーナーが　セイガイハジムリーダー　シズイにしょうり！！
 ◇みはらしだいから　いちぼうできる　うつくしくつらなる　やまは　ひっけんです
 ◇ヒオウギの　トレーナーズスクールは　あたたかみのある　がっこうです
