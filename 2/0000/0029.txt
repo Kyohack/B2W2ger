@@ -1,44 +1,46 @@
-Ｘボタン
-ＳＥＬＥＣＴ
-Ｂボタン
-らくがきツールを　つかう
-がぞうを　とめる
-らくがきを　やめる
-ペンサイズを　へんこう
-いろを　スポイト
-けしゴムに　へんこう
-らくがきツールを　とじる
-スタンプ
-らくがきモード
-ＲＥＣ
-らくがき
-ＩＤ\xf000Ȅ\x0001\x0000
-―／―
-\xf000Ȁ\x0001\x0000／４
-Bitte wähle deine Freunde aus
-Freund(e) anrufen
-さんかする
-ともだちを　よびだしちゅう！
-ともだちを　よびだしちゅう・
-ともだちを　よびだしちゅう・・
-ともだちを　よびだしちゅう・・・
-Verbindet！
-Verbindet・
-Verbindet・・
-Verbindet・・・
-Sucht nach deinen Freunden！
-Sucht nach deinen Freunden・
-Sucht nach deinen Freunden・・
-Sucht nach deinen Freunden・・・
-ライブキャスターを\xfffeしゅうりょう　しますか？
-リーダーが　やめると　かいさんに\xfffeなりますが　よろしいですか？
-Ja
-Nein
-リーダーが　しゅうりょうしたので　\xfffeかいさんします
-あいてが　しゅうりょうしたので　\xfffeかいさんします
-メンバーが　いなくなったので\xfffeしゅうりょうします
-Anruf fehlgeschlagen.
-Verbindung konnte nicht hergestellt werden.
+X-Knopf
+    2	
++SELECT
+ 	 3	
++B-Knopf
+Graffiti-Werkzeuge öffnen
+Bild anhalten
+Graffiti-Modus beenden
+Stiftstärke ändern
+Farbe kopieren
+Löschwerkzeug verwenden
+Graffiti-Werkzeuge schließen
+Stempel
+Graffiti-Modus
+REC
+GRAFFITI
+ID: \xf000Ȅ\x0001\x0000
+Wähle Kontakt(e) aus.
+KONTAKT(E) ANRUFEN
+TEILNEHMEN
+Kontaktaufnahme erfolgt!
+Verbindung wird aufgebaut.
+Verbindung wird aufgebaut..
+Verbindung wird aufgebaut...
+Connecting!
+Connecting.
+Connecting..
+Connecting...
+Searching for your friends!
+Searching for your friends.
+Searching for your friends..
+Suche nach erreichbaren Kontakten...
+Die Kommunikation über den Viso-Caster\xfffebeenden?
+Wenn der Leiter ausscheidet, wird\xfffedie Gruppe aufgelöst. Einverstanden?
+JA
+NEIN
+Der Leiter hat das Gespräch verlassen.\xfffeDie Kommunikation wird beendet.
+Ein Teilnehmer hat das Gespräch\xfffeverlassen.
+Das Gespräch wird beendet, da alle\xfffeTeilnehmer aufgelegt haben.
+Kontaktaufnahme fehlgeschlagen.
+Verbindungsaufbau fehlgeschlagen.
+Über die Altersbeschränkungen in den\xfffeSystemeinstellungen wurde festgelegt,\xfffedass der drahtlose Austausch von\xfffeFotodaten nicht erlaubt ist. Willst du ein\xfffeBild versenden, müssen zunächst die\xfffeAltersbeschränkungen geändert werden.
+Warte auf den anderen Spieler...
 ペアレンタルコントロールの\xfffeせっていにより　しゃしんデータの\xfffeそうじゅしんが\xfffeせいげん　されています\xfffeがぞうを　だしたいときは\xfffeほんたいせっていで\xfffeせいげんを　かいじょ　してください
 Warten auf andere Spieler
 ただいま　『\xf000Ĝ\x0001\x0000』の\xfffeさんかしゃを　ぼしゅうちゅうです！\xfffeしめきりまで　あと\xf000ȁ\x0001\x0001びょうです！
