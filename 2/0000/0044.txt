@@ -1,7 +1,7 @@
 SPIELSYNCHRO
 Ｗｉ－Ｆｉせってい
 もどる
-Moechtest du das Spiel speichern？
+Möchtest du das Spiel speichern?
 JA
 NEIN
 Speichervorgang...\xfffeBitte das System nicht ausschalten.
