@@ -1,16 +1,16 @@
-Der Gefühls Check\xfffemit dir und\xf000Ā\x0001\x0000 zeigte, dass...
-ERGEBNIS
-Du berührst den Bildschirm Falsch. \xfffeBitte Spiel die Einführung.
-Dein Gefühls Rank ist I!\xfffeNah genug um Hallo zu sagen.
-Dein Gefühls Rank ist H!\xfffeIhr Interessiert euch fuereinander.
-Dein Gefühls Rank ist G!\xfffeGenug um zusammen spazieren zu gehen.
-Dein Gefühls Rank ist F!\xfffeIhr könnt euch Spitznamen geben.
-Dein Gefühls Rank ist E!\xfffeIhr könnt die Besten Freunde sein.
-Dein Gefühls Rank ist D!\xfffeGut genug um gute-Nacht anrufe zu machen.
-Dein Gefühls Rank ist C!\xfffeNah genug um zusammen zu verreisen.
-Dein Gefühls Rank ist B!\xfffeJeder beeneidet euch.
-Dein Gefühls Rank ist A!\xfffeIhr seit emotional vereint.
-Dein Gefühls Rank ist S!\xfffeZweifellos ein vom Schicksal erwähltes Paar!
-\xf000Ā\x0001\x0000 steckt das \xf000Ȁ\x0001\x0002 \xf000ĉ\x0001\x0001\xfffein seinen \xf000\xff00\x0001\x0002Medicine\xf000\xff00\x0001\x0000 Beutel.
-\xf000Ā\x0001\x0000 steckt das \xf000Ȁ\x0001\x0002 \xf000ĉ\x0001\x0001\xfffein seinen \xf000\xff00\x0001\x0002Medicine\xf000\xff00\x0001\x0000 Beutel.
-Schade!\xfffeDein Beutel ist voll...
+Der Harmoniequotient für dich\xfffeund \xf000Ā\x0001\x0000 beträgt...
+ERGEBNISBEKANNTGABE
+Berührungserkennung fehlgeschlagen.\xfffeBitte halte dich an die Anweisungen.
+Das Testergebnis: Rang I! Ihr habt nicht\xfffemehr als ein „Hallo“ füreinander übrig.
+Das Testergebnis: Rang H! Irgendetwas\xfffeknistert da zwischen euch!
+Das Testergebnis: Rang G! Na ja, für einen\xfffeSpaziergang zu zweit reicht's gerade noch.
+Das Testergebnis: Rang F! Ihr habt bestimmt\xfffeschon Spitznamen füreinander, stimmt's?
+Das Testergebnis: Rang E! Ihr könntet\xfffebeste Freunde werden!
+Ihr bringt es auf Harmonierang D! Ihr geht\xfffenicht ins Bett, ohne vorher zu telefonieren.
+Ihr bringt es auf Harmonierang C!\xfffeIhr solltet zusammen eine Reise wagen!
+Ihr bringt es auf Harmonierang B! Alle Welt\xfffebeneidet euch um eure Freundschaft!
+Ihr bringt es auf Harmonierang A!\xfffeIhr versteht euch auch ohne große Worte.
+Ihr bringt es auf Harmonierang S! Das\xfffeSchicksal hat euch füreinander bestimmt!
+\xf000Ā\x0001\x0000 verstaut \xf000Ȁ\x0001\x0002 \xf000ĉ\x0001\x0001\xfffein der \xf000\xff00\x0001\x0002MEDIZIN\xf000\xff00\x0001\x0000-Tasche.
+\xf000Ā\x0001\x0000 verstaut \xf000Ȁ\x0001\x0002 Exemplar(e) des\xfffeItems \xf000ĉ\x0001\x0001 in der \xf000\xff00\x0001\x0002MEDIZIN\xf000\xff00\x0001\x0000-Tasche.
+Zu schade!\xfffeDer Beutel ist voll...
