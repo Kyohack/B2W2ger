@@ -45,8 +45,8 @@ It was wrapped in white fog!\xfffe
 Das klappt nicht! Man kann nicht\xfffezielen, wenn 2 Pokémon da sind.
 Du kannst keine weiteren Pokémon\xfffefangen. Alle Boxen im PC sind voll.
 \xf000c\x0001\x0001's effect prevents the item's use on\xfffe\xf000A\x0001\x0000!
-Das wird nichts! Man kann auf ein\xfffenicht sichtbares Pokémon nicht zielen.
-Das wird nichts! Man kann auf ein\xfffenicht sichtbares Pokémon nicht zielen.
+Das wird nichts! Man kann auf ein\xfffenicht sichtbares Pokémon zielen.
+Das wird nichts! Man kann auf ein\xfffenicht sichtbares Pokémon zielen.
 Du verfügst nicht über genügend Energie. 
 Prof. Esche sagt immer:„Dies ist weder der\xffferechte Ort, noch die rechte Zeit dafür!“
 Wenn du dich nicht auf eine Sache\xfffekonzentrierst, triffst du dein Ziel nie!
