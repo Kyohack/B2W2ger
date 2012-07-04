@@ -1,18 +1,18 @@
-ハイリンク
-ライブ\xfffe　　キャスター
-ユニオンルーム
-\xf000ȁ\x0001\x0000にん
-ワイヤレスはいしん
+KONTAKTEBENE
+VISO-CASTER
+Spieler im Konnex-Klub:
+\xf000ȁ\x0001\x0000
+Lokales Geschenk:
 あり
 なし
-はい
-いいえ
-もどる
+Ja
+Nein
+Back
 ここまでの　かつやくを\xfffeポケモンレポートに　かきこみますか？
 セーブしています\xfffeしばらく　おまちください
-Ｃギア　キャッチ
+C-Gear geortet:
 あり
 なし
-ハイリンク\xfffe　コネクト…
-ハイリンク\xfffe　ゲスト：\xf000Ȁ\x0001\x0000
-ハイリンク\xfffe　ミッション
+KONTAKTEBENE\xfffeVerbindung...
+KONTAKTEBENE\xfffeGästezahl: \xf000Ȁ\x0001\x0000
+KONTAKTEBENE\xfffeMission
