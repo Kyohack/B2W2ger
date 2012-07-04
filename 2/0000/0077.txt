@@ -1,14 +1,14 @@
-ロードちゅう……\xfffeしばらく　おまちください
-ただしい　ソフトが　ささっていません\xfffeでんげんをきり　ただしい　ソフトを\xfffeさしてから　てんそうマシンを\xfffeきどうしなおして　ください
-レポートに　かきこんでいます\xfffeでんげんを　きらないでください
-レポートに　かきこみました\xf000븂\x0001<
+Lade……\xfffe Bitte warte einen Augenblick.
+Das eingelegte Spiel ist nicht kompatibel. \xfffeSchalte das Gerät aus, leg eine \xfffe kompatible Spielkarte ein und versuche es erneut.
+Speichere \xfffe Bitte schalte das Gerät nicht aus.
+Der Spielstand wurde gespeichert. \xf000븂\x0001<
 てんそうマシンを　しゅうりょうします\xfffeでんげんを　きって\xfffeしゅうりょうしてください
 データの　よみこみに\xfffeしっぱい　しました\xfffeてんそうマシンを　しゅうりょうします
 もう１つの　ＤＳの\xfffeせつぞくに　しっぱい　しました\xf000븁\x0000
 データの　かきこみに\xfffeしっぱい　しました\xf000븀\x0000\xfffeてんそうマシンを　しゅうりょうします\xf000븁\x0000
 てんそうマシンが　きどうしています！\xfffeポケモンを　さがしていますので\xfffeこのまま　しばらく　おまちください
-レポートを　よみこむことが\xfffeできませんでした\xfffeレポートが　かかれていないか\xfffeこわれている　かのうせいがあります
-ただしい　ソフトが　ささっていません\xfffeでんげんをきり　ただしい　ソフトを\xfffeさしてから　てんそうマシンを\xfffeきどうしなおして　ください
-はい
-いいえ
+Die Speicherdatei ist beschädigt \xfffeoder es ist keine vorhanden. \xfffeDie Speicherdatei konnte nicht gelesen werden.
+Das eingelegte Spiel ist nicht kompatibel. \xfffe Schalte das Gerät aus, leg eine \xfffe kompatible Spielkarte ein und versuche es erneut.
+Ja
+Nein
 デバッグROM\xfffeDP　Y\xfffePT　X\xfffeGS　A
