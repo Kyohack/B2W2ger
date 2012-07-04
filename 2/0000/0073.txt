@@ -1,18 +1,18 @@
-タイトルメニュー
-ポケモンセンターの　せつめい
-Ｃギアの　せつめい
-メニューに　ついて
-せんとうに　ついて
-ポケモンの　じょうほう
-そのた
-つづきから　はじめる
-さいしょから　はじめる
-ふしぎな　おくりもの
-バトルたいかい
-デジタルせんしゅしょう
-ゲームシンクせってい
-Ｗｉ－Ｆｉせってい
-マイクテスト
+DAS STARTMENÜ
+ZUM THEMA „POKÉMON-CENTER“
+ZUM THEMA „C-GEAR“
+ZUM THEMA „SPIELMENÜ“
+ZUM THEMA „KÄMPFE“
+ZUM THEMA „POKÉMON“
+VERSCHIEDENES
+WEITER (EINEN SPIELSTAND LADEN)
+NEUES SPIEL (VON VORN ANFANGEN)
+GEHEIMGESCHEHEN
+DIE KAMPFTURNIERE
+DIE DIGITALEN AUSWEISDATEN
+SPIELSYNCHRO-EINSTELLUNGEN
+EINSTELLUNGEN DER NINTENDO WFC
+MIKRO PRÜFEN
 ポケモンセンター
 パソコンで　ポケモンをいれかえる
 ボックスを　せいりする
