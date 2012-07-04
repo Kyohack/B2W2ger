@@ -648,7 +648,7 @@ Kyurem
 Keldeo
 Meloetta
 Genesect
-タマゴ
+Ei
 ダメタマゴ
 ＵＦＯ
 ハチクマン
@@ -656,12 +656,12 @@ Genesect
 Ｍ．Ｖ２
 てんそうき
 だいＯＬ
-ひとがた
-かいぶつ
+Puppe
+Monster
 Ｆ−００
-あくりょう
-しろいかべ
-くろいかべ
+Dämon
+Weiße Wand
+Schwarze Wand
 セットＵ１
 セットＵ２
 セットＨ１
@@ -681,7 +681,7 @@ Genesect
 ＵＦＯ２
 だいＯＬ２
 Ｆ−００２
-カラテおう
+Schwarzgut
 ドーブル２
-タマゴ
-タマゴ
+Ei
+Ei
