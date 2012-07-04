@@ -4,10 +4,10 @@ ANIMATION
 KAMPFSTIL
 TON
 TEXTMODUS
-RADIO
+Wi-Fi
 IR-SICHERUNG
 O.K.
-ZURUECK
+ZURÜCK
 1
 2
 3
@@ -21,17 +21,17 @@ Deutsch
 Japanisch
 AN
 AUS
-SPEICHERN
-NICHT SPEICHERN
+SAVE
+NO SAVE
 Wähle zwischen drei verschiedenen\xfffeTextgeschwindigkeiten.
 Wähle, ob in den Kämpfen Animationen für\xfffedie Attacken angezeigt werden sollen.
 Wähle zwischen zwei verschiedenen\xfffeKampfstilen.
-Wähle, wie das\xfffeSpiel klingen soll.
-Wähle die Sprache des Spiels
-Wähle, ob die drahtlose\xfffeKommunikation an oder aus ist.
-Wähle, ob du vor dem Einsatz\xfffeder Infrarotfunktion speichern möchtest.
-Du hast schon gespeicherte Daten\xfffeDu kannst dies nicht aendern\xf000븁\x0000
-Änderungen vornehmen？
+Wähle, wie das Spiel klingen sol
+You can change the game's language.
+You can turn wireless communication\xfffeon or off.
+Wähle, ob du vor dem Einsatz der\xfffeInfrarotfunktion speichern möchtest.
+Es existieren bereits andere Speicherdaten.\xfffeÄnderung nicht möglich.\xf000븁\x0000
+Änderungen vornehmen?
 JA
 NEIN
-Dummy-Nachricht
+Dummy Message.
