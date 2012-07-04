@@ -1,7 +1,7 @@
-\xf000Ă\x0001\x0000を　グッズで\xfffeドレスアップ　しましょう！
-ドレスアップは\xfffeこれで　よろしいですか？
-ほかの　さんかしゃの\xfffeドレスアップを　まっています
-\xf000Ċ\x0001\x0000\xfffe\xf000ı\x0001\x0001に　にあう　グッズです
-\xf000ı\x0001\x0000に　にあう　グッズを\xfffeせんとうに　ならびかえました
-グッズの　ならびの　じゅんばんを\xfffeもとに　もどしました
-リストから　グッズを　ひきだして\xfffeポケモンに　つけることが　できます
+Kostümiere \xf000Ă\x0001\x0000 mit Deko-Artikeln!
+Bist du mit dem Deko-Spaß fertig?
+Warte darauf, dass die anderen Teilnehmer\xfffemit dem Deko-Spaß fertig werden...
+\xf000Ċ\x0001\x0000! Dieser Deko-Artikel\xfffeist ein toller Schmuck für \xf000ı\x0001\x0001!
+Die Liste führt jetzt Deko-Artikel\xfffefür \xf000ı\x0001\x0000 zuerst auf.
+Die Deko-Artikel werden nun wieder nach\xfffeder alten Reihenfolge aufgeführt.
+Du kannst dein Pokémon kostümieren, indem\xfffedu Deko-Artikel aus der Liste auf es ziehst.
