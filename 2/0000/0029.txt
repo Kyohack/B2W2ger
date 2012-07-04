@@ -39,7 +39,7 @@ Kontaktaufnahme fehlgeschlagen.
 Verbindungsaufbau fehlgeschlagen.
 Über die Altersbeschränkungen in den\xfffeSystemeinstellungen wurde festgelegt,\xfffedass der drahtlose Austausch von\xfffeFotodaten nicht erlaubt ist. Willst du ein\xfffeBild versenden, müssen zunächst die\xfffeAltersbeschränkungen geändert werden.
 Warte auf den anderen Spieler...
-ペアレンタルコントロールの\xfffeせっていにより　しゃしんデータの\xfffeそうじゅしんが\xfffeせいげん　されています\xfffeがぞうを　だしたいときは\xfffeほんたいせっていで\xfffeせいげんを　かいじょ　してください
+Über die Altersbeschränkungen in den\xfffeSystemeinstellungen wurde festgelegt,\xfffedass der drahtlose Austausch von\xfffeFotodaten nicht erlaubt ist. Willst du ein\xfffeBild versenden, müssen zunächst die\xfffeAltersbeschränkungen geändert werden.
 Warten auf andere Spieler
 ただいま　『\xf000Ĝ\x0001\x0000』の\xfffeさんかしゃを　ぼしゅうちゅうです！\xfffeしめきりまで　あと\xf000ȁ\x0001\x0001びょうです！
 『\xf000Ĝ\x0001\x0000』の\xfffeかいしまで　しばらくおまちください
