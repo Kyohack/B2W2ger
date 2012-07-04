@@ -1,20 +1,20 @@
-バトルたいかい　へ\xfffeようこそ！
-バトルたいかいには\xfffeＷｉ－Ｆｉコネクションで\xf000븀\x0000\xfffeおこなわれる　Ｗｉ－Ｆｉたいかいと\xf000븁\x0000\xfffeイベントかいじょうで　おこなわれる\xfffeライブたいかいが　あります\xf000븁\x0000\xfffeさんかする　ポケモンは\xfffeバトルボックスに　とうろく　している\xf000븀\x0000\xfffeポケモンです\xf000븁\x0000\xfffeいちど　たいかいに　とうろく　すると\xfffeたいかい　さんかちゅうは\xf000븀\x0000\xfffeバトルボックスを\xf000븀\x0000\xfffeへんこう　できなくなるので\xf000븀\x0000\xfffeちゅうい　してください\xf000븁\x0000\xfffeたいかいに　さんかすると\xfffeデジタルせんしゅしょう　に\xf000븀\x0000\xfffeデータが　とうろく　されるので\xf000븀\x0000\xfffeかくにん　してみてください\xf000븁\x0000
-Ｗｉ－Ｆｉたいかい　へ
-ライブたいかい　へ
-デジタルせんしゅしょうを　みる
-せつめいを　きく
-やめる
-さんかする
-Ｗｉ－Ｆｉたいかいは\xfffeおてもとの　パソコンで\xf000븀\x0000\xfffeポケモングローバルリンクの\xf000븀\x0000\xfffeホームページに　アクセスし\xf000븁\x0000\xfffeとうろく　することで\xfffeたいかいに　さんか　できます\xf000븁\x0000\xfffehttp://www.pokemon-gl.com/\xf000븁\x0000\xfffeたいかいのルールや　かいさいきかんは\xfffeポケモングローバルリンク\xf000븀\x0000\xfffeホームページで　かくにんしてください\xf000븁\x0000\xfffeまた　Ｗｉ－Ｆｉたいかいや\xfffeランダムマッチの　さんかちゅうに\xf000븁\x0000\xfffeほんたいの　でんげんが　きれると\xfffe１じかん　たいかいや\xf000븀\x0000\xfffeランダムマッチで　たいせんが\xf000븀\x0000\xfffeできなくなります\xf000븀\x0000\xfffeごちゅうい　ください\xf000븁\x0000
-Ｗｉ－Ｆｉたいかいに\xfffeさんか　しますか？
-たいかいへ　さんかするのを\xfffeやめますか？
-はい
-いいえ
-さんかを　かいじょする
-ライブたいかいに\xfffeさんか　しますか？
-ライブたいかいの\xfffeかいさいじょうほうに　ついては\xf000븀\x0000\xfffeポケットモンスターオフィシャルサイトで\xf000븀\x0000\xfffeかくにん　することが　できます\xf000븁\x0000\xfffehttp://www.pokemon.co.jp/\xf000븁\x0000\xfffeたいかいのルールや　かいさいきかんは\xfffeポケットモンスターオフィシャルサイト\xf000븀\x0000\xfffeホームページで　かくにんしてください\xf000븁\x0000
+Willkommen bei den Kampfturnieren!
+Die Kampfturniere unterteilen sich in die\xfffeWi-Fi-Turniere, die über die Nintendo Wi-Fi\xf000븀\x0000\xfffeConnection ausgetragen werden, und die\xf000븀\x0000\xfffeHautnahturniere, die an speziellen\xf000븀\x0000\xfffeVeranstaltungsorten abgehalten werden.\xf000븁\x0000\xfffeTeilnahmeberechtigt sind alle Pokémon,\xfffedie in der Kampfbox abgelegt wurden.\xf000븁\x0000\xfffeÜberlege dir genau, welche Pokémon du in\xfffedie Kampfbox steckst, denn während eines\xf000븀\x0000\xfffeTurnieres ist es nicht möglich, deine Wahl\xf000븀\x0000\xfffewieder rückgängig zu machen!\xf000븁\x0000\xfffeNimmst du an einem der Wettkämpfe teil,\xfffewerden dabei digitale Ausweisdaten für\xf000븀\x0000\xfffedich registriert.\xf000븁\x0000\xfffeBitte überprüfe diese sehr genau.\xf000븁\x0000
+Zum Wi-Fi-Turnier
+Zum Hautnahturnier
+Digitale Ausweisdaten einsehen
+Spielregeln
+Zurück
+Teilnehmen
+An Wi-Fi-Turnieren kannst du teilnehmen,\xfffeindem du dich auf der Internetseite\xf000븀\x0000\xfffedes Pokémon Global Links auf\xf000븀\x0000\xfffehttp://www.pokemon-gl.com registrierst.\xf000븁\x0000\xfffeEinsicht in die Regeln und die\xfffeAustragungstermine erhältst du\xf000븀\x0000\xfffeebenfalls auf der Homepage\xf000븀\x0000\xfffedes Pokémon Global Links.\xf000븁\x0000
+An einem Wi-Fi-Turnier teilnehmen?
+Willst du das Wi-Fi\xfffeTunier beenden?
+Ja
+Nein
+Aussteigen
+An einem Hautnahturnier teilnehmen?
+Informationen zur Durchführung der\xfffeHautnahturniere erhältst du auf der\xf000븀\x0000\xfffeoffiziellen Pokémon-Internetseite unter\xf000븀\x0000\xfffehttp://www.pokemon.de\xf000븁\x0000\xfffeEinsicht in die Regeln und Austragungs-\xfffetermine erhältst du ebenfalls auf der\xf000븀\x0000\xfffeoffiziellen Pokémon-Internetseite.\xf000븁\x0000
 Ｗｉ－Ｆｉたいかい　または\xfffeランダムマッチの　さんかちゅうに\xf000븀\x0000\xfffeほんたいの　でんげんが　きれたため\xf000븁\x0000\xfffe１じかん\xfffeたいかいや　ランダムマッチで\xf000븀\x0000\xfffeたいせんが　できなくなります\xf000븁\x0000\xfffeじかんが　たちましたら\xfffeおこしください\xf000븁\x0000
-レポートに　かきこんでいます\xfffeでんげんを　きらないでください
+\xfffeSpeichert! Garät nicht ausschalten!
 たいせんの　せいかを　たたえて\xfffeバトルポイントを　しんてい　いたします\xf000븁\x0000
 \xf000Ā\x0001\x0000は　バトルポイントを\xfffe\xf000ȁ\x0001\x0001ＢＰ　てにいれた！\xf000븁\x0000
