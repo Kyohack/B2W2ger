@@ -2,12 +2,12 @@ Bitte warten...
 \xf000Ă\x0001\x0000
 \xf000Ā\x0001\x0001 erhielt ein Ei von\xfffe\xf000Ā\x0001\x0002!
 In einem Bonusgebiet gelandet!\xfffe\xf000ĉ\x0001\x0000 geschenkt bekommen!
-Oha, der Beutel ist voll! Die Beere\xfffekonnte nicht angenommen werden.
+Oh, dein Beutel ist voll! Die Beere\xfffekonnte nicht angenommen werden.
 Verbindung wird hergestellt.\xfffeBitte warten...
 Ein Mitglied ist ausgeschieden.\xfffeDer Reihumtausch wird abgebrochen.
 Der Spielleiter ist ausgeschieden.\xfffeDer Reihumtausch wird abgebrochen.
 Fehler bei der Datenübertragung.\xfffeDer Reihumtausch wird abgebrochen.
 Das Zeitlimit ist abgelaufen.\xfffeDer Reihumtausch wird abgebrochen.
 Verbindung wird hergestellt.\xfffeBitte warten...
-Speichervorgang...\xfffeDas System nicht ausschalten.
+Speichervorgang...\xfffeBitte das System nicht ausschalten.
 Es gibt ein nicht tauschbares Ei.\xfffeReihumtausch wird abgebrochen.
