@@ -33,7 +33,7 @@ EINSETZEN
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
 Das wird nichts bringen!
-It was wrapped in white fog!\xfffe
+Es wurde in weißen Nebel eingehüllt!\xfffe
 \xf000A\x0001\x0000?\xfffepumpt sich auf!
 \xf000A\x0001\x0000?\xfffe Angriff steigt!
 \xf000A\x0001\x0000?\xfffe Spezial Angriff steigt!
