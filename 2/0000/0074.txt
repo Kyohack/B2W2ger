@@ -13,22 +13,22 @@ DIE DIGITALEN AUSWEISDATEN
 SPIELSYNCHRO-EINSTELLUNGEN
 EINSTELLUNGEN DER NINTENDO WFC
 MIKRO PRÜFEN
-ポケモンセンター
-パソコンで　ポケモンをいれかえる
-ボックスを　せいりする
-バトルボックス
+Pokémon Center
+Pokémon ablegen
+Pokémon bewegen
+Kampfbox
 つうしんこうかんの　はじめかた
 つうしんたいせんの　はじめかた
 シングルバトル
-ダブルバトル
+Doppelkampf
 トリプルバトル
 ローテーションバトル
 ミラクルシューター
 ユニオンルーム
-Ｗｉ－Ｆｉクラブ
+Ｗｉ－Ｆi Club
 グローバルターミナル
-ともだちコード
-Ｃギア（シーギア）
+Freundescode
+Ｃ-Gear
 すれちがいログ
 すれちがいちょうさ　とは
 すれちがいちょうさを　うける
@@ -39,29 +39,29 @@ MIKRO PRÜFEN
 ハイリンク
 デルパワー
 デルダマ
-バッグ
-トレーナーカード
-ポケモンずかん
+Tasche
+Trainerkarte
+Pokédex
 ポケモンをつかまえるコツ
 タイプとあいしょう
 「ぶつり」「とくしゅ」「へんか」
 ひんし
-どく
-まひ
-ねむり
-こおり
-やけど
-こんらん
+Gift
+Paralyse
+Schlaf
+eingefroren
+verbrannt
+verwirrt
 メロメロ
 けいけんち
-しんか
+Entwicklung
 「せいかく」と　「こせい」
-ポケルス
-ポケモンのタマゴ
+Pokérus
+Eier
 はしる
 ダウジングマシン
 ライブキャスター
-ジムバッジ
+Orden
 べんりボタン
 メダルラリー
 ポケシフターでポケモンをつれてくる
