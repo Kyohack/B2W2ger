@@ -4,15 +4,15 @@ SPIELSYNCHRO
 Moechtest du das Spiel speichern？
 JA
 NEIN
-ポケモンレポートに　かきこんでいます\xfffeでんげんを　きらないでください
-Ｗｉ－Ｆｉせっていを　おこないますか？\xfffe（Ｗｉ－Ｆｉつうしんを　おこないます）
-ねかしつけている　ところです\xfffeでんげんを　きらないでください
+Speichervorgang...\xfffeBitte das System nicht ausschalten.
+Einstellungen der Nintendo WFC ändern?
+Ein Pokémon wird schlafen gelegt.\xfffeBitte das System nicht ausschalten.
 ゲームシンクが　かんりょう　しました
-ポケモンを\xfffeおこして　よろしいですか？
-ポケモンを　おこしています\xfffeでんげんを　きらないでください
-\xf000Ă\x0001\x0000が　めをさました！
-しばらく　おまちください
-\xf000Ă\x0001\x0000は\xfffeスヤスヤ　ねむりはじめた！
+Soll das Pokémon aufgeweckt werden?
+Das Pokémon wird aufgeweckt.\xfffeBitte das System nicht ausschalten.
+\xf000Ă\x0001\x0000 ist\xfffeaufgewacht!
+Bitte warte einen Moment.
+\xf000Ă\x0001\x0000 hat die Augen geschlossen.\xfffeEs schläft nun tief und fest!
 \xf000Ă\x0001\x0000が　めをさました！
 ゲームシンクの　エネルギーぎれです\xfffeじゅうでんまで　１にち　かかります\xf000븁\x0000\xfffeおつかいの　ＤＳほんたいを　かえずに\xf000븁\x0000\xfffe１にち　たってから\xfffeもういちど　ゲームシンクをしてください
 まだ　ゆめを　みていないみたい
