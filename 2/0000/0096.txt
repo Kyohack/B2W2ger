@@ -1,24 +1,24 @@
-おとこのひと
-おんなのこ
-おんなのひと
-おとこのこ
-クール
-キュート
-エレガント
-ユニーク
+Männer
+Mädchen
+Frauen
+Jungs
+Cool
+Süß
+Elegant
+Einzigartig
 こせいてき
 バランスがいい
-クールきょく
-キュートきょく
-エレガントきょく
+Cooler Song
+Süßer Song
+Einzigartiger Song
 ユニークきょく
 はいしんきょく
 はいしんダミー
-みみ
-あたま
-かお
-かお
-からだ
-こし
-うで
-かお
+Ohr
+Kopf
+Gesicht
+Gesicht
+Körper
+Taille
+Arm
+Gesicht
