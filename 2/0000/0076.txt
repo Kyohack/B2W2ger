@@ -1,10 +1,10 @@
-ロードちゅう……\xfffeしばらく　おまちください
+Lade…… \xfffe Bitte warte einen Moment
 ただしい　ソフトが　ささっていません\xfffeでんげんをきり　ただしい　ソフトを\xfffeさしてから　おもいでリンクを\xfffeきどうしなおして　ください\xf000븁\x0000
 おもいでリンクを　しゅうりょうします\xfffeでんげんを　きって\xfffeしゅうりょうしてください
-データの　よみこみに\xfffeしっぱい　しました\xf000븁\x0000
+Die gespeicherten Daten \xfffe konnten nicht aufgerufen werden\xf000븁\x0000
 もう１つの　ＤＳの\xfffeせつぞくに　しっぱい　しました\xf000븁\x0000
 おもいでリンク　きどうちゅう！\xfffeレポートを　リンクしています\xfffeこのまま　しばらく　おまちください
-レポートを　よみこむことが\xfffeできませんでした\xfffeレポートが　かかれていないか\xfffeこわれている　かのうせいがあります\xf000븁\x0000
-はい
-いいえ
+Die Speicherdatei konnte nicht gelesen werden. \xfffe Möglicherweise ist keine Speicherdatei vorhanden \xfffe oder die Speicherdatei ist beschädigt.\xf000븁\x0000
+Ja
+Nein
 おもいでリンク
