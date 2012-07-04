@@ -1,12 +1,12 @@
-チェックをする　あいてと\xfffeせきがいせんつうしんを　してください
-せきがいせんつうしんに　しっぱい\xfffeメニューに　もどります
-せきがいせんつうしんが　\xfffeつながりました！
-チェックをする　あいてと\xfffeせきがいせんつうしんを　してください
+Mach eien Infrastruktur-Verbindung\xfffemit dienem Freund.
+Infrastruktur-Verbindung fehlgeschlagen\xfffegehe zurueck zum Menue.
+Infrastruktur-Verbindung erfolgreich hergestellt.
+mach eine Infrastruktur-Verbindung\xfffemit dienem Freund.
 チェックちゅう　です\xfffeつうしんを　つづけてください
 したがめんの　メニューを\xfffeタッチで　スタート！
-チェックスタート
-ランキング
-もどる
-やめる
-フィーリングチェック
+Start Check
+Auflistung
+Zurueck
+Beenden
+Gefuehls check
 シーンが　ずれました\xfffeさきへ　すすみます
