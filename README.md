@@ -4,7 +4,7 @@ B2W2ger
 German-Translation project for Pokémon Black2 & White2 (by PokeStation)
 
 
-Contributors:
+Contributors:   
 Kyohack     
 CloneCharizard      
 wowfreak3000      
