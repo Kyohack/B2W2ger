@@ -41,7 +41,7 @@ Schaut auch in B2W2eng nach, falls ihr das nicht macht (was ich nicht hoffe)
 Falls jemand ZU OFT Google Translator o.ä. benutzt, absichtlich etwas umschreibt, offensichtliche Fehler macht, wird
 automatisch ausgeschlossen. d.h. Pull requests werden nicht akzeptiert.
 
-To-Do-List: Official Translation To-Do-List of B2W2ger: http://pastebin.com/uZZsgtHu# *When there is nothing next to the number then it means that this file is unedited / We'll update this link weekly
+OLD (new list will follow soon): To-Do-List: Official Translation To-Do-List of B2W2ger: http://pastebin.com/uZZsgtHu# *When there is nothing next to the number then it means that this file is unedited / We'll update this link weekly
 
 
 Vielen Dank für eure Unterstützung. Ohne euch wären wir längst nicht so weit!
