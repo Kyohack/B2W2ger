@@ -1,4 +1,4 @@
-さんかにんずう
+Die Anzahl der Teilnehmer
 \xf000봃\x0001\x0000\xf000Ȃ\x0001\x0000にん
 \xf000ļ\x0001\x0001を\xfffeつかいますか？\xfffeひつよう　\xf000Ȃ\x0001\x0002こ／もってる　\xf000Ȃ\x0001\x0003こ
 \xf000Ā\x0001\x0000さんが　はつどうした\xfffe\xf000ļ\x0001\x0001を\xfffeつかいますか？
@@ -10,57 +10,57 @@
 『\xf000Ĝ\x0001\x0000』と\xfffeはつげんしました！
 フェスミッションを\xfffeリタイア　しますか？
 ほうしゅう　\xf000봃\x0001\x0008\xf000ĉ\x0001\x0003\xf000ȃ\x0001\x0004こ
-じぶんのスコア
-ごうけい
+Sein Rekord
+Insgesamt
 \xf000Ȅ\x0001\x0000
 のこりじかん
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
-かくにん
-はい
-いいえ
-かくにん
-とじる
-げんき？
-かいさい　しました！
-さんか　しました！
-\xf000ą\x0001\x0000に　いどう
-\xf000ā\x0001\x0000と　せんとうちゅう！
-\xf000ā\x0001\x0000を　たおした！
-\xf000ā\x0001\x0000を　つかまえた！
-\xf000ā\x0001\x0000を　にがした
-トレーナーと　せんとうちゅう！
-トレーナーを　たおした！
-ぜんめつした！
+Bestätigen
+Ja
+Nein
+Bestätigen
+Schließen
+Was tun?
+Wurde getragen!
+Beigetreten!
+\xf000ą\x0001\x0000に　Bewegen
+\xf000ā\x0001\x0000と　Während dem Kampf!
+\xf000ā\x0001\x0000を　Besiegt!
+\xf000ā\x0001\x0000を　Gefangen!
+\xf000ā\x0001\x0000を　Entkommen!
+Trainer fordert dich zu einem Kampf heraus!
+Trainer besiegt!
+Trainer wurde besiegt!
 \xf000ĉ\x0001\x0000を　つかった
 \xf000ĉ\x0001\x0000を　ひろった！
 \xf000ć\x0001\x0000を　つかった
 かいものちゅう……
 デルパワーを　つかった！
 かんらんしゃに　のった！
-かんばんを　しらべています
-タマゴを　うけとった！
-\xf000ā\x0001\x0000を　たおした！
-\xf000ā\x0001\x0000を　つかまえた！
-\xf000ĉ\x0001\x0000を　みつけた！
+Du schaust auf ein Plakat
+Du hast ein Ei erhalten!
+\xf000ā\x0001\x0000を　Besiegt!
+\xf000ā\x0001\x0000を　Gefangen!
+\xf000ĉ\x0001\x0000を　Gefunden
 かねを　ならした！
-\xf000ā\x0001\x0000を　たおした！
-\xf000ā\x0001\x0000を　つかまえた！
+\xf000ā\x0001\x0000を　Besiegt!
+\xf000ā\x0001\x0000を　Gefangen!
+\xf000ĉ\x0001\x0000を　Geschafft!
 \xf000ĉ\x0001\x0000を　みつけた！
-\xf000ĉ\x0001\x0000を　みつけた！
-\xf000ā\x0001\x0000が　うまれた！
+\xf000ā\x0001\x0000が　ist gerade geschlüpft!
 \xf000ā\x0001\x0000を　つりあげた！
 \xf000ā\x0001\x0000を　みつけた！
 まいごを　たすけてあげた！
 \xf000ĉ\x0001\x0000を　わたした
-エリートトレーナーを　たおした
-どうぐこうかん　せいこう！
-\xf000ĉ\x0001\x0000を　かった！
-クイズに　せいかいした！
+Hat den Elite-Trainer besiegt!
+Tausch erfolgreich!
+\xf000ĉ\x0001\x0000を　Gekauft!
+Die richtige Antwort zum Quiz!
 じゃんけんに　かった！
-\xf000ĉ\x0001\x0000を　もらった！
+\xf000ĉ\x0001\x0000を　Erhalten
 おかねが　たりない！
 じゃんけんに　まけた！
-\xf000Ă\x0001\x0000が　ひんしです
+\xf000Ă\x0001\x0000が　Ohnmacht
 \xf000Ă\x0001\x0000のＨＰが　すくない！
 \xf000Ă\x0001\x0000のＰＰが　すくない！
 \xf000Ĝ\x0001\x0000
@@ -68,22 +68,22 @@
 
 
 \xf000ą\x0001\x0000と\xfffeはつげん　しました
-のこりじかん
-さんかにんずう
+Restzeit
+Die Anzahl der Teilnehmer
 クリアもくひょう\xf000ȃ\x0001\x0000ひき
 トータルスコア
 ほうしゅう
 \xf000Ȃ\x0001\x0000にん
 ひき
-マイスコア
-じゅんい
-トップスコア
+Mein Rekord
+Platzierung
+Highscore
 ハイスコア
 \xf000ȃ\x0001\x0000ひき
 \xf000Ȃ\x0001\x0000にんちゅう　\xf000Ȃ\x0001\x0001ばんめ
-のこりじかん
-スコアボーナス
-ダブルスコア
+Restzeit
+Punktebonus
+Doppelbonus
 \xf000ĉ\x0001\x0000\xf000ȁ\x0001\x0001こ
 ＋\xf000ȁ\x0001\x0000こ
 \xf000ȃ\x0001\x0000こ
@@ -101,13 +101,13 @@
 \xf000Ā\x0001\x0000のスコア\xf000ȃ\x0001\x0001こ
 \xf000Ā\x0001\x0000のスコア\xf000ȃ\x0001\x0001かい
 \xf000Ā\x0001\x0000のスコア\xf000ȃ\x0001\x0001
-ミッションたっせい！
-ミッションしっぱい！
+Mission erfüllt!
+Mission erfüllt!
 \xf000Ā\x0001\x0000は　\xf000ĉ\x0001\x0001を\xfffe\xf000ȁ\x0001\x0002こ　てにいれた！
 ざんねん！　\xf000ĉ\x0001\x0000は\xfffeこれいじょう　もてない！
-ダブルスコアボーナス　はっせい！
+Doppelte Punktzahl Bonus!
 \xf000Ā\x0001\x0000の　おもいが\xfffeハイルツリーと　きょうめいした！\xf000븁\x0000\xfffeハイリンクの\xfffe\xf000Ń\x0001\x0001ＬＶが　\xf000ȁ\x0001\x0002あがった！
 みんなの　おもいが\xfffeハイルツリーと　きょうめいした！\xf000븁\x0000\xfffeハイリンクの\xfffe\xf000Ń\x0001\x0000ＬＶが　\xf000ȁ\x0001\x0001あがった！
-ホワイト
-ブラック
-クリアもくひょう
+Weiß
+Schwarz
+Leeres Ziel
