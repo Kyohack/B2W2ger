@@ -18,9 +18,10 @@ Special thanks to Thechandrians.
 Thread: http://pokestation.net/forum/showthread.php?14123-Translation-project-for-Pok%E9mon-Black2-amp-White2
 
 [MotD] - Short announcement
-====
+======
 
 (letztes Update: 05.07.2012, 21:04 Uhr)
+
 
 Hi everybody, this announcement will be written in german:
 
@@ -40,9 +41,10 @@ ICQ: 380523956
 Bitte fügt mich Zeitnah hinzu.
 
 Important Stuff
-==============================
+=====
 
 (letztes Update: 04.07.2012, 16:04 Uhr)
+
 
 Hello this information will be written in german too:
 
