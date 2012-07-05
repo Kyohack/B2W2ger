@@ -38,7 +38,7 @@ Nachfolgend meine Adressen für Skype und ICQ (bevorzugt):
 Skype:
 ICQ: 380523956
 
-Bitte fügt mich Zeitnah hinzu.
+Bitte fügt mich zeitnah hinzu.
 
 Important Stuff
 =====
