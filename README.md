@@ -17,7 +17,7 @@ Special thanks to Thechandrians.
 
 Thread: http://pokestation.net/forum/showthread.php?14123-Translation-project-for-Pok%E9mon-Black2-amp-White2
 
-[MotD]: Short announcement :
+[MotD] - Short announcement
 ====
 
 (letztes Update: 05.07.2012, 21:04 Uhr)
@@ -27,7 +27,7 @@ Hi everybody, this announcement will be written in german:
 Zuerst möchte ich mich nochmal für die ganzen Übersetzungen bedanken, dafür, dass es sich hierbei um freiwllige Arbeit handelt, und ihr dementsprechend eure Freizeit
 in unser Projekt investiert, solltet ihr echt gelobt werden! Vielen Dank, ich hoffe ihr bleibt uns auch weiterhin bestehen.
 
-Jetzt aber zur eigentlichen Ankündigung:
+Jetzt aber zur eigentlichen Ankündigung: 
 
 Ich bitte alle Übersetzer, sich mit mir über Skype und/oder ICQ auseinanderzusetzen und mich zu eurer Kontaktliste hinzuzufügen.
 Da wir aktuell nicht wissen, wer überhaupt noch dabei ist und das Team aktuell dementsprechend (verständlich) verwirrt ist wollen wir eine Art Neuanfang im Team starten.
@@ -39,7 +39,7 @@ ICQ: 380523956
 
 Bitte fügt mich Zeitnah hinzu.
 
-Important Stuff:
+Important Stuff
 ==============================
 
 (letztes Update: 04.07.2012, 16:04 Uhr)
@@ -72,7 +72,7 @@ Vielen Dank für eure Unterstützung. Ohne euch wären wir längst nicht so weit
 
 PS: Achtet auf Rechtschreibung. MLess is watching you!
 
-mögliche Einzelnachweise:
+mögliche Einzelnachweise
 ====
 
 www.pokewiki.de     
