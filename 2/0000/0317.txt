@@ -24,19 +24,19 @@
 いりょくの　よわい　わざを　つかえ！\xfffe
 いっきに　まけろ！
 いっきに　まけろ！
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
+Kein
+Kein
+Kein
+Kein
+Kein
+Kein
+Kein
+Kein
+Kein
+Kein
+Kein
+Kein
+Kein
+Kein
+Kein
+Kein
