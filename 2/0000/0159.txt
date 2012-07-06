@@ -1,16 +1,16 @@
 ことばを　えらんでね！
-たいせんまえの　ことばを　かんがえよう
-かったときの　きめゼリフを　かんがえよう
-まけたときの　いいわけを　かんがえよう
+Überlege dir einen Spruch,\xfffeder vor dem Kampf erscheinen soll.
+Überlege dir einen guten Gewinnerspruch!
+Denke nach einer Ausrede, falls du\xfffedas Spiel nicht gewinnen solltest!
 はやっている　ものは？
 ユニオンあいさつを　かんがえよう
 これで　いいですか？
 なにか　ことばを　いれてください！
-なにも　しないで　やめますか？
+Nichts überlassen?
 Ja
 Nein
-グループ\xfffeモード
-あいうえお\xfffeモード
+GRUPPEN\xfffeModus
+ABC\xfffeModus
 BENUTZEN
 WEITER
 BEENDEN
