@@ -1,29 +1,29 @@
-あなたの　なまえは？
-\xf000ā\x0001\x0000の　なまえは？
-ボックスの　なまえは？
-ライバルの　なまえは？
-ともだちの　なまえは？
+Dein Name？
+\xf000ā\x0001\x0000s Spitzname？
+Name der Box？
+Der Name deines Rivalen？
+Der Name deines Freundes？
 すれちがった　あいてへの　あいさつは？
 すれちがった　あいてへの　おれいは？
 すれちがった　あいてへ\xfffeつたえたい　メッセージは？
-この　まちの　なまえは？\xfffe（トレーナーカードに　のります）
-あなたの　かたがきは？\xfffe（このまち　だけの　よばれかた　です）
-じぶんの　くちぐせは？\xfffe（せかいの　みんなに　つたわります）
-パスワードを　にゅうりょくせよ
+Der Name dieser Stadt？\xfffe（トレーナーカードに　のります）
+Dein Titel？\xfffe（このまち　だけの　よばれかた　です）
+Meine Worte？\xfffe（せかいの　みんなに　つたわります）
+Gib dein Passwort ein.
 ゲームシンクＩＤコードを\xfffeにゅうりょく　してください
 かんどう　したときの　ことばは？\xfffe（せかいの　みんなに　つたわります）
 さんかしている　トレーナーへ\xfffeつたえたい　メッセージは？
 すれちがった　あいてへの\xfffeよろこびの　メッセージは？
-ポケモンの　なまえは？
-なまえを　いれてください！
+Der Name des Pokémons？
+Bitte gib den Namen ein！
 にゅうりょく　できる　すうじは\xfffe４もじ　まで　です
 ゲームシンクＩＤコードが\xfffeまちがっています
 　
 　
-よろしく！
-ありがとう！
+Willkommen！
+Danke！
 ホワイト．
 ブラック．
 ♂
 ♀
-にゅうりょくしてください
+Bitte gib ein.
