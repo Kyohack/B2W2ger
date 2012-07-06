@@ -1,11 +1,11 @@
 Pokémon
 Status
-わざ
+Attacken
 Trainer
 ユニオ
 Begrüßung
 Personen
-せいかつ
+Leben
 Stimmung
 Bild
 ようご
