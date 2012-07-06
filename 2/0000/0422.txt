@@ -1,14 +1,14 @@
-なし
-アルバータ
-ブリティッシュ・コロンビア
-マニトバ
-ニューブランズウィック
-ニューファンドランド・ラブラドール
-ノースウエスト
-ノバスコシア
-ヌナブト
-オンタリオ
-プリンス・エドワード・アイランド
-ケベック
-サスカチュワン
-ユーコン
+Kein
+Alberta
+British Columbia
+Manitoba
+Neubraunschweig
+Neufundland und Labrador
+Nordwest Territorien
+Nova Scotia
+Nunavut
+Ontario
+Prince Edward Insel
+Québec
+Saskatchewan
+Yukon
