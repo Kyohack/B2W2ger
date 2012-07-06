@@ -90,3 +90,4 @@ Etwas stur.
 “Das Ei"\xfffeEs bewegt sich\xfffemanchmal. Es ist \xfffebe kurz vor dem Schlüpfen.
 “Das Ei"\xfffeWas wird daraus wohl\xfffewerden? Es sieht nicht so aus,\xfffedas es bald Schlüpfen wird.	
 “Das Ei"\xfffeEs sieht so aus,\xfffeasl würde das Ei noch lanbge bruachen,\xfffeum zu Schlüpfen.
+N
