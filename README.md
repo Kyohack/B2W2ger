@@ -35,7 +35,7 @@ Da wir aktuell nicht wissen, wer überhaupt noch dabei ist und das Team aktuell 
 
 Nachfolgend meine Adressen für Skype und ICQ (bevorzugt):
 
-Skype:
+Skype: nfreak1    
 ICQ: 380523956
 
 Bitte fügt mich zeitnah hinzu.
