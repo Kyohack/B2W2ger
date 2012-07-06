@@ -231,10 +231,10 @@ Sahara zu
 Jemen
 Sambia
 Simbabwe
-いきさきを　えらんでください
-\xf000Ĥ\x0001\x0000\xfffeのフロアに　いどう　しますか？
-はい
-いいえ
+Wähle einen Durchgang aus.
+\xf000Ĥ\x0001\x0000\xfffeWirst du durch den Durchgang gehen？
+Ja
+Nein
 \xf000Ȃ\x0001\x0002F
 ？
-いどうさきが　かわっていません\xf000븁\x0000
+Du hast den aktuellenn Durchgang ausgewählt.\xf000븁\x0000
