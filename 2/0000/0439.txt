@@ -11,8 +11,8 @@
 つうしんエラーに　よって\xfffeＷｉ－Ｆｉコネクション　から\xfffeせつだん　されました\xfffe（\xf000Ȅ\x0001\x0000）
 つうしんエラーが\xfffeはっせい　しました　（\xf000Ȅ\x0001\x0000)
 ダウンロードに　しっぱい　しました\xfffe（\xf000Ȅ\x0001\x0000）
-つうしんエラー　に　よって\xfffeＷｉ－Ｆｉコネクション　から\xfffeせつだん　されました
-つうしんエラーが\xfffeはっせい　しました
+Verbindungsfehler\xfffe\xfffeVerbindung zur\xfffeNintendo Wi-Fi Connection beendet.
+Verbindungsfehler...
 エラーが　はっせいした　ため\xfffeＷｉ－Ｆｉコネクションの\xfffeきのうを　しよう　できません\xfffeでんげんを　きって\xfffeやりなおして　ください\xfffe（\xf000Ȅ\x0001\x0000）
 ほんたい　の\xfffeＷｉ－Ｆｉユーザーじょうほう　が\xfffeきえた　かのうせい　が　あります\xfffe\xfffeＷｉ－Ｆｉコネクションせってい　で\xfffeせつぞくさきの　せってい　を\xfffeごかくにん　ください
 Ｗｉ－Ｆｉコネクションに\xfffeせつぞく　しますか？
@@ -23,12 +23,12 @@
 Ｗｉ－Ｆｉコネクションに　せつぞくして\xfffeＷｉ－Ｆｉユーザーじょうほうを\xfffeこうしん　します。ほんとうに\xfffeこうしん　しても　よろしいですか？\xfffeちゅうい！　ともだちてちょうに\xfffeとうろくした　ともだち　すべてと\xfffeランダムマッチの　レーティングモードの\xfffeせいせきが　きえて　しまいます
 Ｗｉ－Ｆｉコネクションに　せつぞく\xfffeしています。しばらく　おまち　ください
 おつかいの　なまえ　では\xfffeＷｉ－Ｆｉコネクションを\xfffeりよう　できません\xfffe\xfffeなまえを　へんこう　して\xfffeせつぞく　しなおして　ください
-Ｗｉ－Ｆｉコネクションから\xfffeせつだん　しても　よろしいですか？
-Ｗｉ－Ｆｉコネクションから\xfffeせつだん　しています
-Ｗｉ－Ｆｉコネクションから\xfffeせつだん　しました\xf000븂\x0001d
-はい
-いいえ
-レポートに　かきこんでいます\xfffeでんげんを　きらないでください
+Willst du die Verbindung zur\xfffeNintendo Wi-Fi Connection wirklich beenden?
+Verbindung zur Nintendo Wi-Fi Connection\xfffeerfolgreich beendet.
+Die Verbindung zur Nintendo\xfffeWi-Fi Connection wurde beendet.\xf000븂\x0001d
+Ja
+Nein
+Speichervorang...\xfffeBitte das System nicht ausschalten.
 もうしこみを　ちゅうだん　しています\xfffeしばらく　おまちください
 Ｗｉ－Ｆｉコネクションの\xfffeせっていを　おこなうには\xfffeほんたいせっていの\xfffeインターネットの　こうもくまで\xfffeいどうして　ください
 Ｗｉ－Ｆｉひろばで　つうしんエラーが\xfffeはっせい　しました\xfffe（\xf000Ȅ\x0001\x0000）
@@ -62,8 +62,8 @@
 サーバーでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：１３２１０）
 サーバーが　こんざつ　しています\xfffeせつぞく　に　しっぱいしました\xfffeじかんを　おいて　さいど\xfffeおためしください\xfffe（エラーコード：１３２１１）
 サーバーは　げんざい\xfffeメンテナンスちゅうです\xfffeメンテナンスの　しょうさいは\xfffeポケモングローバルリンクの\xfffeウェブサイトをごらんください\xfffehttp://www.pokemon-gl.com/\xfffe（エラーコード：１３２１２）
-エラーが　はっせいしました\xfffeせつだんしています
-つうしんエラーが　はっせいしました\xfffe（エラーコード：１３２８０）
-つうしんエラーが　はっせいしました\xfffe（エラーコード：１３２８１）
-つうしんエラーが　はっせいしました\xfffe（エラーコード：１３２８２）
-つうしんエラーが　はっせいしました\xfffe（エラーコード：１３２８３）
+Verbindungsfehler\xfffe\xfffeVerbindung zur\xfffeNintendo Wi-Fi Connection beendet.
+Verbindungsfehler.\xfffeFür Hilfe, besuche support.nintendo.de.\xfffeFehlercode: 13280
+Verbindungsfehler.\xfffeFür Hilfe, besuche support.nintendo.de.\xfffeFehlercode: 13281
+Verbindungsfehler.\xfffeFür Hilfe, besuche support.nintendo.de.\xfffeFehlercode: 13282
+Verbindungsfehler.\xfffeFür Hilfe, besuche support.nintendo.de.\xfffeFehlercode: 13283
