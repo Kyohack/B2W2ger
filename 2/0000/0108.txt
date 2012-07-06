@@ -1,9 +1,9 @@
 いま　おぼえている　ことばを\xfffeわすれますが　よいですか？
-Ａボタンを　おしてから\xfffeマイクに　しゃべって　ください！\xf000븁\x0000
+Drücke Ａ, dann sprich\xfffein das Mikrofon！\xf000븁\x0000
 \xf000Ă\x0001\x0000が　ことばを　おぼえた！\xf000븁\x0000
 \xf000Ă\x0001\x0000は　ことばを\xfffeおぼえられなかった　みたいだ！\xf000븁\x0000
-やりなおしますか？
+Willst du es erneut versuchen？
 まわりの　ようすが　きになって\xfffeしゅうちゅうできない　みたいだ…
-マイクの　じゅんびちゅう……
-はい
-いいえ
+Bereite Mikrofon vor……
+Ja
+Nein
