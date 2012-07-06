@@ -1,51 +1,51 @@
-タイトルダミー
-ミッションダミー
-はじめての　きのみ　さがし！
-かけらを　さがせ！
-いっかく　せんきん！
-トレジャー　ハント！
-きえた　\xf000ȃ\x0001\x0001この　ざいほう
-なぞの　こうせきを　さがせ！
-ひかる　こうせきを　さがせ！
-きのみを　あつめろ！
-きのみ　だいしゅうかく！
-おとしものを　さがせ！
-わすれられた　おとしもの
-みつからない　おとしもの
-こやし　コレクター！
-ときめく　ハートは　どこに？
-まぼろしの　きのみを　さがせ！
+Dummy Titel
+Dummy Auftrag
+Für's erste gilt nur die Jagd!
+Oh, schau mal!
+Laufzeit!
+Schatzjagd!
+Der　\xf000ȃ\x0001\x0001 Schatz ist verschwunden...
+Das Rätsel wurde gelöst!
+Die Analyse wird glänzen!
+Sammel nur die Bäume ein!
+Die Ernte beginnt!
+Finde das verlorene Item!
+Das verlorene Item wurde vergessen...
+Das verlorene Item wurde nicht gefunden...
+Dünger-Sammler!
+Wie lange wird das Herz gedeihen?
+Finde die Phantom-Beere!
 まぼろしの　いっぴん！
-きのみさがしで　だいぼうけん！
-きのみ　フェスティバル！
-まいごの　しょうねんを　さがせ
-そのどうぐ　ちょうだいな！
+Quest der Phantom-Beere!
+Fest der Beeren
+Finde den verlorenen Jungen!
+Diese lange Straße!
 かくとうかと　しゅぎょう！
-\xf000ȃ\x0001\x0001にん　くみて！
+\xf000ȃ\x0001\x0001にん　Arbeiter!
 エリートへの　みちのり！
 めざせ　わらしべちょうじゃ！
 ドキドキ　ぶつぶつこうかん！
-ウキウキ　ぶつぶつこうかん！
-エンジョイ　ショッピング！
-ショッキング　ショッピング！
-りそうの　おねだんは……？
-ホントの　おねだんは……？
-きおくの　げんかいへ……
-きおくりょく　トレーニング！
-じゃんけん　たいかい！
-ポケモンセンターの　おねえさん
-ポケモン　ずかんクイズ！
-おかいもの　だいさくせん！
-おわりなき　たたかい……！
-ポケモンセンター　クイズおう！
-クイズおう　けっていせん
-めざせ！　ポケモンクイズおう！
-おねえさんからの　プレゼント
-ゆれる　くさむらを　さがせ！
-ポケモンサーチ\xf000ȃ\x0001\x0001！
-\xf000ā\x0001\x0000を　さがせ！
-かねを　ならして……
-\xf000ȃ\x0001\x0001かい　なりひびく　かね
+Frühlicher Tausch!
+Viel Spaß beim Einkaufen!
+Geschocktes Einkaufen!
+Die Kosten für die Ideale...?
+Die Kosten der Wahrheit...?
+Grenzen des Speicherns erreicht...
+Speicher Training!
+Schere-Stein-Papier Turnier!
+Krankenschwester des Pokémon Centers
+Quiz zum Pokédex!
+Epischer Einkaufswettbewerb!
+Endloser Kampf...!
+Pokémon Center Quizmeister!
+Quizmeister Stichkampf!
+Du schaffst es, Quizmeister!
+Geschenk der älteren Schwester!
+Suche das wakelnde Grass!
+Pokémon Suche\xf000ȃ\x0001\x0001!
+Suche nach \xf000ā\x0001\x0000!
+Klingeln...
+Klingelte \xf000ȃ\x0001\x0001 mal
 きのこの　かくれんぼ！
 はねばしに　まいおちる　ハネ
 おたから　はっくつ！
