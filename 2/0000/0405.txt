@@ -1,16 +1,16 @@
-シングルバトル
-ダブルバトル
+Einzelkampf
+Doppelkampf
 トリプルバトル
 ローテーションバトル
-チャンピオンズトーナメント
-ダウンロードトーナメント
+Championturnier
+Turnierdownload
 ホドモエトーナメント
-イッシュリーダーズトーナメント
-カントーリーダーズトーナメント
-ジョウトリーダーズトーナメント
-ホウエンリーダーズトーナメント
-シンオウリーダーズトーナメント
-ワールドリーダーズトーナメント
+Unovas Arenaleiter Turnier
+Kantos Arenaleiter Turnier
+Johtos Arenaleiter Turnier
+HoennsArenaleiter Turnier
+Sinnohs Arenaleiter Turnier
+Weltmeister Turnier
 レンタルトーナメント
 レンタルマスタートーナメント
 ミックストーナメント
