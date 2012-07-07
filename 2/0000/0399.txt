@@ -1,24 +1,24 @@
-あいさつ
-おえかき
-たいせん
-こうかん
-やめる
+Begrüßen
+Unentschieden
+Kampf
+Tausch
+Abbrechen
 ぐるぐる
-レコード
+Rekord
 \xf000Ĝ\x0001\x0002\xf000븂\x0001\x000f\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000が\xfffeはなしかけて　きました\xf000븂\x0001\x000f
-かいわが　きれました
+Der Chat wurde abgebrochen.
 \xf000Ā\x0001\x0000の\xfffeへんじを　まっています\xf000븂\x0001\x000f
-かいわを　やめました
+Der Chat wurde beendet.
 \xf000Ā\x0001\x0000が　トレーナーカードを\xfffeみせて　きました\xf000븁\x0000\xfffeこちらも　トレーナーカードを\xfffeみせますか？
 \xf000Ĥ\x0001\x0003\xfffe\xf000ĥ\x0001\x0004\xf000븁\x0000\xfffeに　すんでいる　\xf000Ā\x0001\x0000の\xfffeトレーナーカードを　みせてもらった\xf000븂\x0001<
 \xf000Ĥ\x0001\x0003\xfffeに　すんでいる　\xf000Ā\x0001\x0000の\xf000븀\x0000\xfffeトレーナーカードを　みせてもらった\xf000븂\x0001<
 \xf000ĥ\x0001\x0004\xfffeに　すんでいる　\xf000Ā\x0001\x0000の\xf000븀\x0000\xfffeトレーナーカードを　みせてもらった\xf000븂\x0001<
 \xf000Ā\x0001\x0000の\xfffeトレーナーカードを　みせてもらった\xf000븂\x0001<
-あいての　しゅうりょうを　まっています
-おさそいを　ことわりました
+Warte auf den anderen Spieler.
+Du hast das Angebot abgelehnt.
 \xf000Ā\x0001\x0000が　おえかき　に\xfffeさそってきました\xf000븁\x0000\xfffeいっしょに　おえかき　しますか？
 おえかきを　はじめます！\xf000븂\x0001<
-おさそいを　ことわりました
+Du hast das Angebot abgelehnt.
 \xf000Ā\x0001\x0000が　たいせんを\xfffeもうしこんで　きました\xf000븁\x0000\xfffeシングルバトルの　レベル５０ルールで\xfffeたいせん　しますか？
 \xf000Ā\x0001\x0000が　たいせんを\xfffeもうしこんで　きました\xf000븁\x0000\xfffeシングルバトルの　せいげんなしで\xfffeたいせん　しますか？\xf000븁\x0000
 \xf000Ā\x0001\x0000が　たいせんを\xfffeもうしこんで　きました\xf000븁\x0000\xfffeシングルバトルの　フラットルールで\xfffeたいせん　しますか？\xf000븁\x0000
@@ -34,7 +34,7 @@
 \xf000Ā\x0001\x0000が　たいせんを\xfffeもうしこんで　きました\xf000븁\x0000\xfffeマルチバトルの　せいげんなしで\xfffeたいせん　しますか？\xf000븁\x0000
 \xf000Ā\x0001\x0000が　たいせんを\xfffeもうしこんで　きました\xf000븁\x0000\xfffeマルチバトルの　フラットルールで\xfffeたいせん　しますか？\xf000븁\x0000
 たいせんを\xfffeかいし　します！\xf000븂\x0001<
-おさそいを\xfffeことわり　ました
+Du hast das Angebot abgelehnt.
 \xf000Ā\x0001\x0000が　こうかんを\xfffeもうしこんで　きました\xf000븁\x0000\xfffeこうかん　しますか？
 こうかんを\xfffeかいし　します！\xf000븂\x0001<
 おさそいを\xfffeことわり　ました
@@ -50,26 +50,26 @@
 \xf000Ĝ\x0001\x0002\xf000븂\x0001\x000f\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000　です！\xfffeなにか　する？
 あ！　ごめん\xfffeほかに　ようじが　あるから\xf000븀\x0000\xfffeまた　こんどね
 あ！　ごめん\xfffeほかにも　ようじが　あるから\xf000븀\x0000\xfffeまた　こんどね
-なにを　する？
-なにを　する？
-……\xfffeいまは　とりこみちゅうの　ようだ
-……\xfffeいまは　とりこみちゅうの　ようだ
-\xf000Ā\x0001\x0000から\xfffeへんじが　きませんでした……
-\xf000Ā\x0001\x0000から\xfffeへんじが　きませんでした……
-わかった！　じゃあ　あいさつがわりに\xfffeトレーナーカードを　みせてあげるよ
-じゃあ　あいさつの　かわりに\xfffeトレーナーカード　みせてあげるね
-あれ！？　トレーナーカードが\xfffeみあたらない　なあ\xf000븁\x0000\xfffeごめん！　またこんどね
-あれ！？　トレーナーカード\xfffeどこ　いったかな？……\xf000븁\x0000\xfffeごめん！　またこんどね
-いま　あいさつがわりに\xfffeトレーナーカードを　みせてるんだ
+Was möchtest du tun？
+Was möchtest du tun？
+……\xfffeDer Trainer ist wohl gerade beschäftigt.
+……\xfffeDer Trainer ist wohl gerade beschäftigt.
+\xf000Ā\x0001\x0000から\xfffehat nicht geantwortet……
+\xf000Ā\x0001\x0000から\xfffehat nicht geantwortet……
+Klar！　Ich zeige dir \xfffemeine Trainerkarte.
+Hi, lass mich dir vorstellen,\xfffeindem ich dir meine Trainerkarte zeige.
+Huh！？　トレーナーカードが\xfffeみあたらない　なあ\xf000븁\x0000\xfffeごめん！　またこんどね
+Huh！？　トレーナーカード\xfffeどこ　いったかな？……\xf000븁\x0000\xfffeごめん！　またこんどね
+Ich zeige dir meine Trainerkarte\xfffeals ein Zeichen der Dankbarkeit.
 いま　あいさつの　かわりに\xfffeトレーナーカードを　みせあってるの
 これからも\xfffeよろしく！
-これからも\xfffeよろしくね！
-ぼくと　おえかき　するのかい？\xfffeうん　ちょっと　まってて
+Schön dich zu treffen.\xfffeBitte sei kein Fremder！
+Oh, willst du mit mir zeichnen？\xfffeSicher, warte einen Moment.
 おえかき　ね！\xfffeうん　ちょっと　まってて
 あっ　またせたね！\xfffeそれじゃあ　おえかき　しようか！\xf000븂\x0001<
 あっ　おまたせ！\xfffeそれじゃあ　はじめましょう！\xf000븂\x0001<
-あっ　ごめん！\xfffeおえかきは　またこんど　しよう
-あっ　ごめんなさい！\xfffeおえかきは　またこんど　しようね
+Oh entschuldige！\xfffeIch kann gerade nicht. Lass uns nächstes Mal zeichnen!
+Oh entschuldige！\xfffeLass uns ein anderes Mal zeichnen!
 \xf000Ā\x0001\x0000『いま　ぼくたち\xfffeおえかき　してたんだ！\xf000븁\x0000\xfffeそうだ！　\xf000Ā\x0001\x0001も　いっしょに\xfffeおえかき　するかい？
 \xf000Ā\x0001\x0000『いまね　わたしたち\xfffeおえかき　してたんだ\xf000븁\x0000\xfffeそうだ！　\xf000Ā\x0001\x0001も　いっしょに\xfffeおえかき　しない？
 そうか\xfffeまた　いつでも　おいでよ！
@@ -81,9 +81,9 @@
 あっ　ごめん！\xfffeやっぱり　いま　つごうがわるいんだ\xf000븀\x0000\xfffeまた　こんど　おえかき　しような
 ごめん！\xfffeやっぱり　いま　つごうがわるいの\xf000븀\x0000\xfffeまた　こんど　おえかき　しようね
 なるほど！\xfffeおえかきで　しりとりか！
-うわー\xfffeすごい　じょうずね！
+Wow!\xfffeDu bist ziemlich gut！
 また　へんなかお　かいて\xfffeあんまり　わらわせるなよ！
-あはは！\xfffeなに　それ！
+Haha！\xfffeWas ist das！
 わー　うまいね！\xfffeまねして　かいてみる！
 おえかき　たのしい！\xfffeどんどん　かくわよ！
 ……ふんふん　なに？\xfffeそれ　ぼくの　かおなの？
@@ -334,7 +334,7 @@ Hola
 しばらく　おまちください\xfffeＢボタンで　キャンセル
 たいせんを　しゅうりょう　しますが\xfffeよろしいですか？
 てもちのポケモン
-バトルボックス
+Kampfbox
 ……\xfffeいまは　とりこみちゅうの　ようだ
 たいせん　したいひと　ジャンプして！
 こうかん　したいひと　ジャンプして！
