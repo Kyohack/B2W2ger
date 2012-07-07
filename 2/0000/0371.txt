@@ -9,14 +9,14 @@ MIKRO PRÜFEN
 EINALL-LINK
 HELD
 Zeit: \xf000Ȃ\x0001\x0000：\xf000ȁ\x0001\x0001
-Pokédex: \xf000Ȃ\x0001\x0000ひき
-Orden: \xf000ȁ\x0001\x0000こ
+Pokédex: \xf000Ȃ\x0001\x0000
+Orden: \xf000ȁ\x0001\x0000
 \xf000Ā\x0001\x0000
 \xf000Ȃ\x0001\x0000：\xf000ȁ\x0001\x0001
-\xf000Ȃ\x0001\x0000ひき
-\xf000ȁ\x0001\x0000こ
+\xf000Ȃ\x0001\x0000
+\xf000ȁ\x0001\x0000
 \xf000ą\x0001\x0000
-レポートじょうほう
+Speicherinfo
 キーシステムせってい
 アシストモード
 チャレンジモード
@@ -46,4 +46,4 @@ Diene Ruhmeshallen Daten \xfffewurden gelöscht.
 Deine Geheimgeschehen \xfffewurden gelöscht.
 きえてしまった　ポケウッドの\xfffeきろくが　あります！
 キーシステムと　おもいでリンクの\xfffeきろくが　きえてしまった！
-きえて　しまった　ＰＷＴの\xfffeきろくが　あります！
+Deine ＰＷＴ Daten\xfffewurden gelöscht！
