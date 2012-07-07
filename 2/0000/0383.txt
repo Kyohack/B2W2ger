@@ -24,55 +24,55 @@ no data
 no data
 Pokémon Ranger
 Pokémon Ranger
-さぎょういん
+Arbeiter
 Wanderer
 Wanderer
-つりびと
+Angler
 Musiker
 Tänzer
-クラウン
+Kasper
 Künstler
 Bäcker
-サイキッカー
-サイキッカー
+Psycho
+Psycho
 no data
 Pokémon Trainer
 no data
 Pokémon Trainer
-おぼっちゃま
-おじょうさま
+Schnösel
+Lady
 Pilot
+Arbeiter
 Basketballer
-バスケせんしゅ
-けんきゅういん
+Forscher
 no data
 ＯＬ
 Ass-Trainer
 Ass-Trainer
 Karate Meister
-けんきゅういん
+Forscher
 Footballer
-ハチク
+Sandro
 no data
 no data
-スキンヘッズ
-せいそういん
-だいすきクラブ
-だいすきクラブ
+Glatzkopf
+Hausmeiter
+Pokéfan
+Pokéfan
 Doktor
 Schwester
-バッドチーム
-バトルガール
+Rabakuken
+Kämpferin
 Schirmdame
 Geschäftsmann
 Geschäftsmann
-ファンクラブ
-ファンクラブ
+Anhänger
+Anhänger
 Veteran-Trainer
 Veteran-Trainer
-ぼうそうぞく
+Biker
 Baseballer
-やまおとこ
+Wanderer
 Dame
 Gentleman
 no data
@@ -81,12 +81,12 @@ Top Vier
 Top Vier
 Top Vier
 no data
-Lökführer
-かいパンやろう
-ビキニのおねえさん
+Lokführer
+Schwimmer
+Schwimmer
 Polizist
 Dienstmädchen
-サブウェイマスター
+Metromeister
 Pokémon Trainer
 Radfahrer
 Radfahrer
@@ -100,7 +100,7 @@ no data
 no data
 Pokémon Trainer
 Neo Team Plasma
-サブウェイマスター
+Metromeister
 no data
 Pokemon Trainer
 Pokemon Trainer
@@ -118,66 +118,67 @@ Arenaleiter
 Arenaleiter
 Arenaleiter
 Arenaleiter
-タケシ
-カスミ
-マチス
-エリカ
-ナツメ
-カツラ
-サカキ
-ハヤト
-ツクシ
-アカネ
-マツバ
-シジマ
-ミカン
-ヤナギ
-イブキ
-アンズ
-ツツジ
-トウキ
-テッセン
-アスナ
-センリ
-ナギ
-フウ
-ラン
-アダン
+Rocko
+Misty
+Major Bob
+Erika
+Koga
+Sabrina
+Pyro
+Giovanni
+Falk
+Kai
+Bianka
+Jens
+Hartwig
+Jasmin
+Norbert
+Sandra
+Felizia
+Kamillo
+Watson
+Flavia
+Norman
+Wibke
+Svenja
+Ben
+Juan
 Pokémon Trainer
 Gitarrist
-ボストレーナー
-ボストレーナー
-ボストレーナー
-ボストレーナー
-ボストレーナー
-ボストレーナー
-ボストレーナー
-ボストレーナー
-サブウェイマスター
+Pokémon Trainer
+Pokémon Trainer
+Pokémon Trainer
+Pokémon Trainer
+Pokémon Trainer
+Pokémon Trainer
+Pokémon Trainer
+Pokémon Trainer
+Metromeister
 no data
-ボストレーナー
-ボストレーナー
-ボストレーナー
-ボストレーナー
-ボストレーナー
-ボストレーナー
-ボストレーナー
-ボストレーナー
-サブウェイマスター
+Pokémon Trainer
+Pokémon Trainer
+Pokémon Trainer
+Pokémon Trainer
+Pokémon Trainer
+Pokémon Trainer
+Pokémon Trainer
+Pokémon Trainer
+Metromeister
 no data
-ヒョウタ
-ナタネ
-メリッサ
-スモモ
-マキシ
-トウガン
-スズナ
-デンジ
-グリーン
-ワタル
-ダイゴ
-ミクリ
-おとなのおねえさん
+Veit
+Silvana
+Lamina
+Hilda
+Marinus
+Adam
+Frida
+Volkner
+Blau
+Lance
+Steven
+Wassili
+Schönheit
+Pokémon Trainer
 Pokemon Trainer
 Pokemon Trainer
 Pokemon Trainer
@@ -191,28 +192,28 @@ Neo Team Plasma
 Pokémon Trainer
 Neo Team Plasma
 Neo Team Plasma
-チャンピオン
-かいじん
+Phantom
 Pokémon Trainer
-ゲームフリーク
+Pokémon Trainer
+Pokémon Trainer
 Pokémon Trainer
 Pokémon Trainer
 ヒーロー
 ヒーロー
 Ninjajunge
 Ninjajunge
-ＳＦたいいん
-ＳＦたいいん
-けんきゅういん
-けんきゅういん
-ふだんぎ
-ふだんぎ
+ＳＦCrew
+ＳＦCrew
+Forscher
+Forscher
+Normalo
+Normalo
 おうじさま
-おひめさま
+Prinzessin
 ハチクかん
 メカコンビ
 ＵＦＯ
-エイリアン
+Alien
 あかいきり
 のろわれたおじさん
 のろわれたえんじ
@@ -225,12 +226,12 @@ Ninjajunge
 ダミースーツ
 ダミースーツ
 ダミースーツ
-ボストレーナー
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
+Metromeister
+Pokémon Trainer
+Pokémon Trainer
+Pokémon Trainer
 no data
 みらいじん
-クラウン
+Kasper
 Rot
 Pokemon Trainer
