@@ -45,7 +45,7 @@ Vielen Dank Fürs Spielen！\xf000븁\x0000\xfffeWenn Sie fortsetzen möchten,\x
 SPEICHERT...\xfffeBITTE DAS GERÄT NICHT AUSSCHALTEN.
 Entschuldigen sie bitte！\xf000븁\x0000\xfffeSie haben das letzte Mal nicht gespeichert.\xfffeEs tut mir leid,aber\xf000븁\x0000\xfffeSie müssen Wohl oder Übel von vorne anfangen!\xf000븁\x0000
 Bis zum nächsten Mal!
-じょうしゃする
+Tafel
 Infos
 Zurück
 Rekorde
@@ -63,7 +63,7 @@ Bitte entscheidet euch wer die Gruppe anführen soll.\xf000븁\x0000\xfffeDer an
 Beide Spieler haben das\xfffe Pokémon　\xf000ā\x0001\x0000 gewählt.\xf000븁\x0000\xfffeBitte sprecht euch ab und \xfffewählt \xf000븁\x0000
 Beide Spieler haben die \Pokémon　\xf000ā\x0001\x0000や\xfffe und\xf000ā\x0001\x0001gewählt!\xf000븁\x0000\xfffeBitte sprecht euch ab \xfffeund wählt ggf. neue Pokémon\xf000븁\x0000
 Sie und der andere Spieler haben\xfffeunterschiedliche Metros gewählt！\xf000븁\x0000\xfffeBitte sprecht euch ab und kommt bald wieder!\xf000븁\x0000
-Hey　ひさしぶり！\xfffeDas ist dein erstes Mal in der\xfffe Multikampf-Metro, oder？\xf000븁\x0000\xfffeNun, du brauchst einen Partner!\xf000븁\x0000
+Hey　Ich bin Warren！\xfffeDas ist dein erstes Mal in der\xfffe Multikampf-Metro, oder？\xf000븁\x0000\xfffeNun, du brauchst einen Partner!\xf000븁\x0000
 Hi！\xf000븁\x0000\xfffeDu versuchst dein Glück\xfffezum ersten Mal hier in der Multi-Metro oder？\xf000븁\x0000\xfffeDu kannst das nicht alleine bewerkstelligen,\xfffeDu brauchst einen Partner!\xf000븁\x0000
 Hey！　\xf000Ā\x0001\x0000Schön dich wiederzusehen!\xf000븁\x0000
 Hi！　\xf000Ā\x0001\x0000Schön dich wiederzusehen!\xf000븁\x0000
