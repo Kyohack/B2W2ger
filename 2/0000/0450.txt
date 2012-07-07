@@ -19,6 +19,7 @@
 
 
 
+                            
 
 
 
@@ -195,11 +196,11 @@
 
 
 
+Eine Form
 
 
 
 
-あるすがた
 
 
 
@@ -345,11 +346,11 @@
 
 
 
+Normal
 
 
 
 
-ポワルンのすがた
 
 
 
@@ -379,12 +380,12 @@
 
 
 
+NormalForm
 
 
 
 
 
-ノーマルフォルム
 
 
 
@@ -405,23 +406,23 @@
 
 
 
+Pflanzenform
+Pflanzenform
 
 
 
 
 
-くさきのミノ
-くさきのミノ
 
+Sonnentagsform
+Westlich
+Westlich
 
 
 
 
 
 
-ネガフォルム
-にしのうみ
-にしのうみ
 
 
 
@@ -472,28 +473,21 @@
 
 
 
+Rotom
 
 
 
 
 
-ロトムのすがた
 
 
+Urform
 
 
 
 
-
-アナザーフォルム
-
-
-
-
-ランドフォルム
-アルセウスのすがた
-
-
+Zenitform
+Arceus
 
 
 
@@ -553,7 +547,9 @@
 
 
 
-ノーマルモード
+
+
+Trance-Form
 
 
 
@@ -583,11 +579,8 @@
 
 
 
-はるのすがた
-はるのすがた
-
-
-
+Frühlingsform
+Frühlingsform
 
 
 
@@ -644,38 +637,38 @@
 
 
 けしんフォルム
-キュレムのすがた
-いつものすがた
-ボイスフォルム
-ゲノセクトのすがた
+Kyurem Form
+Normalform
+Tanzform
+Genosect Form
 
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
+Eine Form
+Eine Form
+Eine Form
+Eine Form
+Eine Form
+Eine Form
+Eine Form
+Eine Form
+Eine Form
+Eine Form
+Eine Form
+Eine Form
+Eine Form
+Eine Form
+Eine Form
+Eine Form
+Eine Form
+Eine Form
+Eine Form
+Eine Form
+Eine Form
+Eine Form
+Eine Form
+Eine Form
+Eine Form
+Eine Form
+Eine Form
 たいようのすがた
 あまみずのすがた
 ゆきぐものすがた
@@ -686,48 +679,48 @@
 ゴミのミノ
 すなちのミノ
 ゴミのミノ
-ポジフォルム
-ひがしのうみ
-ひがしのうみ
-ヒートロトム
-ウォッシュロトム
-フロストロトム
-スピンロトム
-カットロトム
-オリジンフォルム
-スカイフォルム
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
+Sonnenscheinform
+Östlich
+Östlich
+Schneid-Rotom
+Frost-Rotom
+Hitze-Rotom
+Wasch-Rotom
+Wirbel-Rotom
+Uprsprungsform
+Zenitform
+Arceus
+Arceus
+Arceus
+Arceus
+Arceus
+Arceus
+Arceus
+Arceus
+Arceus
+Arceus
+Arceus
+Arceus
+Arceus
+Arceus
+Arceus
+Arceus
 あおすじのすがた
 ダルマモード
-なつのすがた
-あきのすがた
-ふゆのすがた
-なつのすがた
-あきのすがた
-ふゆのすがた
+Sommerform
+Herbstform
+Winterform
+Sommerform
+Herbstform
+Winterform
 れいじゅうフォルム
 れいじゅうフォルム
 れいじゅうフォルム
-ホワイトキュレム
-ブラックキュレム
-かくごのすがた
-ステップフォルム
-ゲノセクトのすがた
-ゲノセクトのすがた
-ゲノセクトのすがた
-ゲノセクトのすがた
+Weißes Kyurem
+Schwarzes Kyurem 
+Resolutform
+Tanzform
+Genosects Form
+Genosects Form
+Genosects Form
+Genosects Form
