@@ -1,198 +1,198 @@
-みつけた　かず
-つかまえた　かず
+Anzahl gesehener Pokémon
+Anzahl gefangener Pokémon
 ＪＰＮ
-Ｅ
+ＥNG
 ＦＲＡ
 ＧＥＲ
 ＩＴＡ
 ＳＰＡ
-せつめい
+Details
 \xf000Ȃ\x0001\x0000
-たかさ
-おもさ
-『けんさく　モード』
-じょうけんを　いれて　ください
-『けんさくの　けっか』
-みつかったかず　\xf000Ȃ\x0001\x0000
+Größe
+Gewicht
+『Suchmodus』
+Bitte gib das Suchkriterium an.
+『Suchergebnisse』
+Ergebnisse　\xf000Ȃ\x0001\x0000
 ずかんの　ならびを　してい　します
-なまえの　かしらもじを　してい　します
-タイプを　してい　します
-おもさの　はんいを　してい　します
-たかさの　はんいを　してい　します
+Nach Namen sortieren
+Nach Typ sortieren
+Nach Gewicht sortieren
+Nach Größe sortieren
 かたちを　してい　します
-せいそく　ちいきを　してい　します
-じょうけんを　みたす　ポケモンが
-みつかりませんでした……
-けんさく　しています……
-ならびじゅん
-なまえ
-タイプ
-たかさ
-おもさ
-ちいき
+Nach Fundort sortieren
+Das gesuchte Pokémon wurde nicht gefunden.
+Nicht gefunden……
+Suche……
+Reihenfolge
+Name
+Typ
+Größe
+Gewicht
+Ort
 かたち
-カントー
-ジョウト
-リセット
-スタート
-やめる
+Kanto
+Johto
+Zurücksetzen
+Start
+Abbrechen
 \xf000Ȃ\x0001\x0000．\xf000Ȁ\x0001\x0001
-けってい
-やめる
+Annehmen
+Abbrechen
 ばんごう
-ごじゅうおん
-おもい
-かるい
-たかい
-ひくい
-あく
-いわ
-エスパー
-かくとう
-くさ
-こおり
-ゴースト
-じめん
-でんき
-どく
-ドラゴン
-ノーマル
-はがね
-ひこう
-ほのお
-みず
-むし
+A bis Z
+Schwerste
+Leichtest
+Größte
+Kleinste
+Unlicht
+Gestein
+Psycho
+Kampf
+Pflanzen
+Eis
+Geist
+Boden
+Elektro
+Gift
+Drache
+Normal
+Stahl
+Flug
+Feuer
+Wasser
+Käfer
 ーーーー
-ジョウト
-カントー
-ふめい
+Johto
+Kanto
+Unbekannt
 ーーーー
-ア
-イ
-ウ
-エ
-オ
-カ
-キ
-ク
-ケ
-コ
-サ
-シ
-ス
-セ
-ソ
-タ
-チ
-ツ
-テ
-ト
-ナ
-ニ
-ヌ
-ネ
-ノ
-ハ
-ヒ
-フ
-ヘ
-ホ
-マ
-ミ
-ム
-メ
-モ
-ヤ
-ユ
-ヨ
-ラ
-リ
-ル
-レ
-ロ
-ワ
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ー
-オスのすがた
-メスのすがた
-にしのうみ
-ひがしのうみ
+Männlich
+Weiblich
+Westlich
+Östlich
 くさきのミノ
 すなちのミノ
 ゴミのミノ
 あるすがた
-にほんごのずかん
-えいごのずかん
-フランスごのずかん
-ドイツごのずかん
-イタリアごのずかん
-スペインごのずかん
-せいそくち　ふめい
-あさ
-ひる
-よる
-きりかえ
+JP Pokédex
+EN Pokédex
+FR Pokédex
+GE Pokédex
+IT Pokédex
+SP Pokédex
+Unbekanntes Gebiet
+Morgen
+Tag
+Nacht
+Wechseln
 \xf000ą\x0001\x0000
-すべて　ひょうじ
-すべて　ひょうじ
-おおきさ　くらべ
-おもさ　くらべ
+Zeige alle
+Zeige alle
+Größenüberprüfung
+Gewichtsüberprüfung
 １．６０ｍ
 １．４８ｍ
 ４５．０ｋｇ
 ３８．０ｋｇ
-ぶんぷ
-おおきさ
-ポケモンずかん　とうろく　かんりょう！
-ノーマルフォルム
-アタックフォルム
-ディフェンスフォルム
-スピードフォルム
-ランドフォルム
-スカイフォルム
-アナザーフォルム
-オリジンフォルム
-ロトムのすがた
-ヒートロトム
-ウォッシュロトム
-フロストロトム
-スピンロトム
-カットロトム
+Gebiet
+Größe
+Pokédex wurde registriert！
+Normalform
+Angriffsform
+Verteidigungsform
+Geschwindigkeitsform
+Landform
+Zenitform
+Normalform
+Ursprungsform
+Rotom
+Schneid-Rotom
+Frost-Rotom
+Hitze-Rotom
+Wasch-Rotom
+Wirbel-Rotom
 \xf000ā\x0001\x0000のすがた
-ポワルンのすがた
-たいようのすがた
-あまみずのすがた
-ゆきぐものすがた
+Normal
+Sonnenscheinform
+Regenform
+Schneeform
 ネガフォルム
-ポジフォルム
+Sonnenscheinform
 ギザみみ
 \xf000ā\x0001\x0000：
-みくらべる
-\xf000ā\x0001\x0000を　みくらべる
-すがた
-きりかえる
-もどる
-もどる
-リストに　もどります
+Vergleiche
+\xf000ā\x0001\x0000Vergleiche
+Formen
+Wechseln
+Abbrechen
+Abbrechen
+Zur Liste zurückkehren
 つかまえた　\xf000ā\x0001\x0000に\xfffeニックネームを　つけますか？
 つかまえた　\xf000ā\x0001\x0000には\xfffeべつに　おやが　いるみたい？
 \xf000Ă\x0001\x0000は　だれかの　パソコンの\xfffe\xf000ċ\x0001\x0001に　てんそうされた！
 \xf000Ă\x0001\x0000は　ショウロの　パソコンの\xfffe\xf000ċ\x0001\x0001に　てんそうされた！
-Information/せつめい
-Map/ぶんぷ
-Voice/なきごえ
-Forme/すがた
-Forme/すがたを　みくらべる
+Information
+Karte
+Stimme
+Form
+Vergleiche
 \xf000Ȁ\x0001\x0000'\xf000ȁ\x0001\x0001"
-みつけた　すがたの　かず
-みつけた　いろちがいの　かず
+Gesehene Formen
+Gesehene Shiny
 \xf000ȁ\x0001\x0000
 \xf000ȁ\x0001\x0000
-（いろちがい）
-\xf000ā\x0001\x0000の　ぶんぷ
-はる
-なつ
-あき
-ふゆ
+（Shiny）
+\xf000ā\x0001\x0000s Fundort
+Frühling
+Sommer
+Herbst
+Winter
 ？？？
 HT
 HAUT.
