@@ -2,22 +2,22 @@ no data
 no data
 \xf000ȃ\x0001\x0000, \xf000ȃ\x0001\x0001, \xf000ȃ\x0001\x0002, \xf000ȃ\x0001\x0003\xfffe\xf000ȃ\x0001\x0004
 \xf000ē\x0001\x0000
-はい
-いいえ
+Ja
+Nein
 みんなが　すきなものは？\xfffeいま　はやっているものは？\xf000븁\x0000\xfffeそんな　ぎもんを\xfffeキミは　かんじたことは　ないか？\xf000븁\x0000\xfffeここは\xfffeすれちがい　ちょうさたいほんぶ\xf000븁\x0000\xfffeキミの　ような　まよえる　こひつじに\xfffeしんじつを　おしえる　ばしょだ\xf000븁\x0000\xfffe……キミは　いいめを　しているな\xfffeたんきゅうしん　あふれる　めだ\xf000븁\x0000\xfffe……よろしい！　キミを　とくべつに\xfffeちょうさたいいんに　にんめいしよう！\xf000븁\x0000
 \xf000Ā\x0001\x0001は\xfffeちょうさたいいんに　にんめいされた！\xf000븁\x0000
 たいいんの　しごとは　ただひとつ！\xfffeちょうさいらいを　ちょうさすることだ\xf000븁\x0000\xfffeまず　わたしから\xfffeちょうさいらいを　うける\xf000븁\x0000\xfffeそして　ちょうさレーダーで　\xfffeしらべたい　ちょうさを　えらぶ\xf000븁\x0000\xfffeあとは　たくさんの　ひとと\xfffeすれちがえば　レーダーが\xf000븀\x0000\xfffeじょうほうを　あつめてくれる\xf000븁\x0000\xfffeもちろん　ちょうさに　たいして\xfffeほうしゅうも　よういしている\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001たいいん！　キミの\xfffeかつやくを　きたいしているぞ！\xf000븁\x0000
 よくきたな　\xf000Ā\x0001\x0001たいいん\xfffeげんきに　ちょうさを　しているか？\xf000븁\x0000
 キミは　すべての\xfffeいらいを　おえている\xf000븁\x0000\xfffeこれからは　じぶんの　しりたいことを\xfffeすきなだけ　しらべてくれたまえ
-さて　きょうは　どうする？
-いらいを　うける
-いらいの　ほうこく
-なんでもないです
-いらいの　かくにん
+Was möchtest du heute tun？
+Eine Anfrage annehmen
+Ein Ergebnis mitteilen
+Nein danke!
+Die Anfrage untersuchen
 ちょうさいらいを　うけるんだな？\xf000븁\x0000\xfffeまずは　ちょうさほうほうを\xfffeえらんでくれ
 じかんちょうさ
 にんずうちょうさ
-やめる
+Zurück
 じかんちょうさだな？\xf000븁\x0000\xfffeしていされた　じかんないで\xfffeデータを　あつめる　ちょうさだ\xf000븁\x0000
 にんずうちょうさだな？\xf000븁\x0000\xfffeしていされた　にんずうぶんの\xfffeデータを　あつめる　ちょうさだ\xf000븁\x0000
 ちょうさを　おこなう\xfffeいらいを　えらんでくれ
@@ -27,29 +27,29 @@ no data
 わかった……\xf000븁\x0000\xfffeいらいを　うけたくなったら\xfffeまた　きてくれ
 では　ひきつづき\xfffeちょうさを　つづけてくれ
 ブラック２と　ホワイト２　おおいのは？
-えらんだ　さいしょの　ポケモンは？
-いちばん　おおい　プレイじかんは？
-おとこと　おんな　おおいのは？
-いちばん　おおい　しごとは？
-いちばん　おおい　しゅみは？
-たいせんと　こうかん　にんきなのは？
-すきな　ポケモンは？
-すきな　ポケモンの　タイプは？
-とかいと　いなか　すみたいのは？
-だいじに　しているものに　ついて
+Dein Anfangspokémon？
+Wie lange spielst du schon？
+Mehr Männer oder mehr Frauen？
+Der gewöhnlichste Job？
+Das gewöhnlichste Hobby？
+Ist der Kampf oder der Tausch von Pokémon beliebter？
+Lieblingspokémon？
+Lieblingspokémontyp？
+Wo bevorzugen Menschen zu leben？
+Über das, was am Wichtigsten ist
 ひとの　みりょくに　ついて
 しょうらいに　ついて
 きょうかん　される　うたは？
-いちばん　すきな　おんがくは？
-えいぞうに　ついて
+Lieblingsmusik？
+Über TV und Filme
 タイムマシンが　あったら？
 もしも……だったら？
 いちばん　にんきの　ゲームは？
-きゅうじつに　ついて
+Über einen Urlaub
 ポケモンを　どれくらい　あそんでる？
 いちばん　にんきの　ジムリーダーは？
-ポケモンの　おもしろい　ところは？
-やめる
+Beliebtester Arenaleiter？
+Das Schönste an Pokémon
 この　ちょうさは……\xf000븁\x0000\xfffeわたし　からの　いらいだな\xf000븁\x0000\xfffe２じかん　いじょう　ちょうさして\xfffeブラック２と　ホワイト２\xf000븀\x0000\xfffeどちらが　おおいかを\xf000븀\x0000\xfffeしらべてくる　ちょうさだ\xf000븁\x0000\xfffeわたしも　ポケモンを\xfffeはじめようと　おもってね\xf000븀\x0000\xfffeどちらが　にんきか　しりたいんだ\xf000븁\x0000
 この　ちょうさは……\xf000븁\x0000\xfffeとある　ポケモンはかせ　からの\xfffeいらい　だな\xf000븁\x0000\xfffe２じかん　いじょう　ちょうさして\xfffeいちばん　えらばれた\xf000븀\x0000\xfffeさいしょの　ポケモンを\xf000븀\x0000\xfffeしらべてくる　ちょうさだ\xf000븁\x0000\xfffeちょうさの　けっかを\xfffeけんきゅうに　やくだてたいそうだ\xf000븁\x0000
 この　ちょうさは……\xf000븁\x0000\xfffeとある　ははおや　からの\xfffeいらい　だな\xf000븁\x0000\xfffe４じかん　いじょう　ちょうさして\xfffeいちばん　おおい　プレイじかんを\xf000븀\x0000\xfffeしらべてくる　ちょうさだ\xf000븁\x0000\xfffeちょうさの　けっかを\xfffeこどもの　プレイじかんと\xf000븀\x0000\xfffeくらべたいそうだ\xf000븁\x0000
@@ -268,15 +268,15 @@ no data
 あら？　もう　ぜんぶのアンケートに\xfffeこたえてくれた　みたいね\xf000븁\x0000\xfffeアンケートに\xfffeもういちど　こたえる？
 それじゃ　こたえる\xfffeアンケートを　えらんでくれる？
 どんなひとが　いるか
-すきな　ポケモン
-みんなの　りそう
-すきな　ひと
+Details über Leute
+Lieblingspokémon
+Ideale und Werte
 みんなの　しょうらい
-みんなの　しゅみ
+Präferenzen
 もしも……だったら
-どんな　あそびが　すきか
-ポケモン
-この　アンケートで　いいのね？
+Schulleben
+Sport 
+Mehr über Pokémon
 アンケートは　なんども　\xfffeこたえられるから\xf000븀\x0000\xfffeこたえを　かえたくなったら　いってね
 それじゃ　はじめるわよ\xfffeこんかいの　アンケートは……\xf000븁\x0000\xfffe『どんなひとが　いるか』に　ついてよ\xf000븁\x0000
 それじゃ　はじめるわよ\xfffeこんかいの　アンケートは……\xf000븁\x0000\xfffe『すきな　ポケモン』に　ついてよ\xf000븁\x0000
@@ -292,12 +292,12 @@ no data
 『アナタは　とかいと　いなか\xfffeすむなら　どっち？』
 『アナタが　あいてを　えらぶなら\xfffeどっち？』
 『アナタは　しょうらい\xfffeどんな　ひとに　なりたい？』
-『アナタが　すきな　おんがくは？』
+『Was ist deine Lieblingssaison？』
 『もしも　タイムマシンが　あったら\xfffeどの　じだいに　いきたい？』
 『アナタが　ともだちと　あそぶなら\xfffeどう　あそびたい？』
 『アナタが　おもう\xfffeポケモンの　おもしろいところは？』
 『アナタの　おしごとは？』
-『アナタが　すきな　ポケモンは？』
+『Was ist dein Beruf？』
 『アナタが　ほしいのは　どっち？』
 『アナタが　あいてに\xfffeもとめるものは？』
 『アナタは　ゆめを　おう？\xfffeそれとも　げんじつを　みる？』
@@ -310,7 +310,7 @@ no data
 『アナタが　だいじなのは？』
 『アナタが　すきな\xfffeにんげんの　タイプは？』
 『アナタが　しょうらい\xfffeがんばりたいことは？』
-『アナタが　すきな　えいがは？』
+『Was ist deine Lieblingsfarbe？』
 『もし　たくさん　おかねを\xfffeもっていたら　どうする？』
 『アナタが　すきな　ゲームは？』
 『アナタが　すきな\xfffeジムリーダーは？』
