@@ -4,10 +4,10 @@ Geht es in Ordnung, Daten herzustellen,\xfffeumd die Spielsynchro zu benutzen？
 Stelle Daten her\xfffeBitte warte einen Augenblick.
 Ja
 Nein
-レポートに　かきこんでいます\xfffeでんげんを　きらないでください
-おてもとの　パソコンから\xfffeポケモングローバルリンクの\xfffeホームページに　アクセスして\xfffeうえの　ゲームシンクＩＤコードを\xfffeにゅうりょくすると　ゲームシンクの\xfffeせっていが　おこなえます\xfffe\xfffehttp://www.pokemon-gl.com/
-ゲームシンクＩＤコードを\xfffeはっこうしました\xfffe\xfffeうえのゲームシンクＩＤコード　は\xfffeゲームかいしじの　タイトルメニュー\xfffeゲームシンクせっていから\xfffeみなおすことが　できます\xf000븁\x0000
-おてもとのパソコンから\xfffeポケモングローバルリンクの\xfffeホームページに　アクセスして\xfffeうえのゲームシンクＩＤコードを\xfffeにゅうりょくすると　ゲームシンクの\xfffeせっていが　おこなえます\xfffe\xfffehttp://www.pokemon-gl.com/
+Speichervorgang...\xfffeBitte Das System nicht ausschalten.
+Benutze einen PC, um \xfffedie Pokémon Global Link Webseite zu öffnen\xfffeund gebe dort deine Spielsynchro ID ein, \xfffe um deine Spielsynchro zu erstellen. \xfffe\xfffehttp://www.pokemon-gl.com/
+Deine Spielsynchro ID wurde veröffentlicht.\xfffeDu kannst deine Spielsynchro ID\xfffein den Spielsynchro Einstellungen im Hauptmenu überprüfen.\xf000븁\x0000
+Benutze einen PC, um \xfffedie Pokémon Global Link Webseite zu öffnen\xfffeund gebe dort deine Spielsynchro ID ein, \xfffe um deine Spielsynchro zu erstellen. \xfffe\xfffehttp://www.pokemon-gl.com/
 Spielsynchro ID
 Die Spielsynchro ID\xfffewurde gespeichert.
 Ein Fehler trat beim Server auf.\xfffeBitte versuche es erneut.\xfffeWenn dies das Problem nicht behebt,\xfffedurchsuche die FAQ\xfffein dem Bedienungshandbuch.\xfffe（Fehlercode：１３２０１）
@@ -15,10 +15,10 @@ Ein Fehler trat beim Server auf.\xfffeBitte versuche es erneut.\xfffeWenn dies d
 Ein Verbindungsfehler trat auf.\xfffeBitte versuche es erneut.\xfffeWenn dies das Problem nicht behebt,\xfffedurchsuche die FAQ\xfffein dem Bedienungshandbuch.\xffe（Fehlercode：１３２０３）
 Ein Verbindungsfehler trat auf.\xfffeBitte versuche es erneut.\xfffeWenn dies das Problem nicht behebt,\xfffedurchsuche die FAQ\xfffein dem Bedienungshandbuch.\xffe（Fehlercode：１３２０４）
 Ein Fehler trat beim Server auf.\xfffeBitte versuche es erneut.\xfffeWenn dies das Problem nicht behebt,\xfffedurchsuche die FAQ\xfffein dem Bedienungshandbuch.\xfffe（Fehlercode：１３２０５）
-ごりようの　サービスは\xfffeしゅうりょう　いたしました\xfffe（エラーコード：１３２０６）
+Dieser Service wurde\xfffeabgebrochen.\xfffe（Fehlercode：１３２０６）
 Ein Verbindungsfehler trat auf.\xfffeBitte versuche es erneut.\xfffeWenn dies das Problem nicht behebt,\xfffedurchsuche die FAQ\xfffein dem Bedienungshandbuch.\xffe（Fehlercode：１３２０７）
 Ein Fehler trat beim Server auf.\xfffeBitte versuche es erneut.\xfffeWenn dies das Problem nicht behebt,\xfffedurchsuche die FAQ\xfffein dem Bedienungshandbuch.\xfffe（Fehlercode：１３２０８）
-つうしんでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（Fehlercode：１３２０９）
+Ein Verbindungsfehler trat auf.\xfffeBitte versuche es erneut.\xfffeWenn dies das Problem nicht behebt,\xfffedurchsuche die FAQ\xfffein dem Bedienungshandbuch.\xffe（Fehlercode：１３２０９）
 Ein Fehler trat beim Server auf.\xfffeBitte versuche es erneut.\xfffeWenn dies das Problem nicht behebt,\xfffedurchsuche die FAQ\xfffein dem Bedienungshandbuch.\xfffe（Fehlercode：１３２１０）
 Der Server ist \xfffemomentan stark genutzt\xfffeVerbindung nicht möglich.\xfffeBitte warte eine Weile und versuche es erneut\xfffe（Fehlercode：１３２１１）
 Der Server wird gerade gewartet.\xfffeDu kannst dir die Details \xfffeauf der Global Link Webseite ansehen.\xfffehttp://www.pokemon-gl.com\xffe\xfffe Fehlercode：１３２１２
