@@ -1,42 +1,42 @@
-\xf000Ā\x0001\x0000は\xfffeパソコンの　スイッチを　いれた！\xf000븁\x0000
-どこの　パソコンに　せつぞくして\xfffeつうしん　しますか？
-だれかのパソコン
-ショウロのパソコン
-\xf000Ā\x0001\x0000のパソコン
-はかせのパソコン
-きろくをみる
-ヘルプをみる
-スイッチをきる
-アララギはかせの\xfffeパソコンに　せつぞく　した！\xf000븀\x0000
-でんどういりの\xfffeデータが　こわれています\xf000븁\x0000\xfffeもういちど　でんどういり　すれば\xfffeだいじょうぶ　です\xf000븁\x0000
-おめでとうございます！\xf000븁\x0000\xfffeはじめて　クリアした　きねんとして\xfffeかべがみが　ついか　されました！\xf000븁\x0000
-おめでとうございます！\xf000븁\x0000\xfffeチャンピオンに　かった　きねんとして\xfffeかべがみが　ついか　されました！\xf000븁\x0000
-おめでとうございます！\xf000븁\x0000\xfffeキュレムを　つかまえた　きねんとして\xfffeかべがみが　ついか　されました！\xf000븁\x0000
-ポケモンの　あずかりシステムを\xfffeよびだした！\xf000븁\x0000
-ポケモンを　あずける
-ポケモンを　つれていく
-ボックスを　せいりする
-もちものを　せいりする
-さようなら
-バトルボックス
-てもちの　ポケモンを\xfffeボックスに　あずけることが　できます
-ボックスに　あずけている　ポケモンを\xfffeてもちに　くわえることが　できます
-ボックスに　あずけている　ポケモンや\xfffeてもちのポケモンを　せいり　できます
-ポケモンが　もっている\xfffeどうぐを　せいり　できます
-ポケモンあずかりシステム　への\xfffeつうしんを　せつだん　します
-てもちとは　べつに　たいせんでつかう\xfffeポケモンを　とうろく　できます
-\xf000Ā\x0001\x0000の\xfffeパソコンに　せつぞく　した！\xf000븁\x0000
-メールボックス
-せつぞくを　きる
-メールを　２０つう　まで\xfffeほぞん　することが　できます
-じぶんのパソコン　への\xfffeつうしんを　せつだん　します
-はじめてのクリア
-でんどういり
-せつぞくを　きる
-きろく　システムに\xfffeせつぞく　した！\xf000븁\x0000
-はじめて　クリアしたときの\xfffeメンバーを　みることが　できます
-でんどういり　したときの\xfffeメンバーを　みることが　できます
-きろくシステム　への\xfffeつうしんを　せつだん　します
-アララギはかせの\xfffeパソコンに　せつぞく　した！\xf000븁\x0000
-ヘルプ　システムに\xfffeせつぞく　した！\xf000븁\x0000
+\xf000Ā\x0001\x0000は\xfffeschaltet den PC ein.\xf000븁\x0000
+Zugriff aus\xfffewessen PC？
+Jemandes PC
+Rubinas PC
+PC von\xf000Ā\x0001\x0000
+Prof. Esches PC
+Daten ansehen
+Hilfe aufrufen
+Ausschalten
+Verbindung mit\xfffeProf. Esches PC.\xf000븀\x0000
+Deine Ruhmeshalle Daten\xfffesind defekt.\xf000븁\x0000\xfffeSie werden gefixt, wenn\xfffedu die Ruhmeshalle erneut betrittst.\xf000븁\x0000
+Glückwunsch！\xf000븁\x0000\xfffeBilder wurden hinzugefügt, um\xfffedeinen Erfolg zu gedenken.\xf000븁\x0000
+Glückwunsch！\xf000븁\x0000\xfffeBilder wurden hinzugefügt, um\xfffedeinen Sieg gegen den Champion zu gedenken.\xf000븁\x0000
+Glückwunsch！\xf000븁\x0000\xfffeBilder wurden hinzugefügt, um\xfffedeinen Fang von Kyurem zu gedenken.！\xf000븁\x0000
+Pokémon-Lagerungssystem\xfffegeöffnet.\xf000븁\x0000
+Pokémon ablegen
+Pokémon mitnehmen
+Pokémon bewegen
+Items bewegen
+Tschüss!
+Kampfbox
+Lagere Pokémon aus deinem\xfffeTeam in einer Box.
+Nimm ein Pokémon aus einer\xfffeBox in dein Team auf.
+Ordne Pokémon in den Boxen\xfffeund/oder in deinem Team.
+Items bewegen, die von Pokémon im\xfffeTeam oder in der Box getragen werden.
+Das Pokémon-Lagerungssystem\xfffeverlassen.
+Lege die Pokémon fest, die im Kampf zum\xfffeEinsatz kommen. Nicht das aktive Team.
+Verbindung mit PC von\xf000Ā\x0001\x0000の\xfffe!\xf000븁\x0000
+Briefbox
+Ausloggen
+Bis zu 20 Briefe können hier\xfffegelagert werden.
+Ausloggen aus\xfffedeinem PC.
+Zum 1.Mal durchgespielt
+Ruhmeshalle
+Ausloggen
+Verbindung mit der\xfffeDatenbank.\xf000븁\x0000
+Sieh dir an, in welcher Besetzung du das\xfffeSpiel zum ersten Mal durchgespielt hast.
+Sieh dir an, in welcher Besetzung du die\xfffeRuhmeshalle betreten hast.
+Das Pokémon-Lagerungssystem\xfffeverlassen.
+Verbindung mit\xfffeProf. Esches PC.\xf000븁\x0000
+Verbindung mit dem\xfffeHilfesystem.\xf000븁\x0000
 　
