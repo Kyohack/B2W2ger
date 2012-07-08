@@ -1,4 +1,4 @@
-しょていの　いちに　ついて\xfffeたいせんを　はじめてください
+Bitte nehme deine Position ein, \xfffeum den Kampf zu starten.
 Bitte warte einen Augenblick. \xfffe……Drücke Ｂ, um abzubrechen
 Nun wähle die \xfffe３teilnehmenden Pokémon aus. \xf000븁\x0000
 Nun wähle die \xfffe４teilnehmenden Pokémon aus. \xf000븁\x0000
