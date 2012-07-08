@@ -1,31 +1,31 @@
-\xf000Ā\x0001\x0001『こっち　こいよ\xf000븁\x0000
-チョット　まってな\xf000븁\x0000\xfffeむかしの　なかまを　きずつけないよう\xfffeせっとく　するんだとよ\xf000븁\x0000
-ロット『ええい！　わからずやどもめ\xfffeわかるまで　なんどでも　いう！\xf000븁\x0000\xfffeゲーチスが　もくろんで　いたのは\xfffeイッシュちほうの　しはい　だ！\xf000븁\x0000\xfffeポケモンを　かいほう　するのは\xfffeたてまえ　でしか　なかった！\xf000븁\x0000\xfffeむしろ　ポケモンを\xfffeくるしめることに　なったのです！\xf000븁\x0000
-プラズマだん『はいはい\xfffeじーさん　いいこと　いったね\xf000븁\x0000\xfffeバカか！\xf000븁\x0000\xfffeうらぎりものの　ことばなんか\xfffeきくわけ　ないだろ！\xf000븁\x0000
-\xf000Ā\x0001\x0001『……ダメだな\xf000븁\x0000
-\xf000Ā\x0001\x0001『おい！\xf000븁\x0000
-オマエら！\xfffeそこ　とおるぜッ！！\xf000븁\x0000
-プラズマだん『なに　いってんの？\xfffeいたい　めに　あいたいの？\xf000븁\x0000
-\xf000Ā\x0001\x0001『……オレは　うばわれた\xfffeポケモンを　とりもどす\xf000븁\x0000\xfffeオマエら　あくとうの　ことば　なんか\xfffeきくわけ　ないだろッ！！\xf000븁\x0000
-ロットの　じいさん！\xfffeもとプラズマだん！\xf000븁\x0000\xfffeオマエら　なんのため\xfffeポケモンと　いっしょに　いるんだよ！\xf000븁\x0000
-だいじな　ものを　まもるためだろ！\xf000븁\x0000\xfffeたいせつな　ポケモンが！\xfffeじぶんの　しんねんが！　きずついても\xf000븀\x0000\xfffeたたかうときって　いまだろッ！！\xf000븁\x0000
-プラズマだん『おこさまが\xfffeかっこいいこと　いってんなよ！\xf000븁\x0000\xfffeとにかく　プラズマフリゲートに\xfffeだれも　ちかづけるんじゃない！\xf000븀\x0000\xfffeこいつら　まとめて　しまつしろ！\xf000븁\x0000
-\xf000Ā\x0001\x0001『\xf000Ā\x0001\x0000！\xfffeいつもどおり　そっちは　たのむぜッ！\xf000븁\x0000
-プラズマだん『だってよ\xf000븁\x0000\xfffeおまえも　うらぎりものも\xfffeまとめて　ぶっつぶす！\xf000븁\x0000\xfffeそうともさ！　あばれるため\xfffeプラズマだんに　いるんだからな！\xf000븁\x0000
-ロット『おまえたち\xfffeポケモンは　だいじょうぶか？\xf000븀\x0000\xfffeこれを　もっていくと　よい\xf000븁\x0000
-おまえも\xf000븁\x0000
-\xf000Ā\x0001\x0001『……あんがと\xf000븁\x0000
+\xf000Ā\x0001\x0001: Oi, komm her\xf000븁\x0000
+Warte ein bisschen.\xf000븁\x0000\xfffeVielleicht sind sie alte Freunde welche\xfffees mit Worten regeln können, anstatt mit einem Kampf\xf000븁\x0000
+Rubius: Ugh！\xfffeIhr dickköpfigen Narren！\xf000븁\x0000\xfffeIch werde das euch solange sagen bis ihr es\xfffeversteht！\xf000븁\x0000\xfffeG-Cis' Plan ist es, die ganze\xfffeEinall-Region zu regieren！\xf000븁\x0000\xfffeDie Befreiung der\xfffePokémon war nur eine Lüge！\xf000븁\x0000
+Team Plasma: Oh ja.\xfffeDann werde ich es dir erzählen, alter Mann\xf000븁\x0000\xfffeWas für ein Narr！\xf000븁\x0000\xfffeDas sind die Wörter eines\xfffeVerräters, der nicht zuhört！\xf000븁\x0000
+\xf000Ā\x0001\x0001: ...wie nutzlos.\xf000븁\x0000
+\xf000Ā\x0001\x0001:OI!!\xf000븁\x0000
+Ihr Typen！\xfffeVersucht hier durchzukommen！！\xf000븁\x0000
+Team Plasma: Was redest du？\xfffeSuchst du nach Ärger？\xf000븁\x0000
+\xf000Ā\x0001\x0001:Ich wurde bestohlen.\xfffeIch bin hier, um meine\xf000븁\x0000\xfffePokémon zurückzuholen.\xfffeIch würde niemals auf die Worte von euch Schurken hören！！\xf000븁\x0000
+Alter Mann Rubius！\xfffeOriginal Team Plasma！\xf000븁\x0000\xfffeWenn ihr den Pokémon\xfffezuliebe kämpft, bin ich bei euch！\xf000븁\x0000
+Wichtige Sachen sollten geschützt werden！\xf000븁\x0000\xfffePokémon sind das Wichtigste！\xfffeDas ist meine Meinung！　Selbst wenn ich verletzt bin, \xf000븀\x0000\xfffekämpfe ich weiter！！\xf000븁\x0000
+Team Plasma: Wie cool du zu \xfffeklingen glaubst！\xf000븁\x0000\xfffeKeiner kann der Team Plasma-Fregatte\xfffezu nahe kommen！\xf000븀\x0000\xfffeWir werden euch eigenhändig aus dem Weg räumen！\xf000븁\x0000
+\xf000Ā\x0001\x0001:\xf000Ā\x0001\x0000！\xfffeIch verlasse mich wie immer auf dich！\xf000븁\x0000
+Team Plasma: Wir werden euch vernichten, ihr Verräter!\xf000븁\x0000\xfffeGenau！\xf000븁\x0000Momentan existieren wir, um euch kämpfen zu sehen！\xf000븁\x0000
+Rubius: Ah!\xfffeSind deine Pokémon OK？\xf000븀\x0000\xfffeBitte, nimm dies.\xf000븁\x0000
+Ihr beide.\xf000븁\x0000
+\xf000Ā\x0001\x0001:...Danke.\xf000븁\x0000
 さ　とおらせてもらうぜ……！\xf000븁\x0000\xfffeって　また　きやがったか\xf000븁\x0000
-ロット『つよさの　ない　こころも\xfffeこころの　ない　つよさも\xf000븀\x0000\xfffeこんなとき　なにも　できない\xf000븁\x0000\xfffeむかしの　なかまを　すくうため\xfffeイッシュを　まもるため　たたかう！\xf000븁\x0000
-おまえたち　いけ！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001だったか\xf000븁\x0000\xfffeおまえが　さがしている　ポケモンは\xfffeダークトリニティ……\xf000븁\x0000\xfffeニンジャ　みたいな　れんちゅうの\xfffeだれかが　もっている　はず\xf000븁\x0000
+Rubius: Verstand ohne Kraft,\xfffeKraft ohne Verstand,\xf000븀\x0000\xfffewas auch fehlt, es macht etwas schwieriger.\xf000븁\x0000\xfffeUm deine alten Feunde und\xfffeEinall zu beschützen,... Kämpf！\xf000븁\x0000
+Geht ihr zwei！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001was it?\xf000븁\x0000\xfffeDas Pokémon nachdem du suchst……\xf000븁\x0000\xfffeDas Finstrio...\xfffeDiese Ninjas haben es.\xf000븁\x0000
 \xf000Ā\x0001\x0001『わかったッ！\xf000븁\x0000\xfffeアイツに　あえたなら\xfffeアンタらの　つみほろぼし　だっけ？\xf000븀\x0000\xfffeてつだってやるッ！\xf000븁\x0000
-ロット『たしかに　あのとき\xfffeわたしの　せいぎを　しんじていた\xf000븁\x0000\xfffeおうである　Ｎさまのもと\xfffeあらそいの　ない　せかいを　つくる！\xf000븁\x0000\xfffeだが　それは　ひとりよがりで\xfffeまわりが　みえていなかった！\xf000븁\x0000\xfffeだから　おなじことを\xfffeくりかえしては　ならない！
-ポケモンの　きもちを　むしして\xfffeトレーナーから　きりはなすな！
-これって　アレか？\xfffeなぐりあって　わかりあう　ってヤツ？\xf000븀\x0000\xfffeつまり　せいしゅん　ってことか
-うらぎりものの　しちけんじん　め！\xfffeボコボコにして　ほめてもらうぜ！
-イッシュを　しはいして\xfffeポケモンを　おれらのものに　する！\xf000븁\x0000\xfffeそうすりゃ　２ねんまえの\xfffeしっぱいは　チャラさ！！
-ああ！　この　ひとから\xfffeあつい　きもち　つたわってくる！\xf000븀\x0000\xfffeこっ　こころが　ゆらいじゃう！
-オマエらなんか　どうでもいい\xfffeボスには　かてっこ　ないからな！\xf000븁\x0000\xfffeおれは　ここで\xfffeうらぎりものを　ボコボコにするぜ！
-イッシュを　こおりづけに　して\xfffeみんなから　ポケモンを　うばう！
-さすがだな！　モンスターボールで\xfffeポケモンを　しばりつけてるもんな！
-わるあがき　って　やつだよ\xfffeおまえらが　してることは！
+Rubius: Mit Sicherheit glaubte ich damals\xfffean meine Gerechtigkeit.\xf000븁\x0000\xfffeMeit dem waren König, Meister N,\xfffewerden wir eine Welt ohne Krieg schaffen！\xf000븁\x0000\xfffeJedoch ist das selbstgerecht \xfffeund verursachte nur tiefe Traurigkeit.！\xf000븁\x0000\xfffeDas ist, warum dasselbe Denken\xfffe nicht wiederholt werden sollte！
+Die Gefühle eines Pokémon\xfffesollten nicht ignoriert werden！
+Was ist das？\xfffeKämpfen, um einander zu verstehen？\xf000븀\x0000\xfffeSolches ist jugendliches Denken!
+Verräter der Sieben Weisen！\xfffeIch werde deswegen bewundert, wenn ich Sie besiege!
+Sobald wir Einall beherrschen,\xfffewerden alle Pokémon mir gehören！\xf000븁\x0000\xfffeそうすりゃ　２ねんまえの\xfffeしっぱいは　チャラさ！！
+Ahh！　Diese Person verbreitet \xfffeeine Brennentschlossenheit！\xf000븀\x0000\xfffeS-Sein Herz ist der Ursprung？！
+Egal was du auch machst...\xfffeist der Boss hier, kannst du nichts mehr machen！\xf000븁\x0000\xfffeWir werden euch Verräter \xfffehier besiegen！
+Wir gehen über Einall in Eis \xfffeund nehmen jedem seine Pokémon！
+Wie erwartet！　Pokébälle sind nur Geräte,\xfffeum die Pokémons zu fangen！
+Widerstand ist nutzlos!\xfffeDu wirst nicht gewinnen！
