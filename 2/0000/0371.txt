@@ -19,13 +19,13 @@ Orden: \xf000ȁ\x0001\x0000
 Speicherinfo
 キーシステムせってい
 アシストモード
-チャレンジモード
+CHALLENGE MODUS
 WEISSER WALD
 SCHWARZE STADT
 GESTEIN
 STAHL
 EIS
-ほんたいの　せっていにより\xfffeむせんつうしんが　つかえません\xf000븁\x0000\xfffeむせんつうしんを　つかうには\xfffeほんたいせっていの　むせんつうしんを\xf000븀\x0000\xfffeオンにしてください　（５０６９９）
+Kabellose Kommunikationen sind ausgeschaltet.\xfffeSchalte die kabellose Kommunikation in den\xf000븁\x0000\xfffeSystemeinstellung ein.\xf000븀\x0000\xfffeError code: 50699
 ペアレンタルコントロールの\xfffeつうしんせいげん
 イッシュリンクの　キーシステム　で\xfffeモードへんこうの　キーが\xf000븀\x0000\xfffeそうしん　できるように　なりました\xf000븁\x0000
 Achtung!
@@ -44,6 +44,6 @@ Die Musiktheater Daten \xfffewurden gelöscht.
 Diverse Daten für den Pokédex\xfffewurden gelöscht.
 Diene Ruhmeshallen Daten \xfffewurden gelöscht.
 Deine Geheimgeschehen \xfffewurden gelöscht.
-きえてしまった　ポケウッドの\xfffeきろくが　あります！
+Deine PokéWood Daten\xfffewurden gelöscht.
 キーシステムと　おもいでリンクの\xfffeきろくが　きえてしまった！
 Deine ＰＷＴ Daten\xfffewurden gelöscht！
