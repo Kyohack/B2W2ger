@@ -1,16 +1,16 @@
-けしきウキウキ　しょうぶワクワク\xfffeロイヤルイッシュごうへ　ようこそ！\xf000븁\x0000\xfffeチケットは　１０００円　です\xfffeふねに　のられますか？
-この　ふねは　１にち　１かい\xfffeしゅっこうする　ゆうらんせん　です\xf000븁\x0000
+Willkommen auf der majestätischen\xfffeMS Einall Royal！\xf000븁\x0000\xfffeMöchtest du ein Ticket für 1000 Pokédollar\xfffekaufen?
+Diese Kreuzfahrt\xfffeist die erste dieser Art.\xf000븁\x0000
 ロイヤルイッシュごうの　うんこうは\xfffeゆうがた　のみと　なっております\xf000븀\x0000\xfffeあらためて　おこし　くださいませ
-あら？　おかねが　たりませんね\xfffeまたの　おこしを　おまちしております
-チケットは　１０００円　です\xfffeふねに　のられますか？
+Huch？　Du hast leider nicht genug Geld.\xfffeBitte komm bald wieder!
+Möchtest du 1000 Pokédollar \xfffefür ein Fährenticket zahlen？
 イッシュちほうの　おおきな　はし\xfffeスカイアローブリッジを　くぐり\xf000븁\x0000\xfffeワンダーブリッジを　まわって\xfffeヒウンシティに　もどります\xf000븁\x0000\xfffeきてきが　５かい　なりましたら\xfffeとうちゃくの　あいずで　ございます\xf000븁\x0000
 ロイヤルイッシュごうの　かんぱんでは\xfffeじまんの　けしきを　たのしめます\xf000븁\x0000\xfffeきゃくしつには　しょうぶずきな\xfffeトレーナーが　あつまって　おります\xf000븁\x0000\xfffeぜひ　けしきも　しょうぶも\xfffeおたのしみ　ください\xf000븁\x0000\xfffeなお　むせんきや　けいきるいへの\xfffeえいきょうが　あるため\xf000븁\x0000\xfffeせんないで　Ｃギアを\xfffeつかうことは　できません\xf000븁\x0000\xfffeごりかいの　ほど\xfffeよろしく　おねがい　いたします\xf000븁\x0000
-Ｃギアの　でんげんを\xfffeオフにしますが　よろしいでしょうか？
-まもなく　しゅっこうに　なります\xfffeいってらっしゃいませ！\xf000븁\x0000
-かしこまりました\xfffeまたの　おこしを　おまちしております
-ごじょうせん　ありがとうございました\xfffeまたの　おこしを　おまちしております
-ほんじつの　しゅっこうは\xfffeしゅうりょう　いたしました\xf000븀\x0000\xfffeまた　あす　おこしくださいませ
-おめでとう　ございます！\xf000븁\x0000\xfffeあなたは　せんないに　いる\xfffeトレーナー　ぜんいんに　かちました！\xf000븁\x0000\xfffeこちらは　けいひんと　なります\xfffeおうけとり　くださいませ！\xf000븁\x0000
-ふねにのる
-ふねのせつめい
-やめる
+Willst du wirklich\xfffeden C-Gear ausschalten？
+Wir verlassen den Hafen in Kürze.\xfffeSchöne Reise！\xf000븁\x0000
+Sicher.\xfffeBitte komm bald wieder!
+Danke, dass du an Bord der MS Einall Royal bist.\xfffeEinen schönen Tag noch!
+Heute fährt kein\xfffeSchiff mehr.\xf000븀\x0000\xfffeBitte komm morgen wieder.
+Herzlichen Glückwunsch！\xf000븁\x0000\xfffeDu hast alle\xfffeTrainer auf diesem Schiff besiegt！\xf000븁\x0000\xfffeBitte nimm dies als\xfffedeine Belohnung an！\xf000븁\x0000
+An Bord gehen
+Über das Schiff
+Zurück
