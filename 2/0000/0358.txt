@@ -1,6 +1,6 @@
 Level５０
-せいげんなし
-スタンダード
-ランダムマッチ
-バトルサブウェイ
-フラット
+Kein Limit
+Standard
+Zufallsmatch
+Metrokampf
+Wohnung
