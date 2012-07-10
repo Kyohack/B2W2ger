@@ -1,10 +1,10 @@
-じどう　はんばいき　がある！\xfffeほしい　のみもの　は……
-\xf000ĉ\x0001\x0000が　でてきた！\xf000븁\x0000
-あたりだ！　もういっぽん\xfffe\xf000ĉ\x0001\x0000が　でてきた！\xf000븁\x0000
-おかねが　たりない！
-……やっぱり　やめた！
-もういっぽん　かう？
-おいしいみず\xf000봃\x0001\x0001２００円
-サイコソーダ\xf000봃\x0001\x0001３００円
-ミックスオレ\xf000봃\x0001\x0001３５０円
-やめる
+Es ist ein Verkaufsautomat！\xfffeWas für ein Getränk möchtest du kaufen……
+Eine\xf000ĉ\x0001\x0000fiel herunter！\xf000븁\x0000
+Bonus！　Eine weitere\xfffe\xf000ĉ\x0001\x0000fiel herunter！\xf000븁\x0000
+Nicht genug Geld！
+……Doch kein Getränk gekauft！
+Willst du ein weiteres kaufen？
+Tafelwasser\xf000봃\x0001\x0001$２００
+Sprudel\xf000봃\x0001\x0001$３００
+Limonade\xf000봃\x0001\x0001$３５０
+Zurück
