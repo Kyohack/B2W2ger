@@ -3,21 +3,21 @@ Dein Name？
 Name der Box？
 Der Name deines Rivalen？
 Der Name deines Freundes？
-すれちがった　あいてへの　あいさつは？
-すれちがった　あいてへの　おれいは？
-すれちがった　あいてへ\xfffeつたえたい　メッセージは？
-Der Name dieser Stadt？\xfffe（トレーナーカードに　のります）
-Dein Titel？\xfffe（このまち　だけの　よばれかた　です）
-Meine Worte？\xfffe（せかいの　みんなに　つたわります）
+Wie begrüßt du Passanten？
+Wie bedankst du dich bei Passanten？
+Was ist deine Nachricht\xfffean Passanten？
+Der Name dieser Stadt？\xfffe（Speichere ihn auf deiner Trainerkarte）
+Dein Titel？\xfffe（Es geht nur um die Stadt）
+Meine Worte？\xfffe（Übermittelt an jeden auf dieser Welt）
 Gib dein Passwort ein.
-ゲームシンクＩＤコードを\xfffeにゅうりょく　してください
-かんどう　したときの　ことばは？\xfffe（せかいの　みんなに　つたわります）
-さんかしている　トレーナーへ\xfffeつたえたい　メッセージは？
+Bitte gib deine\xfffeSpielsynchro ID an.
+かんどう　したときの　ことばは？\xfffe（Übermittelt an jeden auf dieser Welt）
+Wie überbringst du Passanten\xfffeeine Nachricht？
 すれちがった　あいてへの\xfffeよろこびの　メッセージは？
 Der Name des Pokémons？
 Bitte gib den Namen ein！
 にゅうりょく　できる　すうじは\xfffe４もじ　まで　です
-ゲームシンクＩＤコードが\xfffeまちがっています
+Der Spielsynchro ID Code\xfffeist falsch.
 　
 　
 Willkommen！
