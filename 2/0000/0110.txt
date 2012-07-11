@@ -66,22 +66,22 @@ VGE２０２０
 トレーナーズコート
 バトルツアー
 コンサート
-Wi-Fiプレゼント
-ポケモンレンジャー
-レンジャーユニオン
+Wi-Fi Geschenk
+Pokémon Ranger
+Ranger Union
 PBR
 PDW
-ポケモンイベント１０
-ポケモンイベント１１
-ポケモンイベント１２
-ポケモンイベント１３
-ポケモンイベント１４
-ポケモンイベント１５
-ポケモンイベント１６
-ポケモンイベント１７
-ポケモンイベント１８
-ポケモンイベント１９
-ポケモンイベント２０
+Pokémon Event 10
+Pokémon Event 11
+Pokémon Event 12
+Pokémon Event 13
+Pokémon Event 14
+Pokémon Event 15
+Pokémon Event 16
+Pokémon Event 17
+Pokémon Event 18
+Pokémon Event 19
+Pokémon Event 20
 ポケモンフェスタ
 ポケモンフェスタ１０
 ポケモンフェスタ１１
@@ -94,16 +94,16 @@ PDW
 ポケモンフェスタ１８
 ポケモンフェスタ１９
 ポケモンフェスタ２０
-ポケパーク
-ポケパーク１０
-ポケパーク１１
-ポケパーク１２
-ポケパーク１３
-ポケパーク１４
-ポケパーク１５
-ポケパーク１６
-ポケパーク１７
-ポケパーク１８
-ポケパーク１９
-ポケパーク２０
+POKÉPARK
+POKÉPARK 10
+POKÉPARK 11
+POKÉPARK 12
+POKÉPARK 13
+POKÉPARK 14
+POKÉPARK 15
+POKÉPARK 16
+POKÉPARK 17
+POKÉPARK 18
+POKÉPARK 19
+POKÉPARK 20
 イベントかいじょう
