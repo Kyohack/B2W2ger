@@ -1,12 +1,12 @@
-Mach eien Infrastruktur-Verbindung\xfffemit dienem Freund.
-Infrastruktur-Verbindung fehlgeschlagen\xfffegehe zurueck zum Menue.
-Infrastruktur-Verbindung erfolgreich hergestellt.
-mach eine Infrastruktur-Verbindung\xfffemit dienem Freund.
-チェックちゅう　です\xfffeつうしんを　つづけてください
-したがめんの　メニューを\xfffeタッチで　スタート！
-Start Check
+Stelle eine Infrarotverbindung her,\xfffeum den Gefühlscheck mit jemanden zu starten.
+Infrarotverbindung fehlgeschlagen,\xfffegehe zurück zum Menü.
+Infrarotverbindung erfolgreich hergestellt.
+Stelle eine Infrastruktur-Verbindung\xfffemit deinem Freund her.
+Überprüfe...\xfffeBitte behalte die Infrarotverbindung bei.
+Berühre das Menü im Touchscreen,\xfffeum zu beginnen！
+Überprüfung starten
 Auflistung
-Zurueck
+Zurück
 Beenden
-Gefuehls check
-シーンが　ずれました\xfffeさきへ　すすみます
+Gefühlscheck
+Du möchtest fortfahren\xfffeund die Szene hat sich geändert.
