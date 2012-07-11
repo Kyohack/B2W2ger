@@ -4,19 +4,19 @@ Medaille nicht gewonnen
 \xf000봃\x0001\xf000Ȃ\x0001\x0000
 \xf000봃\x0001\xf000Ȃ\x0001\x0000／\xf000Ȃ\x0001\x0001
 Ausgewählte Medaille wurde ausgewählt\xfffeund wurde registriert.
-イチオシとうろくを\xfffeかいじょ　しました
+Auswahlregistrierung\xfffewurde beendet
 Die unbekannte(n) Medaille(n) konnten nicht ausgewählt und registriert werden！
 Wie willst du deine Medaillen übersetzen？
 In einer Liste
 Spalte
 Gewonnene Medaillen
 Nicht gewonnen
-しゅるいべつ
+Modus angeben
 Reihenfolge nach Namen
 Neuere
 Sortierung zurücksetzen
 Verlassen
-\xf000봃\x0001かくとくした　ひづけ
-\xf000봃\x0001もらった　ひづけ
+\xf000봃\x0001bekommen am
+\xf000봃\x0001Hinweis dazu erhalten am
 \xf000봃\x0001２０\xf000ȁ\x0001\x0000年　\xf000ȁ\x0001\x0001月　\xf000ȁ\x0001\x0002日
 メダルボックスに\xfffeせつめいしょが　はさまっていた\xf000븁\x0000\xfffeメダルボックス　きのう　せつめい\xf000븁\x0000\xfffeメダルに　カーソルを　あわせて\xfffeＡボタンを　おすか\xf000븀\x0000\xfffeみぎはしの　しかくを　タッチすると\xf000븁\x0000\xfffeその　メダルを\xfffeイチオシメダルに　とうろくします\xf000븁\x0000\xfffeイチオシメダルは　つうしんで\xfffeほかの　プレイヤーに　みせられます\xf000븁\x0000\xfffeまた　ＳＴＡＲＴボタンを　おすか\xfffeひだりしたの　ボタンを　タッチすると\xf000븀\x0000\xfffeメダルの　ひょうじを　かえられます
