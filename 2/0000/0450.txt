@@ -18,8 +18,11 @@
 
 
 
-
                             
+
+
+
+
 
 
 
@@ -380,6 +383,7 @@ Normal
 
 
 
+
 NormalForm
 
 
@@ -414,10 +418,10 @@ Pflanzenform
 
 
 
+
 Sonnentagsform
 Westlich
 Westlich
-
 
 
 
@@ -542,9 +546,9 @@ Arceus
 
 
 
+
+
 あかすじのすがた
-
-
 
 
 
@@ -581,6 +585,9 @@ Trance-Form
 
 Frühlingsform
 Frühlingsform
+
+
+
 
 
 
