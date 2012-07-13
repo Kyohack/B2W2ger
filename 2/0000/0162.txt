@@ -1,12 +1,12 @@
 Match
 Nr. 1
-いまひとつ
+schlechter Kampf
 Vorbereitung
 Siege
 Kein Match
 Geist
 Volltreffer
-きりふだ
+Ass-Karte
 Komm schon！
 wirkungslos
 Angriff
@@ -28,7 +28,7 @@ Gegner
 Genie
 Legende
 Trainer
-ばつぐん
+guter Kampf
 Kampf
 Notfall
 Kampf
