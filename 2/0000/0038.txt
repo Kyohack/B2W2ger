@@ -6,15 +6,15 @@ SPIELER
 SICHERN
 OPTIONEN
 　
-チャット
+Chat
 　
-リタイア
-ずかんを　せんたくしました
-ポケモンステータスを　せんたくしました
-バッグを　せんたくしました
-トレーナーカードを　せんたくしました
-レポートを　せんたくしました
-せっていを　せんたくしました
-ポケモンレポートに　かきこんでいます
-ポケモンレポートに\xfffeしっかり　かきのこした！
-つうしんちゅうは　レポートを　かけません
+Zurücksetzen
+Pokedex ausgewählt
+Pokemon Status ausgeählt
+Tasche ausgewählt
+Trainer Ausweis ausgewählt
+Speichern ausgewählt
+Optionen ausgewählt
+Es wurde gespeichert
+Das Spiel wurde\xfffegespeichert！
+Kommunikation kann nicht gespeichert werden
