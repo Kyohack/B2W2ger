@@ -198,4 +198,4 @@ Es befindet sich nicht an einer geeigneten\xfffeStelle, um dieses Item einzusetz
 Der Handlungsspielraum von \xf000Č\x0001\x0000\xfffeist aufgrund von Freier Fall eingeschränkt!
 Ein Spieler hat den Kampf aufgegeben.
 (\xf000Ȁ\x0001\x0000) Metronom \xf000Ȃ\x0001\x0001: \xf000ć\x0001\x0002
-あっ！　やせい？の\xfffe\xf000ā\x0001\x0000が　あらわれた！
+Oh! Ein wildes \xfffe\xf000ā\x0001\x0000erscheint！
