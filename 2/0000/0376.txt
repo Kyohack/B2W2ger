@@ -1,17 +1,17 @@
-おひさしぶり？　はじめまして？\xfffeおぼえてないけど　ヨロシクね！
-ヤホホ！　ヤッホーイ！\xfffeまた　かっちゃったぞ！
-トホ……　トホホーイ……\xfffeまた　まけちゃったよ……
-よっしゃ　いっくぜー！　\xfffeぼくの　パワー　みせてやる！
-ドッキリしたか！　ビックリしたか！\xfffeぼくの　ポケモンの　パワーにっ！！
-すごいな　キミの　パワーは！\xfffeビックリで　ドッキリだよ！
-めっ　めい　あい　へるぷ　ゆー！？
-おぅ！　おぅー！\xfffeいえす　うぃー　きゃん！？
-あ　ああ　あんびりー　ばぼー！？
-こぞう　だからって　ゆだんしてると\xfffeきみ　ないちゃう　かもしれないよー
-こぞうだけど　ポケモンの　うでなら\xfffeおとなにも　まけるきが　しないね
-ふえーん！　まだ　こぞうなのにー！\xfffeほんきの　しょうぶなんて　ひどいよー
-ドッキドキで　ワックワクな\xfffeポケモンしょうぶに　しようね！
-ムフフ！　ムッフフの　フ！\xfffeかったら　やっぱりうれしいね！
+Haben wir uns schon getroffen? Ich kann\xfffemich nicht erinnern. Schön dich zu sehen!
+Juhu! Ju-Huuu!\xfffeIch habe schon wieder gewonnen!
+Nein, nein... Neeein...\xfffeIch habe schon wieder verloren...
+Alles klar!\xfffeIch zeige dir meine Macht!
+Erstaunt? Überrascht?\xfffeVon der Power meiner Pokémon?!
+Du bist unbesiegbar!\xfffeIch bin erstaunt und überrascht!
+Kann... Kann ich dir helfen?!
+Oh! Oh!\xfffeJa, wir können?!
+Un-un-unglaublich!
+Lasse deinen Schutz nicht fallen,\xfffeoder du weinst wenn ein Kind dich besiegt...
+Ich bin vielleicht jung, aber ich weiß\xfffedas ich nicht gegen größere verliere.
+Oha! Ich bin nur ein Kind!\xfffeDu kämpfst schon länger!
+Lass uns einen ausgezeichneten\xfffePokémon Kampf haben!
+Mmmph! Mmmmmph!\xfffeDu siehst, es macht Spaß zu gewinnen!
 キミに　ドッキ　ドキドキ！\xfffeわたしは　ボッロ　ボロボロ……
 マジの　しょうぶ　マジはじめっからー\xfffeじゅんびとか　かくごとか　オーケー？
 やっぱ　マジの　しょうぶして\xfffeマジに　かつとか　マジさいこー！
@@ -42,10 +42,10 @@
 こんなとこで　まけてたら\xfffeナンバーワンに　なれないわ
 あん？　うちと　しょうぶすんの？\xfffeもー　しゃあないなー
 あーあ　いわんこっちゃない\xfffeうち　せめんといてなー
-はー　すごいなぁー　かなわんわー\xfffeあんたの　ポケモン　ごっついわー
-ブツブツ……　ブツブツ……\xfffeブツブツ……　ブツブツ……
-ブツブツ……　ブツブツ……\xfffe……あれ？　かっちゃった？
-ブツブツ……　ブツブツ……\xfffe……あれ？　もう　おしまい？
+Oh, wow. Ich bin nicht Kampfwürdig.\xfffeDeine Pokémon sind super.
+Mrrrrr... Mmrr grrr...\xfffeGrrrrr... Mrrrrr...
+Grrrrr... Mmrrrr...\xfffe...Oh? Habe ich gewonnen?
+Grrrrmmm... Mrrr...\xfffeOh? Ist es das?
 みらいの　せかいを　しょってたつ\xfffeスーパーエリート　とうじょうだぜ
 かくのさが　でてしまったぜ\xfffeキミの　みらいが　しんぱいだぜ
 ちょうしに　のりすぎだったぜ\xfffeボクの　みらいが　しんぱいだぜ
