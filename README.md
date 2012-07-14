@@ -11,7 +11,7 @@ wowfreak3000
 MLess     
 D00Z    
 UndefeatedChampion    
-scream12345 [inactive]    
+scream12345 
 Ludicario [inactive]    
 Thechandrians [inactive]    
 
@@ -22,20 +22,18 @@ Thread: http://pokestation.net/forum/showthread.php?14123-Translation-project-fo
 [MotD] - Short announcement
 ======
 
-(letztes Update: 05.07.2012, 21:04 Uhr)
+(letztes Update: 15.07.2012, 02:04 Uhr)
 
 
 Hi everybody, this announcement will be written in german:
 
-Zuerst möchte ich mich nochmal für die ganzen Übersetzungen bedanken, dafür, dass es sich hierbei um freiwllige Arbeit handelt, und ihr dementsprechend eure Freizeit
-in unser Projekt investiert, solltet ihr echt gelobt werden! Vielen Dank, ich hoffe ihr bleibt uns auch weiterhin bestehen.
+Wir kommen dem Ziel, auf Version 2.0 umzusteigen, immer näher. Dank eurer tatkräftigen Unterstützung gibt es wöchentliche Versionsaufstiege, die von Kyohack angefertigt werden.
+Es haben sich wirklich viele neue Übersetzer (und Interessenten) bei mir via Skype gemeldet. Vielen Dank dafür. Ich werde demnächst eine Gruppenkonferenz starten und alle Übersetzer
+der Gruppe/Konferenz hinzufügen, damit die Kommunikation untereinander verbessert wird.
 
-Jetzt aber zur eigentlichen Ankündigung: 
+Vielen Dank, ihr und eure Arbeit ist goldwert!
 
-Ich bitte alle Übersetzer, sich mit mir über Skype und/oder ICQ auseinanderzusetzen und mich zu eurer Kontaktliste hinzuzufügen.
-Da wir aktuell nicht wissen, wer überhaupt noch dabei ist und das Team aktuell dementsprechend (verständlich) verwirrt ist wollen wir eine Art Neuanfang im Team starten.
-
-Nachfolgend meine Adressen für Skype und ICQ (bevorzugt):
+Wer dem Team beitreten möchte, der möchte sich bitte über die untenstehenden Adressen bei mir melden.
 
 Skype: nfreak1    
 ICQ: 380523956
