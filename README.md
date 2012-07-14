@@ -27,7 +27,7 @@ Thread: http://pokestation.net/forum/showthread.php?14123-Translation-project-fo
 
 Hi everybody, this announcement will be written in german:
 
-Wir kommen dem Ziel, auf Version 2.0 umzusteigen, immer näher. Dank eurer tatkräftigen Unterstützung gibt es wöchentliche Versionsaufstiege, die von Kyohack angefertigt werden.
+Wir kommen dem Ziel, auf Version 2.0 umzusteigen immer näher. Dank eurer tatkräftigen Unterstützung gibt es wöchentliche Versionsaufstiege, die von Kyohack angefertigt werden.
 Es haben sich wirklich viele neue Übersetzer (und Interessenten) bei mir via Skype gemeldet. Vielen Dank dafür. Ich werde demnächst eine Gruppenkonferenz starten und alle Übersetzer
 der Gruppe/Konferenz hinzufügen, damit die Kommunikation untereinander verbessert wird.
 
