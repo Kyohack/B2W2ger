@@ -38,7 +38,7 @@ Wer dem Team beitreten möchte, der möchte sich bitte über die untenstehenden 
 Skype: nfreak1    
 ICQ: 380523956
 
-Bitte fügt mich zeitnah hinzu.
+Bitte gebt beim hinzufügen (bei einem der oben genannten Messengern) unbedingt euren GitHub-Benutzernamen an, damit ich euch richtig zuordnen kann!
 
 Important Stuff
 =====
