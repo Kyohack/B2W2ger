@@ -31,7 +31,7 @@ Wir kommen dem Ziel, auf Version 2.0 umzusteigen immer näher. Dank eurer tatkr�
 Es haben sich wirklich viele neue Übersetzer (und Interessenten) bei mir via Skype gemeldet. Vielen Dank dafür. Ich werde demnächst eine Gruppenkonferenz starten und alle Übersetzer
 der Gruppe/Konferenz hinzufügen, damit die Kommunikation untereinander verbessert wird.
 
-Vielen Dank, ihr und eure Arbeit ist goldwert!
+Vielen Dank, eure (freiwillige-) Arbeit ist goldwert!
 
 Wer dem Team beitreten möchte, der möchte sich bitte über die untenstehenden Adressen bei mir melden.
 
