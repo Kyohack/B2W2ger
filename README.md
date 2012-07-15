@@ -18,7 +18,7 @@ Thechandrians [inactive]
 Special thanks to Thechandrians.
 
 Thread: http://pokestation.net/forum/showthread.php?14123-Translation-project-for-Pok%E9mon-Black2-amp-White2
-
+________________
 [MotD] - Short announcement
 ======
 
@@ -39,7 +39,7 @@ Skype: nfreak1
 ICQ: 380523956
 
 Bitte gebt beim hinzufügen (bei einem der oben genannten Messengern) unbedingt euren GitHub-Benutzernamen an, damit ich euch richtig zuordnen kann!
-
+________________
 Important Stuff
 =====
 
@@ -73,7 +73,7 @@ OLD (new list will follow soon): To-Do-List: Official Translation To-Do-List of 
 Vielen Dank für eure Unterstützung. Ohne euch wären wir längst nicht so weit!
 
 PS: Achtet auf Rechtschreibung. MLess is watching you!
-
+________________
 mögliche Einzelnachweise
 ====
 
