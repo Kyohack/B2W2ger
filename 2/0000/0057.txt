@@ -4,7 +4,7 @@ Dein Gegner wurde gefunden!
 Du kannst beginnen!\xfffeDrücke A.
 Du gewinnst
 Du verlierst
-Es ist ein Unentschieden
+Es steht Unentschieden
 つうしん　たいきちゅう
 Ｗｉ－Ｆｉたいかいに　さんか
 An einem Turnier teilnehmen
