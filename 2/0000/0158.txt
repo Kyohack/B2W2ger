@@ -2,14 +2,14 @@ Pokémon
 Status
 Attacken
 Trainer
-ユニオ
+Gegend
 Begrüßung
 Personen
 Leben
 Stimmung
 Bild
-ようご
+Begriff
 Kommunikation
 Stimme
-？？？
+???
 Zurück
