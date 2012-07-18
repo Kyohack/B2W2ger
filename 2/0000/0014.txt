@@ -1,5 +1,5 @@
 Was soll \xf000Ă\x0001\x0000 machen?
-マーキング　してください
+Bitte markieren!
 Dieses Pokémon wirklich freilassen?
 \xf000Ă\x0001\x0000 ist wieder frei.
 Mach's gut \xf000Ă\x0001\x0000！
@@ -16,7 +16,7 @@ Hat \xf000ĉ\x0001\x0000 gefunden！
 \xf000ĉ\x0001\ wird nun getragen.
 Welchen nimmst du?
 In welcher Box ablegen?
-もちものなし
+Hält kein Item!
 ♂
 ♀
 Nimm das \xf000ĉ\x0001\x0000?
@@ -27,7 +27,7 @@ Der Brief kann nicht weggenommen werden.
 Es kann kein Item tragen.
 Bitte entferne den Brief！
 Du kannst kein Ei freilassen！
-がったいした　キュレムは　にがせません！
+Du kannst keine Kyurem-Fusion freilassen！
 \xf000Ă\x0001\x0000が kam zurück！
 War es um dich besorgt?
 Ein Ei kann kein Item tragen.
