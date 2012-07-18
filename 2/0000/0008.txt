@@ -31,7 +31,7 @@ Herbst
 \xf000Ā\x0001\x0000　Aufnahmen löschen
 SUCHE NACH WERTUNG
 Daten senden
-Neusten ３０
+Neusten 30
 Suche
 Suche nach Nr.
 Suche nach Schwierigkeit
@@ -43,18 +43,18 @@ Sende Foto
 Betrachte Foto
 Senden
 Bitte wähle das Pokémon aus, das du sehen willst.
-\xf000Ā\x0001\x0000　の　しゃしん\xfffe\xf000Ĝ\x0001\x0001
+\xf000Ā\x0001\x0000 Porträt\xfffe\xf000Ĝ\x0001\x0001
 \xf000Ā\x0001\x0000\xfffe\xf000Ĝ\x0001\x0001
 Foto
-ボックスをおくる
-ボックスをみる
+Box-Daten senden
+Box-Daten ansehen
 Favorit
 Cool
 Süß
-おすすめ
+Empfohlen
 Spaß
-こだわり
-ボックス
+Auswählen
+Box
 Betrachte Foto
 ABC
 DEF
@@ -65,10 +65,10 @@ PQR
 STU
 VWX
 YZ
-ワ
-こんしゅうのランキング
-せんしゅうのランキング
-ランキングきりかえ
+
+Rankings der Woche
+Rankings der letzten Woche
+Wchsele Ranking
 Wechsele Teams
 Team: Trainer Typ
 Team: Geburtsmonat
@@ -90,7 +90,7 @@ TOP-KAMPFVIDEOS VON LINKKÄMPFEN
 TOP-KAMPFVIDEOS AUS DER KAMPFMETRO
 LISTE VON KAMPFVIDEOS AUS\xfffeDEN SUCHERGEBNISSEN
 
-\xf000Ā\x0001\x0000の Wo willst du dein Kampfvideo speichern？
+Wo willst du \xf000Ā\x0001\x0000's Kampfvideo speichern？
 Überschreiben
 Kampfvideo von \xf000Ā\x0001\x0000 wird gelöscht.\xfffeEinverstanden?
 Betrachte Kampfvideos
@@ -334,11 +334,11 @@ Empfange Kampfvideo……
 あてはまる　ミュージカルショットが\xfffeありません……
 Dein Kampfvideo wurde gesendet. \xfffeビデオナンバー：\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002\xfffe
 Das Spiel wird gespeichert bevor\xfffe du die Kampfvideos sehen kannst.
-きろくを　けしています……\xfffeレポートを　たくさん　かいています……
-レポートを　たくさん　かいています……
-Speichert……\xfffe Nintendo DS nicht ausschalten!
-ランキングが　ありません……
-バトルビデオを　おくりますか？
+Löschvorgang... Speichert eine Menge\xfffean Daten. System nicht ausschalten!
+Speichert eine Menge an Daten\xfffeBitte das System nicht ausschalten!
+Speichert……\xfffeBitte das System nicht ausschalten!
+Es gibt keine Ranking-Daten\xfffeBerühre den Touchscreen um fortzufahren.
+Möchtest du dein Kampfvideo verschicken?
 
 　
 　
@@ -347,26 +347,26 @@ Speichert……\xfffe Nintendo DS nicht ausschalten!
 　
 　
 　
-だいすきボックス　さいしん２０けん
-かっこいいボックス　さいしん２０けん
-かわいいボックス　さいしん２０けん
-おすすめボックス　さいしん２０けん
-おもしろいボックス　さいしん２０けん
-こだわりボックス　さいしん２０けん
+Letzten 20 in der Favoriten PC Box
+Letzten 20 in der coolen PC Box
+Letzten 20 in der süßen PC Box
+Letzten 20 in der empfohlenen PC Box
+Letzten 20 in der Spaß PC Box
+Letzten 20 in der Auswahl PC Box
 Schulkind♂
 Käfersammmler
 Ass Trainer♂
-スキンヘッズ
-いせきマニア
+Glatzkopf
+Ruinenmaniac
 Schwarzgurt
 Schnösel
 Psycho♂
-ミニスカート
-バトルガール
+Göre 
+Kämpferin
 Schönheit
 Ass Trainer♀
-アイドル
-マダム
+Idol
+Dame
 Cowgirl
 Frau
-ブラック．
+Goldver．
