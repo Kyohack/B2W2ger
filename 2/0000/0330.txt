@@ -1,29 +1,29 @@
-きゃくほん
-カット　０１
-カット　０２
-カット　０３
-カット　０４
-カット　０５
-カット　０６
-カット　０７
-カット　０８
-カット　０９
-カット　１０
-カット　１１
-カット　１２
-カット　１３
-カット　１４
-カット　１５
-カット　１６
-カット　１７
-カット　１８
-カット　１９
-カット　２０
-あいての　こうげきから　みを　まもれ！\xfffeセリフのせんたくが　じゅうよう！
-あいての　とくせいを　かえろ！
-たいりょくに　きをつけろ！
-あいての　こうげきを　たえろ！
-あいての　こうげきを　たえろ！
+Szenario
+Aufnahme　０１
+Aufnahme ０２
+Aufnahme　０３
+Aufnahme　０４
+Aufnahme　０５
+Aufnahme　０６
+Aufnahme　０７
+Aufnahme　０８
+Aufnahme　０９
+Aufnahme　１０
+Aufnahme　１１
+Aufnahme　１２
+Aufnahme　１３
+Aufnahme　１４
+Aufnahme　１５
+Aufnahme　１６
+Aufnahme　１７
+Aufnahme　１８
+Aufnahme　１９
+Aufnahme　２０
+Schütze dich vor der gegnerischen Attacke！\xfffeセリフのせんたくが　じゅうよう！
+Ändere die gegnerische Fähigkeit！
+Sei vorsichtig mit deinen HP！
+Ändere die gegnerische Attacke！
+Ändere die gegnerische Attacke！
 Kein
 Kein
 Kein
