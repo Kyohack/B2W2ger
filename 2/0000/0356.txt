@@ -1,24 +1,24 @@
-ポケモンのかず
-ポケモンの　レベル
-とくべつなポケモン
-おなじポケモン
-おなじ　どうぐ
-ミラクルシューター
-：せいげんなし
+Pokémonanzahl
+Pokémon Level
+Besondere Pokémon
+Dieselben Pokémon
+Dieselben Items
+Wunderwerfer
+：Keine Beschränkungen
 ：\xf000Ȁ\x0001\x0000ひき
-：\xf000Ȁ\x0001\x0000ひき　いじょう
-：\xf000Ȁ\x0001\x0000　～　\xf000Ȁ\x0001\x0001ひき
-：せいげんなし
+：\xf000Ȁ\x0001\x0000 oder mehr
+：\xf000Ȁ\x0001\x0000　bis zu　\xf000Ȁ\x0001\x0001
+：Keine Beschränkungen
 ：\xf000Ȃ\x0001\x0000になる
 ：\xf000Ȃ\x0001\x0000まで
 ：\xf000Ȃ\x0001\x0000いじょう
 ：\xf000Ȃ\x0001\x0000いかに　なる
 ：\xf000Ȃ\x0001\x0000いじょうに　なる
-：さんかできる
-：さんかできない
-：さんかできる
-：さんかできない
-：もたせられる
-：もたせられない
-：あり
-：なし
+：Erlaubt
+：Verboten
+：Erlaubt
+：Verboten
+：Erlaubt
+：Verboten
+：An
+：Aus
