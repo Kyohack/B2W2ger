@@ -4,7 +4,7 @@ Nein
 Der Verlauf dieses Kampfes geht\xfffedamit verloren. Einverstanden?
 Ja
 Nein
-Die Daten deines letzten Kampfvideos\xfffewerden ueberschrieben. Einverstanden?
+Die Daten deines letzten Kampfvideos\xfffewerden überschrieben. Einverstanden?
 Ja
 Nein
 Das Kampfvideo wird gespeichert.\xfffeBitte das System nicht ausschalten.
@@ -18,25 +18,25 @@ ZEIT
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
 \xf000ȁ\x0001\x0001
 ALTES VIDEO
-Kolosseum, Einzel\xfffeKeine Einschraenkungen
+Kolosseum, Einzel\xfffeKeine Einschränkungen
 Kolosseum, Einzel\xfffeHandicapkampf
-Kolosseum, Einzel\xfffeKeine Einschraenkungen, mit Werfer
+Kolosseum, Einzel\xfffeKeine Einschränkungen, mit Werfer
 Kolosseum, Einzel\xfffeHandicapkampf mit Werfer
-Kolosseum, Doppel\xfffeKeine Einschraenkungen
+Kolosseum, Doppel\xfffeKeine Einschränkungen
 Kolosseum, Doppel\xfffeHandicapkampf
-Kolosseum, Doppel\xfffeKeine Einschraenkungen, mit Werfer
+Kolosseum, Doppel\xfffeKeine Einschränkungen, mit Werfer
 Kolosseum, Doppel\xfffeHandicapkampf mit Werfer
-Kolosseum, Dreierkampf\xfffeKeine Einschraenkungen
+Kolosseum, Dreierkampf\xfffeKeine Einschränkungen
 Kolosseum, Dreierkampf\xfffeHandicapkampf
-Kolosseum, Dreierkampf\xfffeKeine Einschraenkungen, mit Werfer
+Kolosseum, Dreierkampf\xfffeKeine Einschränkungen, mit Werfer
 Kolosseum, Dreierkampf\xfffeHandicapkampf mit Werfer
-Kolosseum, Reihum\xfffeKeine Einschraenkungen
+Kolosseum, Reihum\xfffeKeine Einschränkungen
 Kolosseum, Reihum\xfffeHandicapkampf
-Kolosseum, Reihum\xfffeKeine Einschraenkungen, mit Werfer
+Kolosseum, Reihum\xfffeKeine Einschränkungen, mit Werfer
 Kolosseum, Reihum\xfffeHandicapkampf mit Werfer
-Kolosseum, Multi\xfffeKeine Einschraenkungen
+Kolosseum, Multi\xfffeKeine Einschränkungen
 Kolosseum, Multi\xfffeHandicapkampf
-Kolosseum, Multi\xfffeKeine Einschraenkungen, mit Werfer
+Kolosseum, Multi\xfffeKeine Einschränkungen, mit Werfer
 Kolosseum, Multi\xfffeHandicapkampf mit Werfer
 Kampfmetro\xfffeEinzel
 Kampfmetro\xfffeDoppel
