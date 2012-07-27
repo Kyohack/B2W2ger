@@ -6,16 +6,16 @@ BERICHT
 WEITER
 RENNEN
 ZURÜCK
-SCHLIEßEN
+SCHLIESSEN
 ZEIGEN
 DUMMY
-RÜCKGÄNGIG
+ABBRECHEN
 TASCHE
-MAIL
+BRIEF
 NEHMEN
 GEBEN
 ANSCHAUEN
-Nichts
+NICHTS
 AUFHEBEN
 ???
 ?????
@@ -51,42 +51,42 @@ Wieviele\xfffe\xf000ĉ\x0001\x0000 speichern?
 \xf000ĉ\x0001\x0000を\xfffe\xf000ȁ\x0001\x0001コ　あずけました
 Du kannst nicht mehr lagern！
 Das ist ein wichtiges Item\xfffedu kannst es nicht wegwerfen！
-Wieviele möchtest du \xfffe\xf000ĉ\x0001\x0000(s) wegwerfen?
+Wie viele möchtest du \xfffe\xf000ĉ\x0001\x0000(s) wegwerfen?
 Werfe \xf000ĉ\x0001\x0000を \xf000Ȃ\x0001\x0001(s) weg.
-Ist es in Ordnung, dass\xfffe\xf000ĉ\x0001\x0000を \xf000Ȃ\x0001\x0001(s) weggeworfen wird?
+Ist es in Ordnung, dass\xfffe\xf000ĉ\x0001\x0000 \xf000Ȃ\x0001\x0001(s) weggeworfen wird?
 Professor Esche sagt immer \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000\dies ist weder der\xffferechte Ort noch die Rechte Zeit dafür!
 Du kannst hier nicht vom Fahrrad absteigen！
 Professor Esche sagt immer \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000\dies ist weder der\xffferechte Ort noch die Rechte Zeit dafür!
 Du hast　\xf000Ȅ\x0001\x0000 Münzen.
 Eine TM wurde aktiviert!
 Eine VM wurde aktiviert!
-Möchtest du \xf000ć\x0001\x0000.\xf000븁\x0000Teach \xf000ć\x0001\x0000\xfffeeinem Pokemon beibringen?
-\xf000Ā\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　つかった！
+Möchtest du \xf000ć\x0001\x0000.\xf000\x0000\xf000ć\x0001\x0000\xfffeeinem Pokemon beibringen?
+\xf000Ā\x0001\x0000 hat\xfffe\xf000ĉ\x0001\x0001 eingesetzt！
 Schutz wirkt bereits!
-\xf000Ā\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　つかった！\xf000븁\x0000\xfffeポケモンと\xfffeそうぐう　しやすくなった！
-\xf000Ā\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　つかった！\xf000븁\x0000\xfffeポケモンと\xfffeそうぐう　しにくくなった！
+\xf000Ā\x0001\x0000 hat\xfffe\xf000ĉ\x0001\x0001 eingesetzt！\xf000븁\x0000\xfffeWilde Pokémon\xfffewerden angelock！
+\xf000Ā\x0001\x0000 hat\xfffe\xf000ĉ\x0001\x0001 eingesetzt！\xf000븁\x0000\xfffeWilde Pokémon\xfffewerden abgeschreckt！
 Die Box ist Voll！
 Puder:　\xf000ȃ\x0001\x0000
-\xf000봂\x0000Ｎｏ．\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
-Ｎｏ\xf000Ȃ\x0001\x0000\xf000ć\x0001\x0001
-\xf000봂\x0000ひでん\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
+\xf000봂\x0000Nr. \xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
+Nr. \xf000Ȃ\x0001\x0000\xf000ć\x0001\x0001
+\xf000봂\x0000Versteckt \xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
 Beeren Puder
-Spielt auf der Poke-Flöte!\xfffeWOW! Das hört sich gut an！
+Spielt auf der Poke-Flöte!\xfffeWow! Das hört sich gut an！
 Spielt auf der Poke-Flöte!
 Das Pokemon hörte die\xfffeFlöte und wachte auf.
-Bewegen
-Du kannst \xf000ĉ\x0001\x0000 nicht kaufen.
-\xf000ĉ\x0001\x0000を\xfffeいくつ　うりますか？
-それなら　\xf000Ȇ\x0001\x0000円で\xfffeおひきとり　いたしましょう
-\xf000ĉ\x0001\x0000を　わたして\xfffe\xf000Ȇ\x0001\x0001円を　うけとった
-おこづかい
-\xf000Ȇ\x0001\x0000円
-×\xf000ȁ\x0001\x0000
-＋\xf000Ȇ\x0001\x0000円
-はい
-いいえ
-うる
-×\xf000Ȃ\x0001\x0000
+BEWEGEN
+Du kannst \xf000ĉ\x0001\x0000 nicht verkaufen.
+\xf000ĉ\x0001\x0000?\xfffeWie viele verkaufst du?
+Dafür gebe ich dir \xf000Ȇ\x0001\x0000 $.\xfffeBist du einverstanden?
+\xf000ĉ\x0001\x0000 im Tausch gegen \xfffe\xf000Ȇ\x0001\x0001 $ übergeben.
+GELD
+$\xf000Ȇ\x0001\x0000
+x\xf000ȁ\x0001\x0000
++$\xf000Ȇ\x0001\x0000
+JA
+NEIN
+VERKAUFEN
+x\xf000Ȃ\x0001\x0000
 Flucht
 AP
 Kraft
@@ -94,68 +94,68 @@ Genauigkeit
 Kategorie
 \xf000ȁ\x0001\x0000
 \xf000Ȃ\x0001\x0000
-シール　\xf000ȃ\x0001\x0000まい
-アクセサリー　\xf000Ȃ\x0001\x0000こ\xfffeかべがみ　　　　\xf000ȁ\x0001\x0001まい
-Tasche schließen
-うめる
-Öffnen
-たまった　バトルポイント\xfffe\xf000ȃ\x0001\x0000ＢＰ
-Typ
-バッグに　いれてある　どうぐを\xfffeべんりボタンに　とうろく　できます
-Du kannst nicht mehr als ２Items registrieren！
-ＧＢプレイヤーの　でんげんを　\xfffeいれた！
-ＧＢプレイヤーの　でんげんを\xfffeきった！
-\xf000ĉ\x0001\x0000は　つかえません
-たからぶくろ　の　なかを\xfffeのぞいた！
-\xf000ĉ\x0001\x0000　を\xfffeとりだした！
-\xf000ĉ\x0001\x0000　を\xfffe\xf000ĉ\x0001\x0001　に　しまった
-ぜんぶ　とりだした！
-なかには　なにも\xfffeなかった……
-しかし　いっぱいで\xfffeとりだせ　なかった……
-バッテリー　が　たりない！\xfffeじゅうでん　かんりょうまで\xf000븀\x0000\xfffeあと　\xf000ȁ\x0001\x0000ほ　
-くさむらは\xfffeしずか　だった……
-ポフィンのかず
-\xf000Ȃ\x0001\x0000／１００
-りょうりに　つかう　きのみを\xfffeバッグから　えらんで　ください！
-ふたりで　いるときは\xfffe\xf000ĉ\x0001\x0001は　つかえません！
-いまは　それどころじゃ　ない！
-どうぐ　ポケット\xfffeぼうけんに　やくだつ\xfffeべんりな　どうぐを　いれます
-かいふく　ポケット\xfffeポケモンの　ＨＰや　ＰＰを\xfffeかいふくさせる　どうぐを　いれます
-ボール　ポケット\xfffeさまざまな　しゅるいの\xfffeモンスターボールを　いれます
-わざマシン　ポケット\xfffeさまざまな　しゅるいの\xfffeわざマシンを　いれます
-きのみ　ポケット\xfffeたくさんの　きのみを\xfffeせいりして　いれます
-メール　ポケット\xfffeカラフルな　びんせんを\xfffeせいりして　いれます
-せんとうよう　ポケット\xfffeポケモンしょうぶで　やくだつ\xfffeどうぐを　いれます
-たいせつなもの　ポケット\xfffeぼうけんに　なくてはならない\xfffeどうぐを　いれます
-とめる
+Siegel: \xf000ȃ\x0001\x0000
+Accessiores: \xf000Ȃ\x0001\x0000こ\xfffeHintergründe: \xf000ȁ\x0001\x0001
+BEUTEL SCHLIESSEN
+PFLANZEN
+ÖFFNEN
+Gesammelte Kampfpunkte: \xfffe\xf000ȃ\x0001\x0000 BP
+TYP
+Ein BASIS-ITEM aus deinem BEUTEL kann\xfffeauf diesen Knopf gelegt werden.
+Du kannst nicht mehr als 2 Items registrieren!
+GB Sounds sind jetzt\xfffeaktiviert!
+BG Sounds sind jetzt\xfffedeaktiviert!
+\xf000ĉ\x0001\x0000 kann nicht verwendet werden.
+In die Schatzkiste gespäht!
+\xf000ĉ\x0001\x0000 herausgenommen!
+\xf000ĉ\x0001\x0000 in die \xfffe\xf000ĉ\x0001\x0001 gepackt.
+Du hast alles rausgenommen!
+Da war nichts drin...
+Jedenfalls konntest du es nicht\xfffeherausnehmen...
+Batterie fast leer!\xfffeBitte warte \xf000\xbe00\x0000\xf000\x0201\x0001\x0000 Schritte bis\xfffebis es wieder aufgeladen ist!
+Die Graslandschaft ist still...
+Knursp:
+\xf000Ȃ\x0001\x0000／100
+Wähle ein Puder aus mit dem\xfffedu Kochen möchtest!
+Kann nicht benutzt werden wenn du\xfffe\xf000ĉ\x0001\x0001bei dir hast.
+Du kannst das jetzt nicht machen!
+Item-Tasche\xfffeFür Items, die dir auf deinem Abenteuer\xfffenützlich sein werden.
+Medizin-Tasche\xfffeFür Items, die KP und AP deiner\xfffePokémon wiederherstellen.
+Ball-Tasche\xfffeFür alle Arten von Pokébällen.
+TM-/VM-Tasche\xfffeFür alle Arten von TMs und VMs.
+Beeren-Tasche\xfffeZum sammeln und organisieren von\xfffeverschiedenen Beeren.
+Brief-Tasche\xfffeZum sammeln und organisieren von\xfffekunterbuntem Briefpapier.
+Kampf-Item-Tasche\xfffeFür Items, die im Kampf\xfffenützlich sein können.
+Basis-Item-Tasche\xfffeFür Items, die unersetzlich für\xfffedein Abenteuer sind.
+Stopp
 \xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
-はい
-いいえ
-\xf000봂\x0000\xf000ĉ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
+JA
+NEIN
+\xf000\x0000\xf000ĉ\x0001\x0000
 Es ist leer.
-Du hast einen Dunkelstein benutzt aber nichts geschieht……
-Du hast einen Leuchtstein benutzt aber nichts geschieht……
-Deine Items wurden\xfffesortiert!
+Du hast einen Dunkelstein benutzt\xfffeaber nichts geschieht...
+Du hast einen Leuchtstein benutzt\xfffeaber nichts geschieht...
+So, jetzt ist alles aufgeräumt!
 \xf000Ē\x0001\x0000
-\xfffemöchte nach Typen sortieren!
-\xfffemöchte nach Namen sortieren!
-おおいじゅんに\xfffeもちものを　せいり　しました！
-すくないじゅんに\xfffeもちものを　せいり　しました！
-Total
-Spezialfach
-Zurück nehmen
-Bitte wähle das \xfffenach dem du suchst!
-\xf000Ē\x0001\x0000に　いれる　もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
-\xf000ĉ\x0001\x0001 \xfffe\xf000Ē\x0001\x0000wurde verschoben!
-\xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　もどしました！
-Welche Sortierung möchtest du nutzen?
+Deine Items wurden nach\xfffeTyp sortiert!
+Deine Items wurden nach\xfffeNamen sortiert!
+Deine Items wurden nach\xfffeabsteigend sortiert!
+Deine Items wurden nach\xfffeaufsteigend sortiert!
+ALLE
+LAGERN
+ZURÜCKPACKEN
+Bitte wähle aus\xfffewonach du suchst!
+Das gefundene \xf000Ē\x0001\x0000 wurde in die \xfffe\xf000Ȃ\x0001\x0001 gepackt!
+\xf000ĉ\x0001\x0001 wurde in die \xfffe\xf000Ē\x0001\x0000 wurde verschoben!
+\xf000ĉ\x0001\x0001 wurde in die \xfffe\xf000Ē\x0001\x0000 zurückgelegt!
+Wie möchtest du sortieren?
 Nach Typ
 Nach Name
-おおいじゅん
-すくないじゅん
+Absteigend
+Aufsteigend
 Nach Zahlen
-もちものが\xfffe\xf000Ȃ\x0001\x0001 Sachen gefunden!
-\xfffemöchte nach Zahlen sortieren!
+\xfffe\xf000Ȃ\x0001\x0001 Items gefunden!
+Deine Items wurden nach\xfffeZahlen sortiert!
 Nicht gefunden
 Weglegen
