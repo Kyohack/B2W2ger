@@ -1,8 +1,8 @@
-Bitte nehme deine Position ein, \xfffeum den Kampf zu starten.
-Bitte warte einen Augenblick. \xfffe……Drücke Ｂ, um abzubrechen
-Nun wähle die \xfffe３teilnehmenden Pokémon aus. \xf000븁\x0000
-Nun wähle die \xfffe４teilnehmenden Pokémon aus. \xf000븁\x0000
-Nun wähle die \xfffe６teilnehmenden Pokémon aus. \xf000븁\x0000
-Möchtest du den Kampf \xfffeabbrechen？
-Breche Kampf ab. \xfffeBitte warte einen Augenblick...
-\xf000Ā\x0001\x0000の　Trainerpass\xfffewurde gezeigt！
+Bitte nehme deine Position ein,\xfffeum den Kampf zu beginnen.
+Bitte warte einen Augenblick...\xfffeDrücke B, um abzubrechen
+Nun wähle die \xfffe3 teilnehmenden Pokémon aus. \xf000\x0000
+Nun wähle die \xfffe4 teilnehmenden Pokémon aus. \xf000\x0000
+Nun wähle die \xfffe6 teilnehmenden Pokémon aus. \xf000\x0000
+Möchtest du den Kampf\xfffeabbrechen？
+Breche Kampf ab.\xfffeBitte warte einen Augenblick...
+\xf000Ā\x0001\x0000 zeigt dir seinen\xfffeTrainerpass！
