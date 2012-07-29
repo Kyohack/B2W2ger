@@ -1,13 +1,13 @@
-ベル『では　ポケモンセンターの\xfffeあんないを　するね！\xf000븁\x0000
-ポケモンセンターは　タダで\xfffeポケモンの　かいふくが　できるの！\xf000븁\x0000\xfffeポケモンが　よわったら\xfffeえんりょなく　あずけると　いいよ！\xf000븁\x0000
-ポケモンの　かいふくを　するから\xfffeボールを　ちょっと　かして\xf000븁\x0000
-つぎは　パソコンの　せつめいね！\xf000븁\x0000
-この　しかくいのが　パソコン！\xfffeトレーナーなら　だれでも　つかえるの\xf000븁\x0000\xfffeつれている　ポケモンを　あずけたり\xf000븁\x0000\xfffeぎゃくに　パソコンに　あずけた\xfffeポケモンを　ひきだせるんだよ！\xf000븁\x0000
-つぎは　あっち！\xf000븁\x0000
-ここは　フレンドリィショップ！\xf000븁\x0000\xfffeいろんな　どうぐを\xfffeかったり　うったりできるの！\xf000븁\x0000\xfffeポケモンを　つかまえるときに\xfffeつかう　モンスターボールも\xf000븀\x0000\xfffeフレンドリィショップで　かえるんだよ！\xf000븁\x0000
-それでは　\xf000Ā\x0001\x0000くんに\xfffeモンスターボールを　プレゼント！\xf000븁\x0000
-それでは　\xf000Ā\x0001\x0000さんに\xfffeモンスターボールを　プレゼント！\xf000븁\x0000
-ベル『つぎは！\xf000븁\x0000\xfffeいま　あげた　モンスターボールの\xfffeつかいかたを　せつめい　するね！\xf000븀\x0000\xfffeあたしに　ついてきて！\xf000븁\x0000
-あら？\xfffe\xf000Ā\x0001\x0000の　\xf000ā\x0001\x0001……\xf000븁\x0000
-せいかくは　\xf000Ĉ\x0001\x0002……！\xf000븁\x0000\xfffeその　ポケモンと　いっしょなら\xfffeおもしろい　たびが　できそうね！
-よう！　ポケモンセンターに\xfffeいりびたりの　オレから　アドバイス！\xf000븁\x0000\xfffeポケモンの　たいりょくが　へったら\xfffeとにかく　かいふく　させるんだぞ！
+Da hier ist das Pokémon Center.\xfffeIch führ dich mal herum!\xf000븁\x0000
+Das Pokémon Center ist eine\xfffekostenlose Möglichkeit,\xfffeum deine Pokémon zu heilen.\xf000븁\x0000\xfffeWenn deine Pokémon schwächeln,\xfffezögere nicht, hierher zu kommen!\xf000븁\x0000
+Du kannst dich auf mich verlassen,\xfffewenn deine Pokémon geheilt\xfffewerden sollen!\xf000븁\x0000
+Und das ist der PC!\xf000븁\x0000
+Jeder Trainer kann ihn benutzen.\xfffeHier kannst du deine Pokémon\xfffeablagern und ein anderes\xfffemitnehmen.\xf000븁\x0000\xfffeWenn dein Team voll ist und du\xfffeein neues Pokémon fängst, wird es\xfffeautomatisch hierher gesendet.\xf000븁\x0000
+Begleite mich noch\xfffehier hin.\xf000븁\x0000
+Das hier ist der Supermarkt.\xf000븁\x0000\xfffeHier werden verschiedene Items\xfffeverkauft, die dir auf\xfffedeiner Reise helfen können.\xf000븁\x0000\xfffeDu kannst hier nicht nur\xfffeItems kaufen, sondern auch\xfffeverkaufen!\xf000븀\x0000\xfffeUnteranderem kannst du hier\xfffe auch Pokébälle kaufen,\xfffeum neue Pokémon zu fangen.\xf000븁\x0000\xfffeWie auch immer, hier hast\xfffedu einen kleinen Startbonus.\xf000븁\x0000
+Das hier \xf000Ā\x0001\x0000\xfffeist ein Geschenk von mir für dich!\xf000븁\x0000
+Das hier \xf000Ā\x0001\x0000\xfffeist ein Geschenk von mir für dich!\xf000븁\x0000
+Ich werde dir später erklären,\xfffe wie man Pokémon fängt.\xf000븁\x0000\xfffeIch geh dann mal nach draußen,\xfffeaber guck dich ruhig noch ein\xfffeBisschen um und komm raus, wenn du\xfffehier fertig bist.\xf000븀\x0000
+Oh？\xfffe\xf000Ā\x0001\x0000, dein \xf000ā\x0001\x0001 sieht einsam aus...\xf000븁\x0000
+Oh, dein Pokémon hat ein \xf000Ĉ\x0001\x0002 Wesen！\xf000븁\x0000
+Das ist das Pokémon Center.\xfffeWenn deine Pokémon schwach sind,\xf000븁\x0000\xfffebring sie hierher, damit sie sich erholen\xfffekönnen.
