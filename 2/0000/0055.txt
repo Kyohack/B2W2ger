@@ -1,46 +1,46 @@
-\xf000Ā\x0001\x0000のせかい　と　\xfffeせつぞく　しました！
-\xf000Ā\x0001\x0000のせかい　と　\xfffeせつぞく　しました！
-\xf000Ā\x0001\x0000のせかい　と　\xfffeせつぞく　しました！
-\xf000Ā\x0001\x0000のせかい　と　\xfffeせつぞく　しました！
-\xf000Ā\x0001\x0000が　ハイリンクに　います
-\xf000Ā\x0001\x0001が　ハイリンクに　います
-\xf000Ā\x0001\x0002が　ハイリンクに　います
-\xf000Ā\x0001\x0003が　ハイリンクに　います
-\xf000Ā\x0001\x0000のせかいに\xfffeはいることが　できます
-\xf000Ā\x0001\x0000のせかいに\xfffeはいることが　できます
-\xf000Ā\x0001\x0000のせかいに\xfffeはいることが　できます
-\xf000Ā\x0001\x0000のせかいに\xfffeはいることが　できます
-\xf000Ā\x0001\x0000が　ハイリンクに　もどりました
-\xf000Ā\x0001\x0001が　ハイリンクに　もどりました
-\xf000Ā\x0001\x0002が　ハイリンクに　もどりました
-\xf000Ā\x0001\x0003が　ハイリンクに　もどりました
-\xf000Ā\x0001\x0000が　ハイリンクから　ぬけました
-\xf000Ā\x0001\x0001が　ハイリンクから　ぬけました
-\xf000Ā\x0001\x0002が　ハイリンクから　ぬけました
-\xf000Ā\x0001\x0003が　ハイリンクから　ぬけました
-つうしんを　しゅうりょう　します
+Verbunden mit\xfffe\xf000\x0100\x0001\x0000s Welt!
+Verbunden mit\xfffe\xf000\x0100\x0001\x0000s Welt!
+Verbunden mit\xfffe\xf000\x0100\x0001\x0000s Welt!
+Verbunden mit\xfffe\xf000\x0100\x0001\x0000s Welt!
+\xf000\x0100\x0001\x0000 ist in der Kontaktebene.
+\xf000\x0100\x0001\x0001 ist in der Kontaktebene.
+\xf000\x0100\x0001\x0002 ist in der Kontaktebene.
+\xf000\x0100\x0001\x0003 ist in der Kontaktebene.
+Möglich \xfffe\xf000\x0100\x0001\x0000s Welt zu betreten.
+Möglich \xfffe\xf000\x0100\x0001\x0000s Welt zu betreten.
+Möglich \xfffe\xf000\x0100\x0001\x0000s Welt zu betreten.
+Möglich \xfffe\xf000\x0100\x0001\x0000s Welt zu betreten.
+\xf000\x0100\x0001\x0000 kehrte zur Kontaktebene zurück.
+\xf000\x0100\x0001\x0001 kehrte zur Kontaktebene zurück.
+\xf000\x0100\x0001\x0002 kehrte zur Kontaktebene zurück.
+\xf000\x0100\x0001\x0003 kehrte zur Kontaktebene zurück.
+\xf000\x0100\x0001\x0000 verließ die Kontaktebene.
+\xf000\x0100\x0001\x0001 verließ die Kontaktebene
+\xf000\x0100\x0001\x0002 verließ die Kontaktebene.
+\xf000\x0100\x0001\x0003 verließ die Kontaktebene.
+Verbindung wird unterbrochen.
 \xf000Ā\x0001\x0000が　まちに　きました！
 \xf000Ā\x0001\x0001が　まちに　きました！
 \xf000Ā\x0001\x0002が　まちに　きました！
 \xf000Ā\x0001\x0003が　まちに　きました！
-\xf000Ā\x0001\x0000の　ハイリンクに　います
-\xf000Ā\x0001\x0001の　ハイリンクに　います
-\xf000Ā\x0001\x0002の　ハイリンクに　います
-\xf000Ā\x0001\x0003の　ハイリンクに　います
-\xf000Ā\x0001\x0000が　\xf000Ā\x0001\x0001の\xfffeハイリンクに　はいりました
-\xf000Ā\x0001\x0000が\xfffeじぶんのハイリンクに　もどりました
-\xf000Ā\x0001\x0000のせかい　と　\xfffeせつぞく　しました！
-\xf000Ā\x0001\x0000は　もとのせかいに\xfffeかえっていきました
-まもなく　ミッションを　かいしします\xfffeさんかしゃは　さんかを　おしてください
-まもなく　ミッションを　かいしします\xfffeしばらく　おまちください
+In \xf000\x0100\x0001\x0000s Kontaktebene.
+In \xf000\x0100\x0001\x0001s Kontaktebene.
+In \xf000\x0100\x0001\x0002s Kontaktebene.
+In \xf000\x0100\x0001\x0003s Kontaktebene.
+\xf000\x0100\x0001\x0000 betrat\xfffe\xf000\x0100\x0001\x0001s Kontaktebene.
+\xf000\x0100\x0001\x0000 kehrten\xfffezur eigenen Kontaktebene zurück.
+Verbunden mit\xfffe\xf000\x0100\x0001\x0000s Welt!
+\xf000\x0100\x0001\x0000 kehrten\xfffezur eigenen Welt zurück.
+Mission beginnt in Kürze.\xfffeTeilnehmer bitte bestätigen.
+Mission beginnt in Kürze.\xfffeBitte warte einen Augenblick.
 Scheint beschäftigt mit einer Mission zu sein...
 Die Mission wurde abgeschlossen.
 Die Mission schlug fehl...
 \xf000Ā\x0001\x0000は　\xf000Ā\x0001\x0001の\xfffeハイリンクから　デルパワーをもらった
 \xf000Ā\x0001\x0000は　じぶんの\xfffeハイリンクから　デルパワーをもらった
-このばしょには\xfffe\xf000Ā\x0001\x0000が　います
-\xf000Ā\x0001\x0000のせかい　と\xfffeせつぞくちゅう……　おまちください
-\xf000Ā\x0001\x0000と　\xf000Ā\x0001\x0001のせかい　と\xfffeせつぞくちゅう……　おまちください
+\xf000\x0100\x0001\x0000 ist\xfffein diesem Gebiet.
+Verbinden mit \xf000\x0100\x0001\x0000s Welt...\xfffeBitte warten.
+\xf000\x0100\x0001\x0000 und \xf000\x0100\x0001\x0001s\xfffeWelten verbinden... Bitte warten.
 「↑」　\xf000Ā\x0001\x0000は　このばしょの\xfffe　　　　おくのほうに　います！
 「↓」　\xf000Ā\x0001\x0000は　このばしょの\xfffe　　　　てまえのほうに　います！
 「→」　\xf000Ā\x0001\x0000は　このばしょの\xfffe　　　　みぎのほうに　います！
@@ -65,9 +65,9 @@ Auf einer Mission
 \xf000Ā\x0001\x0000のせかいに　あそびにきています
 \xf000Ā\x0001\x0000のせかいに　あそびにきています
 \xf000Ā\x0001\x0000のせかいに　あそびにきています
-タッチをすると　ハイリンクにいけます
+Berühre um die Kontaktebene zu besuchen.
 Eigene Welt
-\xf000Ā\x0001\x0000のせかい
+\xf000\x0100\x0001\x0000S WELT
 Beitreten
 Zurück
 だれとも　つながっていないので\xfffeこれいじょう　すすめません
