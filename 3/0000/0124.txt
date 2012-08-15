@@ -1,19 +1,19 @@
-ポケモンを　げんきにする\xfffeふしぎな　かんぽうやく　あるよ\xf000븁\x0000
-がいこくから　とりよせた\xfffeかんぽうやくは　ききめ　バッチリ！\xf000븁\x0000\xfffeだけど　ちょっぴり　にがいから\xfffeポケモン　いやがっちゃうみたいなの
-いらっしゃいませ！\xfffeさんちちょくそう　でーす！\xf000븁\x0000\xfffeモーモーミルク　いっぽん　５００円\xfffeたびのおともに　いかがですか？
-モーモーミルク　どうぞ！\xf000븁\x0000
-あらららら！\xfffeバッグが　いっぱいですね！
-あらららら！\xfffeおかねが　たりないですね！
-また　こんど\xfffeかってくださいね！\xf000븁\x0000\xfffeちなみに　うちの　モーモーミルクは\xfffeさんち　ちょくそう\xf000븀\x0000\xfffeしぼりたて　しんせん　なんですよ！
-１ダース　１２ほんの\xfffeモーモーミルク　どうぞです！\xf000븁\x0000
-１ほん
-１ダース
-いらない
-……ごめんね\xf000븁\x0000\xfffeチャールズって　ヤツが\xfffeぜーんぶ　かってっちゃったの
-あなたー　よくきたー！\xfffeいいもの　ほしいかー？
-だったら　レベル３０いじょうの\xfffeポケモン　みせてくれー！\xf000븁\x0000
-おー！　もーれつ！\xf000븁\x0000\xfffeあなた　すごいねー！\xf000븁\x0000\xfffeこれ　もってけー！\xf000븁\x0000
-おー！　まだまだ　これからー！\xf000븁\x0000\xfffeポケモン　きたえたら\xfffeまた　ここに　くると　いいー！
+Es gibt medizinische Kräuter,\xfffedie Pokémon genesen können.\xf000\xbe01\x0000
+Diese medizinischen Kräuter wurden aus\xfffeeiner anderen Region importiert und funktionieren zwar,\xf000\xbe01\x0000\xfffedoch die Pokémon scheinen sie nicht\xfffezu mögen, weil sie etwas bitter schmecken.
+Willkommen! Das kommt direkt von der Farm!\xf000\xbe01\x0000\xfffeKuhmuh-Milch-- $500 die Flasche.\xfffeWillst du welche für unterwegs kaufen?
+Hier! Deine Kuhmuh-Milch!\xf000\xbe01\x0000
+Oh, nein!\xfffeDeine Tasche ist voll!
+Oh, nein!\xfffeDu hast nicht genug Geld!
+Bitte kaufe bald mal welche!\xf000\xbe01\x0000\xfffeWie du weist kommt\xfffeunsere Kuhmuh-Milch direkt von der Farm.\xf000\xbe01\x0000\xfffeSie ist sehr erfrischend!
+Ein dutzend! 12 Flaschen also.\xfffeHier ist deine Kuhmuh-Milch!\xf000\xbe01\x0000
+Eine Flasche
+Ein Dutzend
+Nein danke!
+Das tut mir so Leid. \xfffeEs ist alles ausverkauft.\xf000\xbe01\x0000\xfffeDieser Charles hat\xfffealles gekauft, was ich hatte.
+Du! Gut, dass du gekommen bist!\xfffeWas willst du  Feines?
+Also, zeig mir ein Pokémon mit Lvl 30 oder höher!\xf000\xbe01\x0000
+Oh! Stark!\xf000\xbe01\x0000\xfffeDu bist großartig!\xfffeNimm dies!\xf000\xbe01\x0000
+Oh! Du bist bis jetzt noch nicht so gut!\xf000\xbe01\x0000\xfffeNachdem du deine Pokémon ,\xfffeweiter trainiert hast, komm wieder!
 あなたー　ひかえめー！\xfffeいいもの　ほしがれば　いいのにー！
 あなたー　よくきたー！\xfffeたつじんのおび　つかいこなせー！\xf000븁\x0000\xfffeたつじんのおび　もっていると\xfffeこうかバツグンの　ときに\xf000븀\x0000\xfffeちょっと　いりょく　あがるー！
 なんでも　ゆにゅう　して\xfffeいつでも　モノが　そろっている\xf000븀\x0000\xfffeきっと　べんりな　まちが　あるわ
