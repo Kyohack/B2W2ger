@@ -110,8 +110,8 @@ Nr.
 ATTACKEN
 JA
 NEIN
-ボックスを　せいりする
-バトルボックス
+Pokémon bewegen
+Kampfbox
 ポケモンを　しぼりこむ
 じょうけんを　えらび　ＯＮに　すると\xfffeしぼりこみを　おこないます。
 ポケモンの　なまえの\xfffeかしらもじを　えらんでください。
