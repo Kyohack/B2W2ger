@@ -1,6 +1,6 @@
 Szenario
 Aufnahme　０１
-Aufnahme ０２
+Aufnahme  ０２
 Aufnahme　０３
 Aufnahme　０４
 Aufnahme　０５
