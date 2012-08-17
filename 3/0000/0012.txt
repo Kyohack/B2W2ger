@@ -1,13 +1,13 @@
-Die Pokémon können ebenfalls das\xfffeköstliche Restaurant hier geniessen!\xf000븁\x0000
+Die Pokémon können ebenfalls die\xfffeköstlichen Restaurants hier geniessen!\xf000븁\x0000
 Oh!!\xfffeEin glänzender Orden!!\xf000븁\x0000\xfffeDas sind wohl 8 Stück! Die müssen sicher\xfffevor Grossartigkeit strahlen!
 Die Arenaleiter von Orion City fordern\xfffe niemanden mehr heraus...\xf000븁\x0000\xfffeWas mich betrifft.\xf000븁\x0000\xfffeIch bin hier um die Leute zu begrüssen\xfffeund die Trainer darüber zu informieren.
 Wenn der Typ des Pokémon\xfffeund seine Attacken gleichen,\xf000븀\x0000\xfffedann steigt seine Kraft!\xf000븁\x0000\xfffeDas ist einer der Hauptjuwelen in Kämpfen!
 Die Traumbrache diente als\xf000븀\x0000\xfffeLabor für Traumexperimente.\xf000븁\x0000\xfffeAber jetzt ist es nur noch\xfffeeine Müllhalde.
 Ich werde jetzt mein Wissen über\xfffePokémon in der Schule telien!
 TMs und VMs haben interessante Attacken!\xf000븁\x0000\xfffeIch probiere diese aus,\xfffesoblad ich kann!
-Nun...\xf000븁\x0000\xfffeDa Pokémon vom Typ Pflanze\xfffeschwach gegenüber Feuerattacken sind...\xf000븁\x0000\xfffehat Benny keine Chance für Maik.
-Nun...\xf000븁\x0000\xfffeDa Pokémon vom Typ Wasser\xfffeschwach gegenüber Pflanzenattacken sind...\xf000븁\x0000\xfffehat Colin keine Chance für Benny.
-Nun...\xf000븁\x0000\xfffeDa Pokémon vom Typ Feuer\xfffeschwach gegenüber Wasserattacken sind...\xf000븁\x0000\xfffehat Maik keine Chance für Colin.
+Nun...\xf000븁\x0000\xfffeDa Pokémon vom Typ Pflanze\xfffeschwach gegenüber Feuerattacken sind...\xf000븁\x0000\xfffehat Benny keine Chance gegen Maik.
+Nun...\xf000븁\x0000\xfffeDa Pokémon vom Typ Wasser\xfffeschwach gegenüber Pflanzenattacken sind...\xf000븁\x0000\xfffehat Colin keine Chance gegen Benny.
+Nun...\xf000븁\x0000\xfffeDa Pokémon vom Typ Feuer\xfffeschwach gegenüber Wasserattacken sind...\xf000븁\x0000\xfffehat Maik keine Chance gegen Colin.
 Trainer der Arena\xfffekamen in die Traumbrache\xf000븀\x0000\xfffeum intensiv zu trainieren.
 Uff..\xfffeDas ist für dich.\xf000븁\x0000
 Meine Vorstellungen und Ideale\xfffestecken in meiner Fangtechnik...
@@ -20,7 +20,7 @@ Die pinke Medallie\xfffezeigt dass Unterhaltung und Anziehungskraft\xf000븁\x00
 Die lilafarbene Medallie\xfffescheint im Glanz der Herausforderungen,\xf000븁\x0000\xfffedie man ins Auge blicken musste!\xf000븁\x0000\xfffeSchwierige Kaempfe werden uns\xfffeimmer durch das Leben begleiten!
 Die silberne Medallie\xfffewählt einen Speziellen aus.\xf000븁\x0000\xfffeSeinen eigenen Individuellen!\xf000븁\x0000\xfffeMit jeder Besonderheit...\xfffeEs gibt viele Besondere!
 Sommernachtsbrisen sind\xfffedas Beste in der Gegend.
-+Flunschliks sind soeben im Teich\xfffegesichtet worden.
+Flunschliks sind soeben im Teich\xfffegesichtet worden.
 In der Gegend wird eine\xfffeFlunschliknacht stattfinden.\xf000븀\x0000\xfffeHier in Orion City!\xf000븁\x0000\xfffeKümmer dich nicht darum,\xfffewenn du auf sie stehst.
 Gyo-gyo-!?!
 no data
