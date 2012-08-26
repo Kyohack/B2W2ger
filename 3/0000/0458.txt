@@ -1,9 +1,9 @@
-はい　はい！\xfffeわたしは　せいめい　はんだんし\xf000븁\x0000\xfffeはい　はい！　あなたの　ポケモンの\xfffeニックネームを　うらなって　あげるよ
-どの　ポケモンの\xfffeニックネームを　うらなうかね？\xf000븁\x0000
-うーむ\xfffe\xf000Ă\x0001\x0000か……\xf000븁\x0000\xfffeなかなか　きみらしい\xfffeいい　ニックネームを　つけたね\xf000븁\x0000\xfffeでもねー\xfffeもう　すこしだけ　いい　なまえを\xf000븀\x0000\xfffeわたしが　つけて　あげようか？
-うむ　それでは\xfffeどんな　ニックネームに　しようかな\xf000븁\x0000
-よし！　これから\xfffeこの　ポケモンは　\xf000Ă\x0001\x0000だ！\xf000븁\x0000\xfffeまえより　いい　なまえ　じゃないか\xfffeよかったな！
-そうか\xfffeわかった　また　きなさいよ
-よし　これから\xfffeこの　ポケモンは　\xf000Ă\x0001\x0000だ！\xf000븁\x0000\xfffeまえと　おなじように　みえるが\xfffeこっちの　ほうが　ナイス　だぞ！\xf000븀\x0000\xfffeよかったな！
-うーむ\xfffe\xf000Ă\x0001\x0000か！\xf000븁\x0000\xfffeこれは　けちの　つけようもない\xfffeすばらしい　ニックネームだ！\xf000븁\x0000\xfffeこれからも　\xf000Ă\x0001\x0000を\xfffeかわいがって　あげなさいよ！
-おいおい……\xfffeそれは　タマゴ　じゃないか！
+Hallo, hallo!\xfffeIch bin der offizielle Namensbewerter!\xf000\xbe01\x0000\xfffeWillst du, dass ich den\xfffeSpitznamen deines Pokémons bewerte?
+Welchen Pokémon Spitznamen\xfffesoll ich bewerten?\xf000\xbe01\x0000
+Hmmm. \xf000\x0102\x0001\x0000, ist es?\xf000\xbe01\x0000\xfffeDas klingt gut! Das ist eine besonders starke "Du"\xfffeForm eines Namens.\xf000\xbe01\x0000\xfffeAber wenn du ihn ändern willst kann ich\xfffedir helfen das zu tun. Wie wärs?
+Fantastisch! Wie soll der\xfffeneue Spitzname lauten?\xf000\xbe01\x0000
+Fertig! Ab jetzt heißt den Pokémon\xfffe\xf000\x0102\x0001\x0000!\xf000\xbe01\x0000\xfffeDu hast recht, das klingt\xfffebesser. Gute Arbeit!
+OK! Komm wieder, wenn du deine\xfffeMeinung geändert hast.
+Fertig! Ab jetzt heißt den Pokémon\xfffe\xf000\x0102\x0001\x0000!\xf000\xbe01\x0000\xfffeDas unterscheidet sich zwar nicht,\xfffeaber wir beide wissen das dieser Name perfekt ist!\xf000\xbe00\x0000\xfffeWie günstig für dich!
+Hmmm. \xf000\x0102\x0001\x0000!\xfffeDas ist ein tadelloser Spitzname!\xf000\xbe01\x0000\xfffePass gut auf \xf000\x0102\x0001\x0000 auf!
+Jetzt, Jetzt...\xfffeDas ist bloß ein Ei!
