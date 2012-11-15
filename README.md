@@ -17,7 +17,7 @@ Thechandrians [inactive]
 
 Special thanks to Thechandrians.
 
-Thread: http://pokestation.net/forum/showthread.php?14123-Translation-project-for-Pok%E9mon-Black2-amp-White2
+Thread: http://pokecheats.net/forum/showthread.php?14123-Translation-project-for-Pok%E9mon-Black2-amp-White2
 ________________
 [MotD] - Short announcement
 ======
